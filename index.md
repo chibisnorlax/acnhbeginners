@@ -10,4 +10,6 @@ A walkthrough guide to help you out in the first few days!
 {: .note }
 This guide is incomplete!
 
-Blah blah blah {: .icon-switch } This is a switch2.
+Blah blah blah 
+{: .icon-switch } 
+This is a switch.
