@@ -14,4 +14,4 @@ Blah blah blah
 {: .icon-switch } 
 This is a switch.  
 
-<i class="icon-switch"></i> test
+<i class="icon-switch"></i> test2
