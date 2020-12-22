@@ -1,1 +1,1 @@
-#Animal Crossing: New Horizons Beginner's Guide
+# for da newbies :D
