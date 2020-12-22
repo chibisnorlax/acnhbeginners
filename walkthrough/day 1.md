@@ -18,7 +18,7 @@ nav_order: 1
   - Southern Hemisphere: Australia, Argentina, Bolivia, Chile, Paraguay, Peru, Uruguay etc
   - Northern hemisphere: Northern part of South America, Europe, the northern two-thirds of Africa and most of Asia
 - Which hemisphere is the better one to choose?
-  - That's your opinion! Bothe hemisphere's receive the same events and characters just different seasons!
+  - That's your opinion! Both hemisphere's receive the same events and characters just different seasons!
   
 
 |Northern     |Southern     |
