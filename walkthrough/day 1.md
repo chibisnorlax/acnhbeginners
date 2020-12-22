@@ -32,6 +32,7 @@ Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you w
   - Both hemispheres receive the exact same events, items, and characters, just during different seasons. We recommend choosing the hemisphere you live in.
 
 Hemisphere Season Correlation 
+
 | Northern | Southern |
 |:--------:|:--------:|
 |  Summer  |  Winter  |
