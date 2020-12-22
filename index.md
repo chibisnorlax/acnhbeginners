@@ -12,4 +12,6 @@ This guide is incomplete!
 
 Blah blah blah 
 {: .icon-switch } 
-This is a switch.  <i class="icon-switch"></i>
+This is a switch.  
+
+<i class="icon-switch"></i> test

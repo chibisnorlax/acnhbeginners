@@ -6,8 +6,8 @@
 
 @font-face {
   font-family: "ac-icons";
-  src:  url('acnhbeginners/assets/fonts/ac-icons.woff2') format('woff2'),
-        url('acnhbeginners/assets/fonts/ac-icons.woff') format('woff');
+  src:  url('/assets/fonts/ac-icons.woff2') format('woff2'),
+        url('/assets/fonts/ac-icons.woff format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -72,7 +72,7 @@ tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
-.icon-switch::after {
+.icon-switch::before {
   content: "\e121";
   font-family: "ac-icons";
 }
