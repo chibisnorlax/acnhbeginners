@@ -5,7 +5,7 @@ parent: walkthrough
 nav_order: 1
 ---
 
-# Day 1!
+# Day 1
 1. Choose an Island!
 - Choose an island layout! There are many to pick from but you only get a set of 4 at first!
 - Don't like any of those?
