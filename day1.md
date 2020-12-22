@@ -12,6 +12,8 @@
   - Northern hemisphere: Northern part of South America, Europe, the northern two-thirds of Africa and most of Asia
 - Which hemisphere is the better one to choose?
   - That's your opinion! Bothe hemisphere's receive the same events and characters just different seasons!
+  
+
 |  northern | southern  | 
 |---|---|---|---|---|
 |   |   |   |   |   |
