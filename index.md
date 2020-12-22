@@ -13,5 +13,5 @@ This guide is incomplete!
 <i class="icon-switch">switch</i>
 
 test
-{: .icon-switch} test
+{: .icon-switch } test
 test
