@@ -7,14 +7,14 @@ nav_order: 1
 
 # Day 1
 
-![Timmy Tommy Welcome](acnhbeginners/assets/tt_welcome.jpg)
+![Timmy Tommy Welcome](/acnhbeginners/assets/tt_welcome.jpg)
 
 ## Setup
 Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you with setting up your island. They will walk you through the following steps:
 
 ### Choosing an island layout
 
-![Map Layout](acnhbeginners/assets/tt_maps.jpg)
+![Map Layout](/acnhbeginners/assets/tt_maps.jpg)
 
 - There will be 4 to pick from.
   - *Note:* If you do not like any of these options, feel free to quit the game and restart it! 4 new options will appear. You can continue to do this until you find a layout you are happy with.
@@ -22,7 +22,7 @@ Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you w
 
 ### Choosing your hemisphere
 
-![Hemispheres](acnhbeginners/assets/hemispheres.png)
+![Hemispheres](/acnhbeginners/assets/hemispheres.png)
 
 - Your **hemisphere** is the half of the Earth you live on in relation to the equator. The half above the equator is called the "Northern Hemisphere" and the half below the equator is called the "Southern Hemisphere"
 - If you don't know your hemisphere, search it up on Google! Here are some examples:
