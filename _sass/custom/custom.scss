@@ -64,26 +64,14 @@ tr:nth-child(even) {
 }
 
 @font-face {
-  font-family: 'ac-icons';
-  src: url('/assets/fonts/ac-icons.woff2') format('woff2'),
-      url('/assets/fonts/ac-icons.woff') format('woff');
+  font-family: "ac-icons";
+  src:  url('/assets/fonts/ac-icons.woff2') format('woff2'),
+        url('/assets/fonts/ac-icons.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
-[class^="icon-"]::before, [class*=" icon-"]::before {
-  font-family: "ac-icons" !important;
-  speak: none;
-  font-style: normal;
-  font-weight: inherit;
-  font-variant: normal;
-  text-transform: none; 
-  line-height: inherit;
-  
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-}
 
-.icon-switch:before {
+.icon-switch {
   content: "\e121";
 }
