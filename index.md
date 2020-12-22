@@ -1,3 +1,2 @@
 # for da newbies :D
-## week 1!
-# day 1
+a walkthrough guide to help you out in the first few weeks!
