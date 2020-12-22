@@ -72,7 +72,7 @@ tr:nth-child(even) {
   background-color: #f2f2f2;
 }
 
-.icon-switch {
+.icon-switch::after {
   content: "\e121";
   font-family: "ac-icons";
 }
