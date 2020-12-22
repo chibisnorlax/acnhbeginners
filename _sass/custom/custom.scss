@@ -6,7 +6,7 @@
 
 @font-face {
   font-family: "ac-icons";
-  src:  url('/assets/fonts/') format('woff2'),
+  src:  url('/assets/fonts/ac-icons.woff2') format('woff2'),
         url('/assets/fonts/ac-icons.woff') format('woff');
   font-weight: normal;
   font-style: normal;
@@ -70,9 +70,4 @@ blockquote.note {
 
 tr:nth-child(even) {
   background-color: #f2f2f291;
-}
-
-.icon-switch {
-  content: "/e121";
-  font-family: "ac-icons";
 }

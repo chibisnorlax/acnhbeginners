@@ -10,6 +10,8 @@ A walkthrough guide to help you out in the first few days!
 {: .note }
 This guide is incomplete!
 
-Blah blah blah {: .icon-switch } This is a switch.  
+<i class="icon-switch">switch</i>
 
-<i class="icon-switch"></i> test23
+test
+{: .icon-switch} test
+test
