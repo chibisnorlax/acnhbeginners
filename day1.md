@@ -14,8 +14,9 @@
   - That's your opinion! Bothe hemisphere's receive the same events and characters just different seasons!
   
 
-|  northern | southern  | 
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+| northern  | southern  |
+|-----------|-----------|
+|  summer   |  winter   |
+|fall/autumn| spring    |
+|  winter   |  summer   |
+|  spring   |fall/autumn|
