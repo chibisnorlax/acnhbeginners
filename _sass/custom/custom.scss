@@ -4,15 +4,6 @@
 	padding: 0.5em;
 }*/
 
-@font-face {
-  font-family: "ac-icons";
-  src:  url('/assets/fonts/ac-icons.woff2') format('woff2'),
-        url('/assets/fonts/ac-icons.woff') format('woff');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
 .admonition {
   border-left: $border-radius solid nth($blue-300, 1);
   border-radius: $border-radius;
@@ -72,7 +63,13 @@ tr:nth-child(even) {
   background-color: #f2f2f291;
 }
 
-.icon-switch {
-  content: "\e0a0";
-  font-family: "ac-fonts";
+@font-face {
+  font-family: "ac-icons";
+  src:  url('/assets/fonts/ac-icons.woff2') format('woff2'),
+        url('/assets/fonts/ac-icons.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
+
+.icon-switch { content: "\e0a0"; }
