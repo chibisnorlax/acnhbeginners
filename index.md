@@ -12,4 +12,4 @@ This guide is incomplete!
 
 Blah blah blah 
 {: .icon-switch } 
-This is a switch.
+This is a switch.  <i class="icon-switch"></i>
