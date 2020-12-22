@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Day 1
-parent: walkthrough
+parent: Walkthrough
 nav_order: 1
 ---
 
