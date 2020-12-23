@@ -62,3 +62,18 @@ blockquote.note {
 tr:nth-child(even) {
   background-color: #f2f2f291;
 }
+
+@font-face {
+  font-family: 'parkextr';
+  src: url('/assets/fonts/ac-icons-webfont.woff2') format('woff2'),
+       url('/assets/fonts/ac-icons-webfont.woff') format('woff'),
+       url('/assets/fonts/ac-icons.ttf') format('ttf');
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+.icon-switch {
+  font-family: 'parkextr';
+  content: "\e121";
+}
