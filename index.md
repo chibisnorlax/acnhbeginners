@@ -12,7 +12,7 @@ This guide is incomplete!
 
 Test {: .icon-switch }
 
-<i class="icon-switch"></i>
+<i class="icon-switch">test</i>
 
 test 2
 {: .icon-switch }
