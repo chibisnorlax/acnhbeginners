@@ -97,7 +97,7 @@ After you have setup most the steps above with Timmy and Tommy you are now sent 
 - You can try and earn some nook miles! Remember you need to pay 5,000 nook miles to Tom Nook!
   - *Tip: Go to your Nook phone (by pressing "ZL") then click the **nook miles redemption** app! It will show you some acheivments you may be able to complete!*
   
-### Comnpleted:
+### Completed:
 - Met Timmy and Tommy!
 - Met Tom Nook!
 - Made a **Flimsy net** and a **Flimsy fishing rod**
