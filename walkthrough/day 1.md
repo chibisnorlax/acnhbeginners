@@ -46,7 +46,7 @@ Hemisphere Season Correlation:
 ## Arriving at your island!
 After you have setup most the steps above with Timmy and Tommy you are now sent on the plane to your island! See below for the next steps:
 
-## Meet the new NPC's!
+### Meet the new NPC's!
 - Tom Nook
 - 2 villagers (see below for more information )
 
