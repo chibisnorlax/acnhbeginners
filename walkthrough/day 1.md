@@ -80,3 +80,8 @@ After you have setup most the steps above with Timmy and Tommy you are now sent 
 ### Tools
 - Tom Nook will give you the DIY recipes for flimsy tools. Gather materials to craft them.
   - To view which materials you need click "ZL" to open your nookphone. Then click the DIY app *need to check this* and you can look at the materials needed for the DIY's!
+- Make sure to craft the **Flimsy fishing rod** and a **Flimsy bug net**
+
+### Unique critter collection!
+- Now you need to collect 5 different critters! If you find a bug hopping around, crawling on teh flooor, flying in the sky then use your net!
+  - To use your net hold it! You can press "x" to open your pockets! There you can click "A" on your net to hold it! Then press "B" to come out of the screen for your pockets
