@@ -96,3 +96,11 @@ After you have setup most the steps above with Timmy and Tommy you are now sent 
 ### What else can I do today?
 - You can try and earn some nook miles! Remember you need to pay 5,000 nook miles to Tom Nook!
   - *Tip: Go to your Nook phone (by pressing "ZL") then click the **nook miles redemption** app! It will show you some acheivments you may be able to complete!*
+  
+### Comnpleted:
+- Met Timmy and Tommy!
+- Met Tom Nook!
+- Made a **Flimsy net** and a **Flimsy fishing rod**
+- Collected 5 uniquie critters
+- Set up Blather's Museum!
+- Gotten the **Axe DIY** and the **watering can** DIY's
