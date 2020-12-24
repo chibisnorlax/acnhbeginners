@@ -21,7 +21,7 @@ Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you w
 - This step is important as it determines a couple of permanent (unchangeable) fixtures on your island: Resident Services (leaf icon), estuaries, the airport, and your "secret" (Northern) beach. 
 
 
-**maybe we should add an image here for the permanant ones?**
+*maybe we should add an image here for the permanant ones?*
 
 ### Choosing your hemisphere
 
@@ -46,9 +46,13 @@ Hemisphere Season Correlation:
 ## Arriving at your island!
 After you have setup most the steps above with Timmy and Tommy you are now sent on the plane to your island! See below for the next steps:
 
+## Meet the new NPC's!
+- Tom Nook
+- 2 villagers (see below for more information )
+
 ### Meeting the first residents!
 
-- You will meet your first residents on the island. These can be different for everyone! One of them will be a "jock" villager. Another will be a "sisterly/uchi" villager.
+- You will meet your first residents (villagers) on the island. These can be different for everyone! One of them will be a "jock" villager. Another will be a "sisterly/uchi" villager.
 *add a list of jocks and sisterly/uchi villagers*
 
 ### Set up your tent!
@@ -58,3 +62,21 @@ After you have setup most the steps above with Timmy and Tommy you are now sent 
 - After placing your tent go talk to your villagers. They will ask you help in placing their tent. You have 2 options there 1. "looks good there" and 2. "i'll choose a place for you".
   - Option 1: Places your villagers tent where they had planned it to be!
   - Option 2: This gives you their tent kit and you can place it where you would like!
+
+### Collect materials!
+- Tom nook will give you some tasks to learn how to gather materials! You will need to collect tree branches and fruit!
+  - Press "A" when you are near a tree to shake it! If there are fruit on the tree then fruit will fall down and if there isn't then branches will!
+  - A tree with fruit can also drop branches! You need to shake the tree more than once though and it will also drop it's fruit!
+*fruit pics here?*
+
+### Party time!
+- After completing the objectives there is a party being held! You can have some fun there and then go to bed!
+*I need to add more here*
+
+### Syncing to real time
+- After you have fallen asleep you are now going to be synced to your timezone! Make sure you have set the correct time on your switch settings! (Go out of the game --> settings --> time and date) *i need to double check this*
+- Now Tom Nook will give you a *nook phone*. This can be accessed by pressing "ZL".
+
+### Tools
+- Tom Nook will give you the DIY recipes for flimsy tools. Gather materials to craft them.
+  - To view which materials you need click "ZL" to open your nookphone. Then click the DIY app *need to check this* and you can look at the materials needed for the DIY's!
