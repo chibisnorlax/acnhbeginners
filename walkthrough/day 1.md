@@ -83,5 +83,13 @@ After you have setup most the steps above with Timmy and Tommy you are now sent 
 - Make sure to craft the **Flimsy fishing rod** and a **Flimsy bug net**
 
 ### Unique critter collection!
-- Now you need to collect 5 different critters! If you find a bug hopping around, crawling on teh flooor, flying in the sky then use your net!
-  - To use your net hold it! You can press "x" to open your pockets! There you can click "A" on your net to hold it! Then press "B" to come out of the screen for your pockets
+- Now you need to collect 5 different critters! If you find a bug hopping around, crawling on the flooor, flying in the sky then use your net!
+  - To use your net hold it! You can press "x" to open your pockets! There you can click "A" on your net to hold it! Then press "B" to exit the pockets screen. Now see a bug? Hold "A" and slowly walk towards it and when you are 1 or 2 paces away or close enough let go of the "A" button!
+- The 5 critters can also be a fish! See a fish shadow in the water? Grab your fishing rod! You can press "x" to open your pockets! There you can click "A" on your rod to hold it! Then press "B" to exit the pockets screen. Now when on the edge of the water press "A" to reel out your fishing rod! When you suddenly feel a vibration or hear a deeper bubble sound *i need to fix the wording and stuff here lols* then press "A" to reel your line back in!
+
+### Balthers
+- Now hand over the critters to Tom Nook! He will then call his friend the owl Blathers to come to the island to start a museum! Tom Nook will hand you a kit to set the museum down! Choose a spot like you did with the tents!
+
+### What else can I do today?
+- You can try and earn some nook miles! Remember you need to pay 5,000 nook miles to Tom Nook!
+  - *Tip: Go to your Nook phone (by pressing "ZL") then click the **nook miles redemption** app! It will show you some acheivments you may be able to complete!*
