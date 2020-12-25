@@ -91,7 +91,7 @@ After you have set up most the steps above with Timmy and Tommy you are now sent
 ### New DIY's and Blathers!
 - Now hand over the critters to Tom Nook! 
   - He will then call his friend the owl Blathers to come to the island to start a museum! Tom Nook will hand you a kit to set the museum down! Choose a spot, as you did with the tents!
-  - He will also give you 2 new DIY's! This will be the **axe recipe** and the **watering can**!
+  - He will also give you 2 new DIY's! This will be the **Flimsy axe** and the **Flimsy watering can**!
 
 ### What else can I do today?
 - You can try and earn some nook miles! Remember you need to pay 5,000 nook miles to Tom Nook!
@@ -103,4 +103,4 @@ After you have set up most the steps above with Timmy and Tommy you are now sent
 - Made a **Flimsy net** and a **Flimsy fishing rod**
 - Collected 5 unique critters
 - Set up Blather's Museum!
-- Gotten the **Axe DIY** and the **watering can** DIY's
+- Gotten the **Flimsy Axe** and the **Flimsy watering can** DIY's
