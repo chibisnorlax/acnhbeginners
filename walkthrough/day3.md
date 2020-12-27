@@ -21,3 +21,4 @@ After you place the bridge he will give you three plots to place, these are wher
 * * *
 
 # Completed Objectives:
+bridge, villagers, store, mabel
