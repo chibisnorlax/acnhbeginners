@@ -133,11 +133,11 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 # Completed Objectives:
 - [x] Met Timmy and Tommy.
 - [x] Met Tom Nook.
-- [x] Obtained the recipe for and crafted a **Flimsy Net** and a **Flimsy Fishing Rod**.
+- [x] Obtained the recipe for and crafted a <b>Flimsy Net</b> and a <b>Flimsy Fishing Rod</b>.
 - [x] Collected and donated 5 unique critters.
 - [x] Set up Blathers' museum tent.
-- [x] Obtained the **Flimsy Axe** and the **Flimsy watering can** DIY recipes.
-- [x] Paid off your **5,000 Nook Miles** loan.
+- [x] Obtained the <b>Flimsy Axe</b> and the <b>Flimsy watering can</b> DIY recipes.
+- [x] Paid off your <b>5,000 Nook Miles</b> loan.
 
 
 ## Optional Objective:
