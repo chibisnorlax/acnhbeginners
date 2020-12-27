@@ -10,9 +10,11 @@ A walkthrough guide to help you out in the first few days!
 {: .note }
 This guide is incomplete!
 
-Test {: .icon-switch }
+Test {: .icon-A }
 
-<i class="icon-switch">test</i>
+<i class="icon-A">test</i>
+
+<i class="btn-a"></i> test a
 
 test 2
-{: .icon-switch }
+{: .icon-A }
