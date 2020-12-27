@@ -113,11 +113,20 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 - Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/#blathers). Blathers is the owner and future curator of your island's very own museum!
 - Tom Nook will then hand you a museum tent kit to place, which is where Blathers will set up his tent. 
 
+## Pay off your Nook Miles loan
+- Now that you've had some time to settle into the island, it is recommended you pay off your first loan. You have probably accumulated enough miles without knowing, but check your NookPhone for achievements you can complete if you don't have quite enough.
+- This will upgrade your tent to a house the following day. 
+- After paying off your loan, Tom Nook will introduce you to the **miles redemption service** in the Nook Stop. By accessing this, you can trade in your accumulated miles for interesting and helpful items.
+- The Nook Stop is the ATM-looking machine in the lower right corner of the Resident Services tent.
+
 ## What else can I do today?
-- You can try and earn some Nook Miles to pay off your loan.
-  - *Tip: Go to your NookPhone then click the **Nook Miles Redemption** app. It will show you some achievements you may be able to complete!*
-- You can catch critters and pick gather materials to sell to Timmy to make some bells.
+- You can catch critters and gather materials to sell to Timmy to make some bells.
+- For 2 upcoming quests, it may be a good idea to save the following items:
+  - New critters
+  - All types of wood
+  - Iron nuggets
 - You can speak with your villagers, they may gift you things when you talk to them! 
+- Explore your island! Get yourself familiar with it's layout. 
 
 * * *
 
@@ -128,8 +137,11 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 - [x] Collected and donated 5 unique critters.
 - [x] Set up Blathers' museum tent.
 - [x] Obtained the Flimsy Axe and the Flimsy watering can DIY recipes.
+- [x] Paid off your 5,000 Nook Miles loan.
+
 
 ## Optional Objective:
-- [ ] Pay off your 5,000 Nook Miles loan.
+- [ ] Collect materials for Nook's Cranny.
+- [ ] Collect bugs and fish for Blathers.
 
 Go to: [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/).
