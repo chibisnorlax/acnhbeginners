@@ -98,9 +98,9 @@ After you have set up most the steps above with Timmy and Tommy you are now sent
   - *Tip: Go to your Nook phone (by pressing "ZL") then click the **nook miles redemption** app! It will show you some achievements you may be able to complete!*
   
 ### Completed:
-- Met Timmy and Tommy!
-- Met Tom Nook!
-- Made a **Flimsy net** and a **Flimsy fishing rod**
-- Collected 5 unique critters
-- Set up Blather's Museum!
-- Gotten the **Flimsy Axe** and the **Flimsy watering can** DIY's
+- [x] Met Timmy and Tommy!
+- [x] Met Tom Nook!
+- [x] Made a **Flimsy net** and a **Flimsy fishing rod**
+- [x] Collected 5 unique critters
+- [x] Set up Blather's Museum!
+- [x] Gotten the **Flimsy Axe** and the **Flimsy watering can** DIY's
