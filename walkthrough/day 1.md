@@ -59,7 +59,7 @@ After you have set up most the steps above with Timmy and Tommy you are now sent
   - You will meet your first residents (villagers) on the island. These can be different for everyone! One of them will be a "jock" villager. Another will be a "sisterly/uchi" villager. For an explanation of villager personalities, read [here](https://chibisnorlax.github.io/acnhfaq/villagers/#what-are-the-villager-personalities). 
 
 ## Set up your tent
-- Talk to Tom Nook (walk up to him and press "A"), he will tell you that you need to place your tent. Talk to Timmy or Tommy, who will give you a kit to set up somewhere on the island! Choose wisely, as you won't be able to relocate your house for awhile.
+- Talk to Tom Nook (walk up to him and press "A"), he will tell you that you need to place your tent. Talk to Timmy or Tommy, who will give you a kit to set up somewhere on the island! Choose wisely, as you won't be able to relocate your house for a while.
 - To place your tent, press "X" to open your pocket inventory, click on the tent kit, and click "Place".
 
 ## Help your villagers set up their tents
@@ -103,9 +103,10 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 - If you find a bug hopping around, crawling on the floor, or flying in the sky, you'll want to use your net.
   - To use your net hold it (open your pockets, select the net and select "equip/hold"). Hold down "A" to slowly walk towards a bug (this is useful for bugs that fly/crawl away when they notice you). When you are 1 or 2 paces away or close enough let go of the "A" button to swing your net! You can also just walk up to some bugs and press "A" without sneaking up on them.
 - You can also give Tom Nook fish!
-  - See a fish shadow in the water? Grab your fishing rod! When on the edge of the water, press "A" to cast your line. The fish will nibble at your lure 0-5 times, which will emit a weak vibration* and soft splashing noises. When you feel a stronger vibration*, hear a louder, snappier splash (a "ker-plunk" noise), and see the lure sink beneath the water's surface, press "A" again to reel in your fish. Be fast! Some fish require a quick reaction time to reel in, otherwise they will swim away.
-  - * Note: Vibration not applicable on Switch Lites.
+  - See a fish shadow in the water? Grab your fishing rod! When on the edge of the water, press "A" to cast your line. The fish will nibble at your lure 0-5 times, which will emit a weak vibration* and soft splashing noises. When you feel a stronger vibration<sup>*</sup>, hear a louder, snappier splash (a "ker-plunk" noise), and see the lure sink beneath the water's surface, press "A" again to reel in your fish. Be fast! Some fish require a quick reaction time to reel in, otherwise they will swim away.
   - Make sure you cast your line where the fish can see it, otherwise they will not notice your lure. You can cast and recast your line, just make sure you don't reel it in after they notice it or they will get scared off. 
+
+<sup>*</sup> Note: Vibration not applicable on Switch Lites.
 
 ## New DIY's and Blathers
 - After you give 2 critters to Tom Nook, he will reward you with the **Flimsy Axe** DIY recipe. This can be used to harvest wood from trees.
