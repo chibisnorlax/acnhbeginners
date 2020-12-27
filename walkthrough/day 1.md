@@ -9,10 +9,12 @@ nav_order: 1
 
 ![Timmy Tommy Welcome](/acnhbeginners/assets/tt_welcome.jpg)
 
-## Setup
+* * * 
+
+# Setup
 Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you with setting up your island. They will walk you through the following steps:
 
-### Choosing an island layout
+## Choosing an island layout
 
 ![Map Layout](/acnhbeginners/assets/tt_maps.jpg)
 
@@ -22,7 +24,7 @@ Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you w
 
 <!-- maybe we should add an image here for the permanent ones? -->
 
-### Choosing your hemisphere
+## Choosing your hemisphere
 
 ![Hemispheres](/acnhbeginners/assets/hemispheres.png)
 
@@ -42,48 +44,52 @@ Hemisphere Season Correlation:
 |  Winter  |  Summer  |
 |  Spring  |  Autumn  |
 
-### "If You Could Only Bring ONE Thing With You..."
+## "If You Could Only Bring ONE Thing With You..."
 - Does this question mean anything?
   - Nope! It's just an homage to past games when questions like these would determine things like your character's eye shape or hair color. In New Horizons, this question is just for fun. :) 
 
-## Arriving at your island
+* * *
+
+# Arriving at your island
 After you have set up most the steps above with Timmy and Tommy you are now sent on the plane to your island! See below for the next steps:
 
-### Meet the new characters 
+## Meet the new characters 
 - Tom Nook (and Timmy and Tommy, who you've already become acquainted with)
 - 2 [Villagers](https://chibisnorlax.github.io/acnhfaq/villagers/#who-are-villagers)
   - You will meet your first residents (villagers) on the island. These can be different for everyone! One of them will be a "jock" villager. Another will be a "sisterly/uchi" villager. For an explanation of villager personalities, read [here](https://chibisnorlax.github.io/acnhfaq/villagers/#what-are-the-villager-personalities). 
 
-### Set up your tent
+## Set up your tent
 - Talk to Tom Nook (walk up to him and press "A"), he will tell you that you need to place your tent. Talk to Timmy or Tommy, who will give you a kit to set up somewhere on the island! Choose wisely, as you won't be able to relocate your house for awhile.
 - To place your tent, press "X" to open your pocket inventory, click on the tent kit, and click "Place".
 
-### Help your villagers set up their tents
+## Help your villagers set up their tents
 - After placing your tent, go talk to your villagers. They will ask you for help in placing their tent. You have 2 options upon talking to them: 1. "looks good there," or 2. "I'll choose a place for you."
   - Option 1: Places your villager's tent where they had planned it to be (where they are standing).
   - Option 2: This will cause the villager to give you their tent kit and allow you to place it where you would like.
 
-### Collect materials
+## Collect materials
 
 ![Fruit Trees](/acnhbeginners/assets/fruittrees.png)
 
 - After you place your tent and your villagers have theirs placed, Tom nook will give you some tasks to learn how to gather materials. You will need to collect **10 tree branches** and some fruit!
   - Press "A" while facing a tree to shake it. If there is fruit on the tree, then the fruit will fall down. If there isn't, then branches, wasps, or coins have a chance of falling out of the tree. Press "Y" to pick up things on the ground.
 
-### Party time + naming your island
+## Party time + naming your island
 - After completing the objectives, Tom Nook will hold a party in the plaza. When you are finished celebrating, head to your tent and lay down in your cot to sleep. A special character will visit you in your dreams to give you some words of wisdom :)
 - Additionally, this is the point in the game you get to name your island.
 
 {: .caution }
 You **cannot** rename your island once you submit a name, so be sure it's something you like! 
 
-### Syncing to real-time
+* * *
+
+# Syncing to real-time
 - After you have fallen asleep, the game syncs to your timezone. Make sure you have set the correct time on your Switch settings.
   - Home menu > System Settings (gear icon at the bottom of your screen) > System > Date and Time
 - Upon waking up, Tom Nook will be at your tent waiting for you. He will then hand you your very own **NookPhone**! To open your NookPhone, press "ZL". Additionally, he will mention your **itemized bill**. This is your very first loan (of many) that you will have to pay back to [upgrade your house](https://chibisnorlax.github.io/acnhfaq/unlocks/#house-unlocks).
   - The very first loan is paid off in Nook Miles, but every loan after that will be paid back in bells.
 
-### DIYs, buying from Timmy, tools and more! 
+## DIYs, buying from Timmy, tools and more! 
 - When you are ready, head to the Resident Services tent, where Tom Nook will inform you of a couple things.
   1. You can always talk to him if you need assistance in knowing what to do next.
   2. You can purchase and sell things by talking to Timmy in Resident Services.
@@ -92,7 +98,7 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
   - Press "R" and "L" to toggle between the two pages of items.
 - Completing the **DIY workshop** allows you to learn DIY cards and obtain the DIY Recipes app on your NookPhone. Additionally, you learn the Flimsy Fishing Rod, Flimsy Bug Net, and Campfire DIYs. We recommend you craft both new tools for the next quest. 
 
-### Unique critter collection
+## Unique critter collection
 - After doing the DIY workshop with Tom Nook, he will mention having an interest in the island's natural critters. You'll want to bring him **5 unique (different) bugs and/or fish** to complete this quest.
 - If you find a bug hopping around, crawling on the floor, or flying in the sky, you'll want to use your net.
   - To use your net hold it (open your pockets, select the net and select "equip/hold"). Hold down "A" to slowly walk towards a bug (this is useful for bugs that fly/crawl away when they notice you). When you are 1 or 2 paces away or close enough let go of the "A" button to swing your net! You can also just walk up to some bugs and press "A" without sneaking up on them.
@@ -101,19 +107,21 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
   - * Note: Vibration not applicable on Switch Lites.
   - Make sure you cast your line where the fish can see it, otherwise they will not notice your lure. You can cast and recast your line, just make sure you don't reel it in after they notice it or they will get scared off. 
 
-### New DIY's and Blathers
+## New DIY's and Blathers
 - After you give 2 critters to Tom Nook, he will reward you with the **Flimsy Axe** DIY recipe. This can be used to harvest wood from trees.
 - After you've given a total of 4 critters to Tom Nook, he will reward you with the **Flimsy Watering Can** DIY recipe. This can be used to water your flowers and help with [flower breeding](https://chibisnorlax.github.io/acnhfaq/island-life/gardening/).
 - Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/#blathers). Blathers is the owner and future curator of your island's very own museum!
 - Tom Nook will then hand you a museum tent kit to place, which is where Blathers will set up his tent. 
 
-### What else can I do today?
+## What else can I do today?
 - You can try and earn some Nook Miles to pay off your loan.
   - *Tip: Go to your NookPhone then click the **Nook Miles Redemption** app. It will show you some achievements you may be able to complete!*
 - You can catch critters and pick gather materials to sell to Timmy to make some bells.
 - You can speak with your villagers, they may gift you things when you talk to them! 
-  
-## Completed Objectives:
+
+* * *
+
+# Completed Objectives:
 - [x] Met Timmy and Tommy.
 - [x] Met Tom Nook.
 - [x] Obtained the recipe for and crafted a Flimsy Net and a Flimsy Fishing Rod.
@@ -121,7 +129,7 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 - [x] Set up Blathers' museum tent.
 - [x] Obtained the Flimsy Axe and the Flimsy watering can DIY recipes.
 
-### Optional Objective:
+## Optional Objective:
 - [ ] Pay off your 5,000 Nook Miles loan.
 
 Go to: [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/).
