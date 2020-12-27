@@ -102,9 +102,10 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
   - Make sure you cast your line where the fish can see it, otherwise they will not notice your lure. You can cast and recast your line, just make sure you don't reel it in after they notice it or they will get scared off. 
 
 ### New DIY's and Blathers
+- After you give 2 critters to Tom Nook, he will reward you with the **Flimsy Axe** DIY recipe. This can be used to harvest wood from trees.
+- After you've given a total of 4 critters to Tom Nook, he will reward you with the **Flimsy Watering Can** DIY recipe. This can be used to water your flowers and help with [flower breeding](https://chibisnorlax.github.io/acnhfaq/island-life/gardening/).
 - Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/#blathers). Blathers is the owner and future curator of your island's very own museum!
-- Tom Nook will then hand you a museum tent kit, which is where Blathers will set up his tent. 
-- He will also give you 2 new DIY's: This will be the **Flimsy Axe** and the **Flimsy Watering Can**.
+- Tom Nook will then hand you a museum tent kit to place, which is where Blathers will set up his tent. 
 
 ### What else can I do today?
 - You can try and earn some Nook Miles to pay off your loan.
@@ -115,9 +116,12 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 ## Completed Objectives:
 - [x] Met Timmy and Tommy.
 - [x] Met Tom Nook.
-- [x] Obtained the recipe for and crafted a  **Flimsy Net**  and a  **Flimsy Fishing Rod**.
+- [x] Obtained the recipe for and crafted a Flimsy Net and a Flimsy Fishing Rod.
 - [x] Collected and donated 5 unique critters.
 - [x] Set up Blathers' museum tent.
-- [x] Obtained the  **Flimsy Axe**  and the  **Flimsy watering can**  DIY recipes.
+- [x] Obtained the Flimsy Axe and the Flimsy watering can DIY recipes.
+
+### Optional Objective:
+- [ ] Pay off your 5,000 Nook Miles loan.
 
 Go to: [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/).
