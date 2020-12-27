@@ -135,7 +135,7 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
   <input type="checkbox" checked="yes"/>  
     <label>Met Timmy and Tommy.</label> <br>
   <input type="checkbox" checked="yes"/>  
-    <label>Obtained the recipe for and crafted a Flimsy Net and a <b>Flimsy Fishing Rod.</label> <br>
+    <label>Obtained the recipe for and crafted a Flimsy Net and a Flimsy Fishing Rod.</label> <br>
   <input type="checkbox" checked="yes"/>  
     <label>Collected and donated 5 unique critters.</label> <br>
   <input type="checkbox" checked="yes"/>  
