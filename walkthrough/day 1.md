@@ -113,11 +113,11 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 - You can speak with your villagers, they may gift you things when you talk to them! 
   
 ## Completed Objectives:
-- Met Timmy and Tommy.
-- Met Tom Nook.
-- Obtained the recipe for and crafted a **Flimsy Net** and a **Flimsy Fishing Rod**.
-- Collected and donated 5 unique critters.
-- Set up Blathers' museum tent.
-- Obtained the **Flimsy Axe** and the **Flimsy watering can** DIY recipes.
+- [x] Met Timmy and Tommy.
+- [x] Met Tom Nook.
+- [x] Obtained the recipe for and crafted a **Flimsy Net** and a **Flimsy Fishing Rod**.
+- [x] Collected and donated 5 unique critters.
+- [x] Set up Blathers' museum tent.
+- [x] Obtained the **Flimsy Axe** and the **Flimsy watering can** DIY recipes.
 
 Go to: [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/).
