@@ -108,16 +108,16 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 
 ### What else can I do today?
 - You can try and earn some Nook Miles to pay off your loan.
-  - *Tip: Go to your Nook phone (by pressing "ZL") then click the **nook miles redemption** app! It will show you some achievements you may be able to complete!*
+  - *Tip: Go to your NookPhone then click the **Nook Miles Redemption** app. It will show you some achievements you may be able to complete!*
 - You can catch critters and pick gather materials to sell to Timmy to make some bells.
 - You can speak with your villagers, they may gift you things when you talk to them! 
   
 ## Completed Objectives:
 - [x] Met Timmy and Tommy.
 - [x] Met Tom Nook.
-- [x] Obtained the recipe for and crafted a **Flimsy Net** and a **Flimsy Fishing Rod**.
+- [x] Obtained the recipe for and crafted a  **Flimsy Net**  and a  **Flimsy Fishing Rod**.
 - [x] Collected and donated 5 unique critters.
 - [x] Set up Blathers' museum tent.
-- [x] Obtained the **Flimsy Axe** and the **Flimsy watering can** DIY recipes.
+- [x] Obtained the  **Flimsy Axe**  and the  **Flimsy watering can**  DIY recipes.
 
 Go to: [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/).
