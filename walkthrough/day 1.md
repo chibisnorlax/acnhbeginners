@@ -37,12 +37,12 @@ Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you w
 
 Hemisphere Season Correlation:
 
-| Northern | Southern |
-|:--------:|:--------:|
-|  Summer  |  Winter  |
-|  Autumn  |  Spring  |
-|  Winter  |  Summer  |
-|  Spring  |  Autumn  |
+|        Months        | Northern | Southern |
+|:--------------------:|:--------:|:--------:|
+|     March - May      |  Spring  |  Autumn  |
+|    June - August     |  Summer  |  Winter  |
+| September - November |  Autumn  |  Spring  |
+| December - February  |  Winter  |  Summer  |
 
 ## "If You Could Only Bring ONE Thing With You..."
 - Does this question mean anything?
