@@ -132,21 +132,21 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 
 # Completed Objectives:
 <div>
-  <input type="checkbox" checked=?yes?/>  
+  <input type="checkbox" checked="yes"/>  
     <label>Met Timmy and Tommy.</label> <br>
-  <input type="checkbox" checked=?yes?/>  
-    <label>Obtained the recipe for and crafted a <b>Flimsy Net</b> and a <b>Flimsy Fishing Rod</b>.</label> <br>
-  <input type="checkbox" checked=?yes?/>  
-    <label>Collected and donated <b>5 unique critters</b>.</label> <br>
-  <input type="checkbox" checked=?yes?/>  
+  <input type="checkbox" checked="yes"/>  
+    <label>Obtained the recipe for and crafted a Flimsy Net and a <b>Flimsy Fishing Rod.</label> <br>
+  <input type="checkbox" checked="yes"/>  
+    <label>Collected and donated 5 unique critters.</label> <br>
+  <input type="checkbox" checked="yes"/>  
     <label>Set up Blathers' museum tent.</label> <br>
-  <input type="checkbox" checked=?yes?/>  
-    <label>Obtained the <b>Flimsy Axe</b> and the <b>Flimsy Watering Can</b> DIY recipes.</label> <br>
-  <input type="checkbox" checked=?yes?/>  
-    <label>Paid off your <b>5,000 Nook Miles</b> loan.</label> <br>
+  <input type="checkbox" checked="yes"/>  
+    <label>Obtained the Flimsy Axe and the Flimsy Watering Can< DIY recipes.</label> <br>
+  <input type="checkbox" checked="yes"/>  
+    <label>Paid off your 5,000 Nook Miles loan.</label> <br>
 </div>
 
-## Optional Objective:
+## Optional Objectives:
 <div>
   <input type="checkbox">  
     <label>Collect materials for Nook's Cranny.</label> <br>
