@@ -20,8 +20,7 @@ Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you w
   - *Note:* If you do not like any of these options, feel free to quit the game and restart it! 4 new options will appear. You can continue to do this until you find a layout you are happy with.
 - This step is important as it determines a couple of permanent (unchangeable) fixtures on your island: Resident Services (leaf icon), estuaries, the airport, and your "secret" (Northern) beach. 
 
-
-*maybe we should add an image here for the permanent ones?*
+<!-- maybe we should add an image here for the permanent ones? -->
 
 ### Choosing your hemisphere
 
