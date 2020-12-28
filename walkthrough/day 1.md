@@ -14,6 +14,12 @@ nav_order: 1
 # Setup
 Welcome to the game! Upon startup, Timmy and Tommy will greet you and help you with setting up your island. They will walk you through the following steps:
 
+## Create your character
+- This is pretty self explanatory -- don't worry too much about what your character looks like right now! There will be plentiful opportunities to change your appearance (including eye color, hair color, hair style, skin color, and clothing) later in the game.
+
+{: .caution }
+You **cannot** rename your character once you enter their name though, so be sure it's something you like! 
+
 ## Choosing an island layout
 
 ![Map Layout](/acnhbeginners/assets/tt_maps.jpg)
