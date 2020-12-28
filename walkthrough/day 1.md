@@ -8,6 +8,7 @@ nav_order: 1
 # Day 1
 
 ![Timmy Tommy Welcome](/acnhbeginners/assets/tt_welcome.jpg)
+{: .center}
 
 * * * 
 
@@ -23,6 +24,7 @@ You **cannot** rename your character once you enter their name though, so be sur
 ## Choosing an island layout
 
 ![Map Layout](/acnhbeginners/assets/tt_maps.jpg)
+{: .center}
 
 - There will be 4 to pick from.
   - *Note:* If you do not like any of these options, feel free to quit the game and restart it! 4 new options will appear. You can continue to do this until you find a layout you are happy with.
@@ -77,6 +79,7 @@ After you have set up most the steps above with Timmy and Tommy you are now sent
 ## Collect materials
 
 ![Fruit Trees](/acnhbeginners/assets/fruittrees.png)
+{: .center}
 
 - After you place your tent and your villagers have theirs placed, Tom nook will give you some tasks to learn how to gather materials. You will need to collect **10 tree branches** and some fruit!
   - Press <span class="icon-A"></span> while facing a tree to shake it. If there is fruit on the tree, then the fruit will fall down. If there isn't, then branches, wasps, or coins have a chance of falling out of the tree. Press <span class="icon-Y"></span> to pick up things on the ground.
