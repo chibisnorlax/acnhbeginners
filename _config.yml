@@ -1,6 +1,6 @@
 title: "AC:NH Beginner's Guide"
 remote_theme: pdmosses/just-the-docs@callouts
-color_scheme: dark
+color_scheme: custom
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
