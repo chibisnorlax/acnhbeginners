@@ -16,9 +16,9 @@ Test {: .icon-A }
 
 <i class="icon-a"></i> test a2
 
-<span id=".icon-A"></span> test 3
+<span class=".icon-A"></span> test 3
 
-<span id="icon-A"></span> test 4
+<span class="icon-A"></span> test 4
 
 test 2
 {: .icon-a }
