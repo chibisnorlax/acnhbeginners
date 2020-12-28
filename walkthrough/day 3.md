@@ -60,7 +60,7 @@ For the plots, you will need to prep some items for the house before villagers c
   <input type="checkbox" checked="yes"/>  
     <label>First bridge placed! </label> <br>
   <input type="checkbox" checked="yes"/>  
-    <label>Set up 3 villager house plots
+    <label>Set up 3 villager house plots </label> <br>
 </div>
 
 
@@ -71,5 +71,5 @@ For the plots, you will need to prep some items for the house before villagers c
   <input type="checkbox" checked="no"/>
     <lablel>Caught more critters </label> <br>
   <input type="checkbox" checked="no"/>
-    <label>Dug up more fossils </label>
+    <label>Dug up more fossils </label> <br>
 </div>
