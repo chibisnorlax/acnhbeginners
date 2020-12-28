@@ -62,7 +62,6 @@ blockquote.note {
 tr:nth-child(even) {
   background-color: #f2f2f291;
 }
-
 @font-face {
   font-family: 'icomoon';
   src:  url('/assets/fonts/icomoon.eot?2xt42w');
@@ -78,7 +77,6 @@ tr:nth-child(even) {
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
