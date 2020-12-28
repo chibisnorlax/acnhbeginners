@@ -124,7 +124,8 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 - Now that you've had some time to settle into the island, it is recommended you pay off your first loan. You have probably accumulated enough miles without knowing, but check your NookPhone for achievements you can complete if you don't have quite enough.
 - This will upgrade your tent to a house the following day. 
 - After paying off your loan, Tom Nook will introduce you to the **miles redemption service** in the Nook Stop. By accessing this, you can trade in your accumulated miles for interesting and helpful items.
-- The Nook Stop is the ATM-looking machine in the lower right corner of the Resident Services tent.
+  - The Nook Stop is the ATM-looking machine in the lower right corner of the Resident Services tent.
+- Make sure you speak to Tom Nook afterwards and accept his offer to build you a house, as well.
 
 ## What else can I do today?
 - You can catch critters and gather materials to sell to Timmy to make some bells.
