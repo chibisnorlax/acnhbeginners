@@ -58,3 +58,9 @@ For the plots you will need to prep some items for the house before villagers ca
   <input type="checkbox" checked="yes"/>  
     <label>Set up 3 villager house plots
 </div>
+# Optional Objectives:
+<div>
+  <input type="checkbox" checked="no"/>
+    <label>Invited 3 villagers </label> <br>
+  <input type="checkbox" checked="no"/>
+</div>
