@@ -22,5 +22,7 @@ test 5 <span class="icon-A"></span> test 4
 
 test 5 <span class="btn-a"></span> test 4
 
+<p style="font-family:icomoon"><span class="icon-A"></span></p>
+
 test 2
 {: .icon-a }
