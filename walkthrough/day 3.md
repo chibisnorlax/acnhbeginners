@@ -66,10 +66,10 @@ For the plots, you will need to prep some items for the house before villagers c
 
 # Optional Objectives:
 <div>
-  <input type="checkbox" checked="no"/>
+  <input type="checkbox" checked="no"/>  
     <label>Invited 3 villagers </label> <br>
   <input type="checkbox" checked="no"/>
     <lablel>Caught more critters </label> <br>
   <input type="checkbox" checked="no"/>
-    <label>Dug up more fossils </label> <br>
+    <label>Dug up more fossils </label>
 </div>
