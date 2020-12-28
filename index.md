@@ -12,9 +12,9 @@ This guide is incomplete!
 
 Test {: .icon-A }
 
-<i class="icon-A">test</i>
+<i class="icon-A:before">test</i>
 
-<i class="btn-a"></i> test a
+<i class="icon-a"></i> test a2
 
 test 2
-{: .icon-A }
+{: .icon-a }
