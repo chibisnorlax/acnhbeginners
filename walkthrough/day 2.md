@@ -41,19 +41,34 @@ Additionally, the **airport** is now open.
 
 ## Complete your first Mystery Tour
 - Upon talking to Tom Nook, he should mention something called a Nook Miles Ticket (often abbreviated as NMT), and give you one for free. 
-- Take this to the **airport** and speak with [Orville](https://chibisnorlax.github.io/acnhfaq/npc/#orville-and-wilbur), the dodo bird at the desk. 
-<!-- unfinished -->
+- Take this to the **airport** and speak with [Orville](https://chibisnorlax.github.io/acnhfaq/npc/#orville-and-wilbur), the dodo bird at the desk. Orville will explain to you what mystery tours are, and offer to take you on one in exchange for one NMT.
+- The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have an animal inhabitant who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
 
+## What else can I do today?
+- Since you unlocked the Nook Stop today, it may be a good idea to purchase the **tool ring**, which lets you quickly access your tools by using the D-Pad on your Switch.
+- Additionally, you may want to purchase the "Pretty Good Tools" recipe pack from the Nook Stop, which will give you DIY recipes for more durable versions of the axe, shovel, fishing rod, net, and watering can.
+- There might be a villager on the NMT island you visit. If you would like to invite them to live on your island, speak to them and ask them to move in.
 
 * * *
 
 # Completed Objectives:
-- [x] Activated quest to build Nook's Cranny.
-- [x] Donated 15 critters to Blathers.
-- [x] Obtained the Flimsy Shovel and Vaulting Pole DIY recipes.
-- [x] Visited a NMT (mystery tour) island.
+<div>
+  <input type="checkbox" checked="yes"/>  
+    <label>Activated quest to build Nook's Cranny.</label> <br>
+  <input type="checkbox" checked="yes"/>  
+    <label>Donated 15 critters/fossils to Blathers.</label> <br>
+  <input type="checkbox" checked="yes"/>  
+  <label>Obtained the <b>Flimsy Shovel</b> and <b>Vaulting Pole</b> DIY recipes.</label> <br>
+  <input type="checkbox" checked="yes"/>  
+    <label>Visited a NMT (mystery tour) island.</label> <br>
+</div>
 
 ## Optional Objectives:
-- [ ] Invited a villager to live on your island.
-- [ ] Purchased a tool ring.
-- [ ] Purchased improved tool DIY recipes.
+<div>
+  <input type="checkbox">  
+    <label>Invite a villager to live on your island.</label> <br>
+  <input type="checkbox">  
+    <label>Purchase a tool ring.</label> <br>
+  <input type="checkbox">
+    <label>Purchase improved tool DIY recipes.</label> <br>
+</div>
