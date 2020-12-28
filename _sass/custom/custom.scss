@@ -60,8 +60,7 @@ blockquote.note {
 }
 
 .center {
-  display: flex;
-  justify-content: center;
+  margin: 0 auto;
 }
 
 tr:nth-child(even) {
