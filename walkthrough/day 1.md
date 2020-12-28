@@ -33,6 +33,7 @@ You **cannot** rename your character once you enter their name though, so be sur
 ## Choosing your hemisphere
 
 ![Hemispheres](/acnhbeginners/assets/hemispheres.png)
+{: .center}
 
 - Your **hemisphere** is the half of the Earth you live on in relation to the equator. The equator is an imaginary line that sections the earth in half. The top half (above the equator) is called the "Northern Hemisphere" and the bottom half (below the equator) is called the "Southern Hemisphere"
 - If you don't know your hemisphere, search it up on Google! Here are some examples:
