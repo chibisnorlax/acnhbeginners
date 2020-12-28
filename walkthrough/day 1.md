@@ -113,10 +113,10 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
 - If you find a bug hopping around, crawling on the floor, or flying in the sky, you'll want to use your net.
   - To use your net hold it (open your pockets, select the net and select "equip/hold"). Hold down <span class="icon-A"></span> to slowly walk towards a bug (this is useful for bugs that fly/crawl away when they notice you). When you are 1 or 2 paces away or close enough let go of the <span class="icon-A"></span> button to swing your net! You can also just walk up to some bugs and press <span class="icon-A"></span> without sneaking up on them.
 - You can also give Tom Nook fish!
-  - See a fish shadow in the water? Grab your fishing rod! When on the edge of the water, press <span class="icon-A"></span> to cast your line. The fish will nibble at your lure 0-5 times, which will emit a weak vibration* and soft splashing noises. When you feel a stronger vibration<sup>*</sup>, hear a louder, snappier splash (a "ker-plunk" noise), and see the lure sink beneath the water's surface, press <span class="icon-A"></span> again to reel in your fish. Be fast! Some fish require a quick reaction time to reel in, otherwise they will swim away.
+  - See a fish shadow in the water? Grab your fishing rod! When on the edge of the water, press <span class="icon-A"></span> to cast your line. The fish will nibble at your lure 0-5 times, which will emit a weak vibration<sup><span class="icon-Ex"></span></sup> and soft splashing noises. When you feel a stronger vibration<sup><span class="icon-Ex"></span></sup>, hear a louder, snappier splash (a "ker-plunk" noise), and see the lure sink beneath the water's surface, press <span class="icon-A"></span> again to reel in your fish. Be fast! Some fish require a quick reaction time to reel in, otherwise they will swim away.
   - Make sure you cast your line where the fish can see it, otherwise they will not notice your lure. You can cast and recast your line, just make sure you don't reel it in after they notice it or they will get scared off. 
 
-<sup>*</sup> Note: Vibration not applicable on Switch Lites.
+<sup><span class="icon-Ex"></span></sup> Note: Vibration not applicable on Switch Lites.
 
 ## New DIY's and Blathers
 - After you give 2 critters to Tom Nook, he will reward you with the **Flimsy Axe** DIY recipe. This can be used to harvest wood from trees.
