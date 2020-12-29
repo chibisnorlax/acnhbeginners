@@ -176,3 +176,10 @@ tr:nth-child(even) {
 .icon-ZR:before {
   content: "\e90f";
 }
+
+html[data-theme='light']
+{
+  <script>
+    jtd.setTheme('light');
+  </script>
+}
