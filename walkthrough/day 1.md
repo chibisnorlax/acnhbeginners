@@ -166,4 +166,4 @@ You **cannot** rename your island once you submit a name, so be sure it's someth
     <label>Collect bugs and fish for Blathers.</label> <br>
 </div>
 
-<!--Go to: [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/).-->
+Go to: [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/).
