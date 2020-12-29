@@ -15,15 +15,15 @@ This guide is incomplete!
     const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
     jtd.addEvent(toggleDarkMode, 'click', function()
     {
-      if (jtd.getTheme() === 'custom') 
+      if (jtd.getTheme() === 'light') 
       {
-        jtd.setTheme('light');
-        toggleDarkMode.textContent = 'Toggle to Dark';
+        jtd.setTheme('custom');
+        toggleDarkMode.textContent = 'Toggle to Light';
       }
       else 
       {
-        jtd.setTheme('custom');
-        toggleDarkMode.textContent = 'Toggle to light';
+        jtd.setTheme('light');
+        toggleDarkMode.textContent = 'Toggle to Dark';
       }
     });
   </script>
