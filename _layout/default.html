@@ -198,33 +198,6 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
-  <script>
-    console.log("included");
-    let theme = sessionStorage.getItem('theme');
-
-      function modeSwitcher() {
-        let theme = sessionStorage.getItem('theme');
-        if (theme === "dark") {
-          jtd.setTheme('light');
-          sessionStorage.setItem('theme', 'light');
-          document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-        }	else {
-          jtd.setTheme('custom');
-          sessionStorage.setItem('theme', 'dark');
-          document.getElementById("theme-toggle").innerHTML = "Light Mode";
-        }
-      }
-      
-      if (theme === "light") {
-        jtd.setTheme('light');
-        sessionStorage.setItem('theme', 'light');
-        document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-      }
-      else {
-        jtd.setTheme('custom');
-        sessionStorage.setItem('theme', 'dark');
-        document.getElementById("theme-toggle").innerHTML = "Light Mode";
-      }
-    </script>
+  {%- include dark_mode_toggle.html -%}
 </body>
 </html>
