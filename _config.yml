@@ -14,4 +14,20 @@ search.button: true
 kramdown:
   input: GFM
 aux_links:
-  <a id="theme-toggle" onclick="modeSwitcher()"></a>
+    <button class="btn js-toggle-dark-mode">Dark Mode</button>
+    <script>
+      const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+      jtd.addEvent(toggleDarkMode, 'click', function() {
+		    let currentMode = document.documentElement.getAttribute('data-theme');
+        if (currentMode === "dark") {
+			    document.documentElement.setAttribute('data-theme', 'light');
+			    window.localStorage.setItem('theme', 'light');
+			    document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+        } 
+        else {
+			    document.documentElement.setAttribute('data-theme', 'dark');
+			    window.localStorage.setItem('theme', 'dark');
+			    document.getElementById("theme-toggle").innerHTML = "Light Mode";
+		    }
+      });
+    </script>
