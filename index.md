@@ -9,7 +9,6 @@ A walkthrough guide to help you out in the first few days!
 
 {: .note }
 This guide is incomplete!
-
 <a id="theme-toggle" onclick="modeSwitcher()"></a>
 
 <script>
