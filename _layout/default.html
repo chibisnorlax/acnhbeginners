@@ -149,7 +149,7 @@ layout: table_wrappers
             {% endfor %}
           </ul>
         {% endif %}
-
+        {% include dark_mode_toggle.html %}
         {% capture footer_custom %}
           {%- include footer_custom.html -%}
         {% endcapture %}
@@ -198,6 +198,6 @@ layout: table_wrappers
       <div class="search-overlay"></div>
     {% endif %}
   </div>
-  {% include dark_mode_toggle.html %}
+
 </body>
 </html>
