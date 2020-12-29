@@ -19,17 +19,17 @@
 		jtd.setTheme("light");
 	}
 
-	/*function modeSwitcher() {
+	function modeSwitcher() {
 		let currentMode = document.documentElement.getAttribute('data-theme');
 		if (currentMode === "dark") {
 			document.documentElement.setAttribute('data-theme', 'light');
 			window.localStorage.setItem('theme', 'light');
 			document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+			jtd.setTheme("custom");
 		} else {
 			document.documentElement.setAttribute('data-theme', 'dark');
 			window.localStorage.setItem('theme', 'dark');
 			document.getElementById("theme-toggle").innerHTML = "Light Mode";
-		}
+			jtd.setTheme("light");
 	}
-	*/
 </script>
