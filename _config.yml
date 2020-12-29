@@ -15,4 +15,19 @@ kramdown:
   input: GFM
 aux_links:
   '<button id="theme-toggle">Theme Toggle</button>':
-    - '#"onclick="modeSwitcher()"'
+    <script>
+      const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
+      jtd.addEvent(toggleDarkMode, 'click', function()
+      {
+        if (jtd.getTheme() === 'custom') 
+        {
+          jtd.setTheme('light');
+          toggleDarkMode.textContent = 'Toggle to Dark';
+        }
+        else 
+        {
+          jtd.setTheme('custom');
+          toggleDarkMode.textContent = 'Toggle to light';
+        }
+      });
+    </script>
