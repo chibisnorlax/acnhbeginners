@@ -15,4 +15,4 @@ kramdown:
   input: GFM
 aux:
   '<button id="theme-toggle"></button>':
-    - '#"onclick="jtd.setTheme('light');"'
+    - '#"onclick="jtd.setTheme('light')"'
