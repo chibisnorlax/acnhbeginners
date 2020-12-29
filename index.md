@@ -20,7 +20,7 @@ let theme = sessionStorage.getItem('theme');
         jtd.setTheme('light');
         sessionStorage.setItem('theme', 'light');
         document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-    }	else {
+    } else {
         jtd.setTheme('custom');
         sessionStorage.setItem('theme', 'dark');
         document.getElementById("theme-toggle").innerHTML = "Light Mode";
