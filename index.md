@@ -14,12 +14,6 @@ This guide is incomplete!
 <a id="theme-toggle" onclick="modeSwitcher()"></a>
 
 <script>
-	const theme = localStorage.getItem('theme');
-		if (theme === "light") {
-			document.documentElement.setAttribute('data-theme', 'light');
-		}
-</script>
-<script>
 	const userPrefers = getComputedStyle(document.documentElement).getPropertyValue('content');
 
 	if (theme === "dark") {
