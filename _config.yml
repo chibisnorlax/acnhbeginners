@@ -14,4 +14,4 @@ search.button: true
 kramdown:
   input: GFM
 aux_links:
-    '<button class="js-theme-toggle">Theme Toggle</button>'
+    '<button id="theme-toggle"></button>'

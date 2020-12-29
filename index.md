@@ -13,7 +13,6 @@ This guide is incomplete!
 
 <script>
 let theme = sessionStorage.getItem('theme');
-
     function modeSwitcher() {
     let theme = sessionStorage.getItem('theme');
     if (theme === "dark") {
