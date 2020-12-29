@@ -3,16 +3,20 @@
 
 	if (theme === "dark") {
 		document.getElementById("theme-toggle").innerHTML = "Light Mode";
+		jtd.setTheme("custom");
 	} else if (theme === "light") {
 		document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+		jtd.setTheme("light");
 	} else if  (userPrefers === "dark") {
 		document.documentElement.setAttribute('data-theme', 'dark');
 		window.localStorage.setItem('theme', 'dark');
 		document.getElementById("theme-toggle").innerHTML = "Light Mode";
+		jtd.setTheme("custom");
 	} else {
 		document.documentElement.setAttribute('data-theme', 'Dark');
 		window.localStorage.setItem('theme', 'Dark');
 		document.getElementById("theme-toggle").innerHTML = "Dark Mode";
+		jtd.setTheme("light");
 	}
 
 	/*function modeSwitcher() {
