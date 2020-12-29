@@ -13,6 +13,7 @@ This guide is incomplete!
 
 <script>
     console.log("local");
+
 	if (theme === "dark") {
 		document.getElementById("theme-toggle").innerHTML = "Light Mode";
 		jtd.setTheme("custom");
@@ -21,23 +22,17 @@ This guide is incomplete!
 		document.getElementById("theme-toggle").innerHTML = "Dark Mode";
 		jtd.setTheme("light");
 		console.log("end change to light");
-	} else if  (userPrefers === "dark") {
+	} else {
 		document.documentElement.setAttribute('data-theme', 'dark');
-		window.localStorage.setItem('theme', 'dark');
+		window.localStorage.setItem('theme', 'Dark');
 		document.getElementById("theme-toggle").innerHTML = "Light Mode";
 		jtd.setTheme("custom");
 		console.log("end change to dark2");
-	} else {
-		document.documentElement.setAttribute('data-theme', 'Dark');
-		window.localStorage.setItem('theme', 'Dark');
-		document.getElementById("theme-toggle").innerHTML = "Dark Mode";
-		jtd.setTheme("light");
-		console.log("end change to light2");
 	}
 
 	function modeSwitcher() {
 		let currentMode = document.documentElement.getAttribute('data-theme');
-		if (currentMode === "light") {
+		if (currentMode === "dark") {
 			document.documentElement.setAttribute('data-theme', 'light');
 			window.localStorage.setItem('theme', 'light');
 			document.getElementById("theme-toggle").innerHTML = "Dark Mode";
