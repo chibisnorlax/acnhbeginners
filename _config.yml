@@ -15,5 +15,4 @@ kramdown:
   input: GFM
 aux_links:
   '<button id="theme-toggle"></button>':
-    - "//github.com/pmarsceill/just-the-docs"
     - '#"onclick="modeSwitcher()"'
