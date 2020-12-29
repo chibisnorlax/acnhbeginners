@@ -14,5 +14,5 @@ search.button: true
 kramdown:
   input: GFM
 aux:
-  '<button class="js-toggle-dark-mode">Preview Dark</button>':
-    - 'Test'
+  "Just the Docs on GitHub":
+    - "//github.com/pmarsceill/just-the-docs"
