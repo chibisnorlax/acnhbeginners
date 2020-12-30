@@ -1,5 +1,5 @@
 title: "AC:NH Beginner's Guide"
-remote_theme: pmarsceill/just-the-docs
+remote_theme: pdmosses/just-the-docs@callouts
 color_scheme: custom
 plugins:
   - jekyll-feed
