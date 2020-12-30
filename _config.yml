@@ -4,7 +4,7 @@ color_scheme: custom
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
-description: Fan-made FAQ for AC:NH
+description: Fan-made beginner's guide for AC:NH
 permalink: pretty #make url pretty
 back_to_top: true
 back_to_top_text: "Back to top" #add back to top as footer
