@@ -14,7 +14,7 @@ Welcome to day 3 of the game! Now you should have completed the following:
 - Gone on a mystery island tour
 
 
-If you have not completed one of these please see <link to previous day> for more guidance!
+If you have not completed one of these please see [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/) for more guidance!
 
 * * *
 
