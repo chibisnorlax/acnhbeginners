@@ -44,6 +44,8 @@ Additionally, the **airport** is now open.
 - Take this to the **airport** and speak with [Orville](https://chibisnorlax.github.io/acnhfaq/npc/#orville-and-wilbur), the dodo bird at the desk. Orville will explain to you what mystery tours are, and offer to take you on one in exchange for one NMT.
 - The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have a villager who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
 
+
+*Note: If you invite a villager they will not move in until you have a free plot for them which you can find information about later in this guide ([here](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%203/#new-villagers)*
 ## What else can I do today?
 - Since you unlocked the Nook Stop today, it may be a good idea to purchase the **tool ring**, which lets you quickly access your tools by using the D-Pad on your Switch.
 - Additionally, you may want to purchase the "Pretty Good Tools" recipe pack from the Nook Stop, which will give you DIY recipes for more durable versions of the axe, shovel, fishing rod, net, and watering can.
