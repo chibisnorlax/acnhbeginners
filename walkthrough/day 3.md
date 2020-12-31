@@ -28,7 +28,7 @@ Finish gathering resources for the Nooks cranny!
 Don't stress if you haven't finished this by today! Continue this through the days! Play the game at your own pace.
 
 # Mystery Islands!
-If you’ve collected all the materials from your island but still need more, you could go to a mystery island by buying a Nook Miles Ticket (NMT) from the nook stop and going to the airport. On mystery islands, you will find rocks, trees, flowers and shells making them a great way to get more resources.
+If you’ve collected all the materials from your island but still need more, you could go to a mystery island by redeeming a Nook Miles Ticket (NMT) from the Nook Stop and going to the airport. On mystery islands, you will find rocks, trees, flowers and shells making them a great way to get more resources.
 <link to faq about mystery islands>
 # Tasks
 
