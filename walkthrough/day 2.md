@@ -70,5 +70,5 @@ Additionally, the **airport** is now open.
   <input type="checkbox">  
     <label>Purchase a tool ring.</label> <br>
   <input type="checkbox">
-    <label>Purchase improved tool DIY recipes.</label> <br>
+    <label>Purchase Improved Tool DIY Recipes Pack.</label> <br>
 </div>
