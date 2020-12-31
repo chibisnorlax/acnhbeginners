@@ -68,7 +68,7 @@ Additionally, the **airport** is now open.
   <input type="checkbox">  
     <label>Invite a villager to live on your island.</label> <br>
   <input type="checkbox">  
-    <label>Purchase a tool ring.</label> <br>
+    <label>Purchase the tool ring.</label> <br>
   <input type="checkbox">
     <label>Purchase Improved Tool DIY Recipes Pack.</label> <br>
 </div>
