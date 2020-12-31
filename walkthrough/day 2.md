@@ -42,7 +42,7 @@ Additionally, the **airport** is now open.
 ## Complete your first Mystery Tour
 - Upon talking to Tom Nook, he should mention something called a Nook Miles Ticket (often abbreviated as NMT), and give you one for free. 
 - Take this to the **airport** and speak with [Orville](https://chibisnorlax.github.io/acnhfaq/npc/#orville-and-wilbur), the dodo bird at the desk. Orville will explain to you what mystery tours are, and offer to take you on one in exchange for one NMT.
-- The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have an animal inhabitant who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
+- The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have a villager who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
 
 ## What else can I do today?
 - Since you unlocked the Nook Stop today, it may be a good idea to purchase the **tool ring**, which lets you quickly access your tools by using the D-Pad on your Switch.
