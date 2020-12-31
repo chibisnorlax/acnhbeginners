@@ -32,12 +32,14 @@ If you’ve collected all the materials from your island but still need more, yo
 
 ## Your First Bridge!
 If you talk to Tom Nook, he will mention more people wanting to move to your island and give you the bridge construction kit. To craft it see below:
-- 12 **Wood**
+
+- 4 **Log Stakes**
 - 4 **Stone**
-- 4 **Clay** 
-To place it open your pockets and press <span class="icon-A"></span> on it! Then you can press <span class="icon-A"></span> to choose a place. You will have 2 options. "Imagine it" and "This is the spot".
-- "Imagine it" lets you see how the bridge would look
-- "This is the spot" places the bridge
+- 4 **Clay**
+*Note:* Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'll need 3 **wood** to craft each one
+
+
+To place it open your pockets and press <span class="icon-A"></span> on it! Then you can press <span class="icon-A"></span> to choose "Place". You will have 2 options. “Imagine it” and “This is the spot”.
 
 ## New Villagers!
 After you place the bridge Tom Nook will give you three plots to place, these are where new villagers will live. These villagers will be
