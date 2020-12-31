@@ -24,7 +24,11 @@ Finish gathering resources for the Nooks cranny!
 - 30 **Softwood**
 - 30 **Hardwood**
 - 30 **Iron Nuggets**
-*Tip: hit rocks every day. You have 6 rocks on your island in total giving you 48 chances to get iron nuggets! Same with fruit trees! Shake them every day.*
+
+
+*Tip: hit rocks every day. You have 6 rocks on your island in total giving you 48 chances to get iron nuggets!*
+
+
 Don't stress if you haven't finished this by today! Continue this through the days! Play the game at your own pace.
 
 # Mystery Islands!
