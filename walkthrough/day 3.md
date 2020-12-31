@@ -12,6 +12,8 @@ Welcome to day 3 of the game! Now you should have completed the following:
 - Museum being built
 - Activated quest for Nooks Cranny
 - Gone on a mystery island tour
+
+
 If you have not completed one of these please see <link to previous day> for more guidance!
 
 * * *
@@ -48,7 +50,7 @@ After you place the bridge Tom Nook will give you three plots to place, these ar
 - Normal
 
 
-Once you place two of the plots you will unlock the **ladder** DIY recipe and be able to climb up cliffs to the other levels of your island. 
+Once you place two of the plots you will unlock the **ladder** DIY recipe and be able to climb up cliffs.
 
 
 For these plots you'll need to prepare some items for the house before villagers can move into them! You will find a box attached to the plots with a list of interior and exterior items you'll need to craft. Interior items go inside the box once crafted and exterior items need to be placed near the outside within two tiles of the plot. Press <span class="icon-A"></span> on the box to see which items you need to craft!
