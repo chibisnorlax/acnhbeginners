@@ -49,7 +49,7 @@ After you place the bridge Tom Nook will give you three plots to place, these ar
 Once you place two of the plots you will unlock the **ladder** DIY recipe and be able to climb up cliffs to the other levels of your island. 
 
 
-For the plots, you will need to prep some items for the house before villagers can move in! You need to craft **indoor items** and **outdoor items** You will find a box attached to the plot! Press <span class="icon-A"></span> on the box to see which items you need to craft! Interior items go in the box once crafted and the exterior items need to be placed outside the plot.
+For these plots you'll need to prepare some items for the house before villagers can move into them! You will find a box attached to the plots with a list of interior and exterior items you'll need to craft. Interior items go inside the box once crafted and exterior items need to be placed near the outside within two tiles of the plot. Press <span class="icon-A"></span> on the box to see which items you need to craft!
 
 * * *
 
