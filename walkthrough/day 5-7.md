@@ -38,4 +38,4 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
 </div>
 
 
-# Optional Objectives:
+## Optional Objectives:
