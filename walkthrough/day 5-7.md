@@ -22,11 +22,19 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
 * * *
 
 # Completed Objectives:
-- Resident Services built
-- Unlocked Isabelle
-- Built Campsite
-- Island villager population 7-10
-- Built a bridge and a ramp
-- Met Mabel and Sable (*See [here](https://chibisnorlax.github.io/acnhfaq/npc/#mabel)*) 
+<div>
+  <input type="checkbox" checked="yes"/>  
+    <label>Resident Services built</label> <br>
+  <input type="checkbox" checked="yes"/>
+    <label>Unlocked Isabelle</label> <br>
+  <input type="checked box" checked="yes"/>
+    <lebel>Built Campsite</label> <br>
+  <input type="checked box" checked="yes"/>
+    <lebel>Island villager population 7-10</label> <br>
+  <input type="checked box" checked="yes"/>
+    <label>Built a bridge and a ramp</label>
+  <input type="checked box" checked="yes"/>
+  <label>Met Mabel and Sable (*See [here](https://chibisnorlax.github.io/acnhfaq/npc/#mabel)*)</label> <br>
+</div>
 
 # Optional Objectives:
