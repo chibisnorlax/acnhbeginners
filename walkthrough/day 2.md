@@ -36,7 +36,7 @@ Additionally, the **airport** is now open.
   - 30 **Iron Nuggets**
 - To obtain all types of wood, hit trees with your flimsy or stone axe, if you have a regular axe this will work too, but it will also cut the tree down.
 - To obtain iron nuggets, hit the large rocks you see around your island. They tend to be the most difficult to obtain. We recommend reading [here](https://chibisnorlax.github.io/acnhfaq/island-life/#how-can-i-get-8-hits-from-a-rock) to see how to get the most material drops out of your rocks.
-- Timmy will not take materials from you unless you have the full 30 he is asking for, so don't worry about coming back to talk to him until you've collected 30 of a material.
+- Timmy will not take materials from you unless you have the full 30 he is asking for, so don't worry about coming back to talk to him until you've collected 30 of any one material.
 - This quest does not have to be completed in one day. In fact, it may take you awhile to gather all the materials you need. But if you want more, you're in luck, Tom Nook is going to give you a free **Nook Miles Ticket**, which will allow you to visit a mystery island and gather more materials. 
 
 ## Complete your first Mystery Tour
@@ -44,12 +44,12 @@ Additionally, the **airport** is now open.
 - Take this to the **airport** and speak with [Orville](https://chibisnorlax.github.io/acnhfaq/npc/#orville-and-wilbur), the dodo bird at the desk. Orville will explain to you what mystery tours are, and offer to take you on one in exchange for one NMT.
 - The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have a villager who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
 
-
 *Note: If you invite a villager they will not move in until you have a free plot for them which you can find information about later in this guide ([here](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%203/#new-villagers)*
+
 ## What else can I do today?
 - Since you unlocked the Nook Stop today, it may be a good idea to purchase the **tool ring**, which lets you quickly access your tools by using the D-Pad on your Switch.
 - Additionally, you may want to purchase the "Pretty Good Tools" recipe pack from the Nook Stop, which will give you DIY recipes for more durable versions of the axe, shovel, fishing rod, net, and watering can.
-- There might be a villager on the NMT island you visit. If you would like to invite them to live on your island, speak to them and ask them to move in.
+- There might be a villager on the NMT island you visit. If you would like to invite them to live on your island, speak to them and ask them to move in. You are **not required** to invite that villager, thouhgh; if you'd rather wait and see who else you meet, feel free to just chat with them or ignore them altogether!
 
 * * *
 
