@@ -32,7 +32,7 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
   <input type="checkbox" checked="yes"/>
     <label>Island villager population 7-10</label> <br>
   <input type="checkbox" checked="yes"/>
-    <label>Built a bridge and a ramp</label>
+    <label>Built a bridge and a ramp</label> <br>
   <input type="checkbox" checked="yes"/>
     <label>Met Mabel and Sable</label> <br>
 </div>
