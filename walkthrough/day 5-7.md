@@ -34,7 +34,7 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
   <input type="checkbox" checked="yes"/>
     <label>Built a bridge and a ramp</label>
   <input type="checkbox" checked="yes"/>
-    <label>Met Mabel and Sable(*See [here](https://chibisnorlax.github.io/acnhfaq/npc/#mabel)*)</label> <br>
+    <label>Met Mabel and Sable</label> <br>
 </div>
 
 
