@@ -7,7 +7,7 @@ nav_order: 2
 
 # Day 2
 
-Welcome to day 2 of the game! By now, your player has woken up from their sleep, and the game is now synced to **real-time**. You should have:
+Welcome to day 2 of the game! By now, your player has woken up from their sleep, and the game is now synced to **real-time**. You should have completed the following:
 - Placed your tent and your villagers' tents.
 - Paid off your first loan.
 - Learned how to craft DIY items.
