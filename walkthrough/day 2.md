@@ -9,7 +9,7 @@ nav_order: 2
 
 Welcome to day 2 of the game! By now, your player has woken up from their sleep, and the game is now synced to **real-time**. You should have completed the following:
 - Placed your tent and your villagers' tents.
-- Paid off your first loan.
+- Paid off your first loan and upgraded to an actual house.
 - Learned how to craft DIY items.
 - Given 5 critters to Tom Nook and placed Blathers' tent.
 
@@ -18,7 +18,6 @@ If you haven't, please visit [Day 1](https://chibisnorlax.github.io/acnhbeginner
 Additionally, the **airport** is now open.
 
 * * *
-
 # Tasks
 
 ## Visit Blathers
@@ -52,7 +51,6 @@ Additionally, the **airport** is now open.
 - There might be a villager on the NMT island you visit. If you would like to invite them to live on your island, speak to them and ask them to move in. You are **not required** to invite that villager, thouhgh; if you'd rather wait and see who else you meet, feel free to just chat with them or ignore them altogether!
 
 * * *
-
 # Completed Objectives:
 <div>
   <input type="checkbox" checked="yes"/>  
