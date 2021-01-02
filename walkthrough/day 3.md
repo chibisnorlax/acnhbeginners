@@ -39,7 +39,7 @@ If you haven't, please see [Day 2](https://chibisnorlax.github.io/acnhbeginners/
 # Completed Objectives:
 <div>
   <input type="checkbox" checked="yes"/>  
-    <label>Nook's Cranny quest completed</label> <br>
+    <label>Nook's Cranny quest completed.</label> <br>
 </div>
 
 ## Optional Objectives:
