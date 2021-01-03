@@ -28,7 +28,7 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
   <input type="checkbox" checked="yes"/>
     <label>Unlocked Isabelle</label> <br>
   <input type="checkbox" checked="yes"/>
-    <lebel>Built Campsite</label> <br>
+    <label>Built Campsite</label> <br>
   <input type="checkbox" checked="yes"/>
     <label>Island villager population 7-10</label> <br>
   <input type="checkbox" checked="yes"/>
