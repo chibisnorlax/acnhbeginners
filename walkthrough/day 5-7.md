@@ -40,7 +40,21 @@ Now the next step is to get 2 more villagers to move in to your island! -- **nee
 ## Upgrading the Resident Services
 
 
-The Resident Services is the tent that you go to talk to Tom Nook at the moment! To activate the upgrade you need to have built the Nooks Cranny and have 8 villagers! See [above](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%205-7/#more-villagers) for more villagers and [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for more guidance on the Nooks Cranny.
+The Resident Services is the tent that you go to talk to Tom Nook at the moment! To activate the upgrade you need to have built the Nooks Cranny and have 8 villagers! See [above](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%205-7/#more-villagers) for more villagers and [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for more guidance on the Nooks Cranny. After this Tom Nook will announce that the Resident Services is closed for upgrading! The next day the construction will be complete!
+
+
+## Isabelle
+
+
+Isabelle is an NPC you meet once the upgrade of teh Resident Services is complete! Tom Nook will introsduce you to her and explain that she will take some of his responsibiities. Isabelle also adds some options for you! After the announcement of completing the build has been complete then head over to the Resident services. Isballe is on the right and Tom Nook is on the left. Approach the seat in front of Isabelle and sit down. Isabelle will then greet you and present you with tehse options:
+- Change Island tune
+  - This changes your island tune! This can be heard when you talk to any NPC or Villager! Villagers can also be found singing this at your **Resident Services Plaza**
+- Change Island Flag
+  - You can choose one of your custom designs for an Island Flag. This will be seen ontop of the **Resident Services building** and outside the **Airport.**
+- Report a Villager
+  - **Add here**
+
+Isabelle will now also be giving you your daily announcments instead of Tom Nook.
 * * *
 
 # Completed Objectives:
