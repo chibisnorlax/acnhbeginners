@@ -9,15 +9,15 @@ nav_order: 3
 Welcome to day 3 of the game! You should have completed the following:
 
 - Obtained the Flimsy Shovel and Vaulting Pole DIY recipes
-- Donated 15 unique artifacts. (The museum should be under construction today!) 
-- Activated quest for Nooks Cranny
+- Donated 15 unique artifacts. (The Museum should be under construction today!) 
+- Activated quest for Nook's Cranny
 - Gone on a mystery island tour
 
 If you haven't, please see [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/) for further guidance.
 
 * * *
 # Tasks
-## Nooks Cranny completion
+## Nook's Cranny completion
 - Finish gathering resources for Nook's Cranny. As a reminder, you must collect:
   - 30 **Wood**
   - 30 **Softwood**
