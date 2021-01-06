@@ -59,6 +59,8 @@ Isabelle is an NPC you meet once the upgrade of teh Resident Services is complet
   
 {: .note}
 **Reporting the way a villager dresses** will **NOT** remove custom clothes that the villager has if they were brought from another island. This function will only remove custom clothes from **your island**. These custom designs from your island need to be **displayed in the ables sisters shop**.
+
+
 **Reporting the way a villager talks** will **NOT** remove any *nickanames* the villagers have for you or their *greetings!*
 
 
