@@ -40,7 +40,7 @@ Now the next step is to get 2 more villagers to move in to your island! -- **nee
 ## Upgrading the Resident Services
 
 
-The Resident Services is the tent that you go to talk to Tom Nook at the moment! To activate the upgrade you need to have built the Nooks Cranny and have 8 villagers! See [above](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%205-7/#more-villagers) for more villagers and [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for more guidance on the Nooks Cranny. After this Tom Nook will announce that the Resident Services is closed for upgrading! The next day the construction will be complete!
+The Resident Services is the tent that you go to talk to Tom Nook at the moment! To activate the upgrade you need to have built the Nook's Cranny and have 8 villagers! See [above](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%205-7/#more-villagers) for more villagers and [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for more guidance on the Nook's Cranny. After this Tom Nook will announce that the Resident Services is closed for upgrading! The next day the construction will be complete!
 
 
 ## Isabelle
