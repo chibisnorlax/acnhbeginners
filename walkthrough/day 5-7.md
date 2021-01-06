@@ -54,13 +54,10 @@ Isabelle is an NPC you meet once the upgrade of teh Resident Services is complet
 - Report a Villager
   - To report a villager you get 2 option: **"Report the way they dress"** and **"Report the way they talk"**
   - **Report the way they dress:** This will reset teh villagers custom clothes designs from **your island** in their inventory.
-  - **Report the way they talk:** This will reset their catchphrase the villager have.
-  
-  
 {: .note}
 **Reporting the way a villager dresses** will **NOT** remove custom clothes that the villager has if they were brought from another island. This function will only remove custom clothes from **your island**. These custom designs from your island need to be **displayed in the ables sisters shop**.
-
-
+  - **Report the way they talk:** This will reset their catchphrase the villager have.
+{: .note}
 **Reporting the way a villager talks** will **NOT** remove any *nickanames* the villagers have for you or their *greetings!*
 
 
