@@ -31,10 +31,10 @@ Additionally, the **airport** is now open.
 - Timmy will ask you to gather the following materials:
 <div>
   <ul>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></img></span> <b>Wood</b></li>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></img></span> <b>Softwood</b></li>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></img></span> <b>Hardwood</b></li>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></img></span> <b>Iron Nuggets</b><br></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></span> <b>Hardwood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
   </ul>
 </div>
 - To obtain all types of wood, hit trees with your flimsy or stone axe, if you have a regular axe this will work too, but it will also cut the tree down.
