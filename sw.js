@@ -1,4 +1,4 @@
-var VERSION = "1.0.0"; // Update this number on major Update
+var VERSION = "1.0.1"; // Update this number on major Update
 var APP_PREFIX = "ACNH Beginners";
 var CACHE_NAME = APP_PREFIX + VERSION;
 var URLS = [
