@@ -37,11 +37,22 @@
             "purpose": "maskable"
         }
     ],
+    "shortcuts": [
+        {
+            "name": "Open The Home Page",
+            "short_name": "Home Page",
+            "description": "Open the Home page of the app.",
+            "url": "/acnhbeginners/"
+        }
+    ],
     "theme_color": "#1a1a1a",
     "background_color": "#1a1a1a",
+    "categories": [
+        "education"
+    ],
     "start_url": "https://chibisnorlax.github.io/acnhbeginners/",
     "display": "standalone",
-    "orientation": "natural",
+    "orientation": "portrait",
     "url": "https://chibisnorlax.github.io/acnhbeginners/",
     "screenshots": [],
     "prefer_related_applications": false
