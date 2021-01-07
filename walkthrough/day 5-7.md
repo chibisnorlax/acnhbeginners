@@ -3,6 +3,7 @@ layout: default
 title: Days 5-7
 parent: Walkthrough
 nav_order: 5
+permalink: day-5-7/
 ---
 
 # Days 5-7

@@ -3,6 +3,7 @@ layout: default
 title: Day 2
 parent: Walkthrough
 nav_order: 2
+permalink: day-2/
 ---
 
 # Day 2
