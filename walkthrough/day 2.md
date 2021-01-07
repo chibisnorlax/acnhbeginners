@@ -29,10 +29,14 @@ Additionally, the **airport** is now open.
 ## Build Nook's Cranny 
 - Head to Resident Services and speak with Timmy. As long as your tent was **upgraded into a house**, he should speak with you about building Nook's Cranny.
 - Timmy will ask you to gather the following materials:
-  - 30 **Wood**
-  - 30 **Softwood**
-  - 30 **Hardwood**
-  - 30 **Iron Nuggets**
+<div>
+  <ul>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></img></span> <b>Wood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></img></span> <b>Softwood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></img></span> <b>Hardwood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></img></span> <b>Iron Nuggets</b><br></li>
+  </ul>
+</div>
 - To obtain all types of wood, hit trees with your flimsy or stone axe, if you have a regular axe this will work too, but it will also cut the tree down.
 - To obtain iron nuggets, hit the large rocks you see around your island. They tend to be the most difficult to obtain. We recommend reading [here](https://chibisnorlax.github.io/acnhfaq/island-life/#how-can-i-get-8-hits-from-a-rock) to see how to get the most material drops out of your rocks.
 - Timmy will not take materials from you unless you have the full 30 he is asking for, so don't worry about coming back to talk to him until you've collected 30 of any one material.

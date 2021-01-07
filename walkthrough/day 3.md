@@ -19,10 +19,14 @@ If you haven't, please see [Day 2](https://chibisnorlax.github.io/acnhbeginners/
 # Tasks
 ## Nook's Cranny completion
 - Finish gathering resources for Nook's Cranny. As a reminder, you must collect:
-  - 30 **Wood**
-  - 30 **Softwood**
-  - 30 **Hardwood**
-  - 30 **Iron Nuggets**
+<div>
+  <ul>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></img></span> <b>Wood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></img></span> <b>Softwood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></img></span> <b>Hardwood</b></li>
+    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></img></span> <b>Iron Nuggets</b><br></li>
+  </ul>
+</div>
 - Upon completion, Timmy will hand you the Nook's Cranny shop placement kit. Find a suitable location to place it down, as you will not be able to move it for some time.
 
 {: .note}
