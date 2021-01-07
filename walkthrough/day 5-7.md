@@ -1,72 +1,76 @@
 ---
 layout: default
-title: Day 5-7
+title: Days 5-7
 parent: Walkthrough
 nav_order: 5
 ---
 
 # Days 5-7
-Welcome to Day 5-7!
-- Opened the Museum
-- Opened Nook's Cranny
+Welcome to Days 5-7! The following days will be clumped together as there is much less structure and these objectives can be completed any time before the end of the week. Before proceeding, please make sure you've completed the following objectives:
 - Crafted and placed your first bridge
-- Finished furnishing three plots
+- Placed and furnished three plots
 
+If you have not completed any of this please see [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for further guidance.
 
-If you have not completed any of this please see [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/)
 * * *
-
 # Tasks
-## Campsite
+## Customization workshop
+- Now that you've furnished the plots, Tom Nook should make an announcement about his **customization workshop**. Customization allows you to change the look of some items.
+  - *Note:* Not every item is customizable.
+- Customization is relatively straightforward, all you need to do is bring the **item you want to customize** and the required number of **customization kits** to a workbench and select "customize something".
+- Tom Nook will give you 50 customization kits for you to use and experiment with.
 
+## Harvey and his island
+- In the next couple days you might see a hippie dog walking around your island. Talking to him will prompt him to introduce himself as Harvey (Harv for short) and invite you to visit his island.
+- Harv's island is also called **Photopia**, and you can use the house on his island to stage photos for fun.
 
-Now you should have 5 villagers! Those are your 2 starting villagers and the 3 that claimed the plots you built. After everyone has moved in to the island Tom Nook will give you the campsite building kit. This is where a Camper will come and you will have to make them move to your island! Find a spot to build the campsite and press <span class="icon-A"></span> and you will have 2 options:
-- Imagine it
-- This is the spot
+{: .note}
+Harv's island is also where you obtain **villager and NPC posters**. You can do this by spawning your villagers into Photopia (select the tab with the cat head on it when in design mode), or by scanning in a villager/NPC's [Amiibo](https://chibisnorlax.github.io/acnhfaq/villagers/#what-are-amiibos-who-has-an-amiibo).
 
+## Upgraded Resident Services and Isabelle
+- When all 3 of your brand new villagers have moved in, Tom Nook will make an announcement that he is upgrading the Resident Services tent into a building -- hooray! 
+- There's nothing you have to do to proceed with this, but the building will be down and inaccessible for a day. If you have an ABD streak, it will not be affected by the construction day, so don't worry about losing your miles.
 
-Similar to building bridges "Imagine it" will show you how the campsite will look in that spot and "This is the spot" will place it! The first Camper that will visit will be your 6th villager!
-{: .note} You may have to wait a few days before you see a camper pop up in the campsite! Tom Nook will announce when you have a camper in your campsite.
+### Isabelle
+- Isabelle is an NPC you meet once the upgrade of the Resident Services is complete. Tom Nook will introduce her during announcements and explain that she will take some of his responsibilities.
+- Isabelle also adds some new options for you. Visit [here](https://chibisnorlax.github.io/acnhfaq/npc/#isabelle) to learn more about Isabelle and what she does. 
 
-- Does the first camper have to move in to my island?
-  - Yes they do! No matter who the first camper is they will have to move in, but don't worry if you want you can get rid of them later! See [here](https://yuexr.github.io/acnh/moveout.html) for how to get rid of them!
+### Construction counter 
+- You now have access to Tom Nook's **construction counter**. By sitting in front of Tom Nook's desk, you may now:
+  - Ask to build inclines
+  - Ask to build ramps
+  - Ask to move buildings (everything except the Resident Services building can be moved)
 
-See [here](https://chibisnorlax.github.io/acnhfaq/villagers/#how-often-does-someone-visit-my-campsite) for more information on the campsite!
+## Able Sisters
+talk about inviting mabel here.
 
-## More Villagers
+* * *
+<!-- tentative organization for now. -->
+# Project K
+- The activation of this quest signals the tail end of the tutorial. Once you have finished this quest, the tutorial will be over and you will not have any more quests given by Tom Nook to complete.
+- Speak to Tom Nook at the construction counter and ask him "What should I do?". He will explain that he has a vision for the island, and that he would like to invite [K.K. Slider](https://chibisnorlax.github.io/acnhfaq/npc/#kk-slider) to perform on your humble island.
+- Project K is split into three phases, all of which need to be completed in order for K.K. Slider to visit:
+  1. Build a Campsite
+  2. Invite more villagers to live on your island
+  3. Improve your island's image
+- How to complete these steps will be outlined below.
 
+### Campsite
+- The first thing Tom Nook will want you to do is build a campsite. He will give you the DIY for a **Campsite construction kit**, a temporary DIY that you must craft in order to place the campsite. The recipe calls for:
+  - 15 **Wood**
+  - 15 **Softwood**
+  - 15 **Hardwood**
+  - 15 **Iron nugget**
+- Once crafted you may place the campsite wherever you see fit. You can move it later if you decide you don't like it's placement.
+- In 2 days, your campsite will have it's first visitor! This visitor will be a **smug** villager and they are *required* to invite in order to progress the story.
+  - If you don't like your camper, you can always let them move out later on.
 
+### More Villagers
 Now the next step is to get 2 more villagers to move in to your island! -- **needs to be finished**
-## Upgrading the Resident Services
 
+### Island Rating
+u can basically just link https://chibisnorlax.github.io/acnhfaq/island-dev/rating/ here. no need to repeat ourselves. :craughig: 
 
-The Resident Services is the tent that you go to talk to Tom Nook at the moment! To activate the upgrade you need to have built the Nook's Cranny and have 6 villagers! See [above](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%205-7/#more-villagers) for more villagers and [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for more guidance on the Nook's Cranny. After this Tom Nook will announce that the Resident Services is closed for upgrading! The next day the construction will be complete!
-
-
-## Isabelle
-
-
-Isabelle is an NPC you meet once the upgrade of the Resident Services is complete! Tom Nook will introduce you to her and explain that she will take some of his responsibilities. Isabelle also adds some options for you! After the announcement of completing the building has been completed, head over to the Resident services. Isabelle is on the right and Tom Nook is on the left. Approach the seat in front of Isabelle and sit down. Isabelle will then greet you and present you with these options:
-- Change Island tune
-  - This changes your island tune! This can be heard when you talk to any NPC or Villager! Villagers can also be found singing this at your **Resident Services Plaza**
-- Change Island Flag
-  - You can choose one of your custom designs for an Island Flag. This will be seen ontop of the **Resident Services building** and outside the **Airport.**
-- Report a Villager
-  - To report a villager you get 2 option: **"Report the way they dress"** and **"Report the way they talk"**
-  - **Report the way they dress:** This will reset teh villagers custom clothes designs from **your island** in their inventory.
-
-{: .note}
-**Reporting the way a villager dresses** will **NOT** remove custom clothes that the villager has if they were brought from another island. This function will only remove custom clothes from **your island**. These custom designs from your island need to be **displayed in the ables sisters shop**.
-
-
-  - **Report the way they talk:** This will reset their catchphrase the villager have.
-  
-  
-{: .note}
-**Reporting the way a villager talks** will **NOT** remove any *nickanames* the villagers have for you or their *greetings!*
-
-
-Isabelle will now also be giving you your daily announcments instead of Tom Nook.
 * * *
 
 # Completed Objectives:
@@ -86,4 +90,4 @@ Isabelle will now also be giving you your daily announcments instead of Tom Nook
 </div>
 
 
-# Optional Objectives:
+## Optional Objectives:
