@@ -14,7 +14,7 @@ Welcome to day 2 of the game! By now, your player has woken up from their sleep,
 - Learned how to craft DIY items.
 - Given 5 critters to Tom Nook and placed Blathers' tent.
 
-If you haven't, please visit [Day 1](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%201) for further guidance.
+If you haven't, please visit [Day 1](/acnhbeginners/day-1/) for further guidance.
 
 Additionally, the **airport** is now open.
 
