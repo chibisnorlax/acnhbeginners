@@ -1,0 +1,48 @@
+{
+    "lang": "en",
+    "dir": "ltr",
+    "name": "ACNH: Beginner's Guide",
+    "short_name": "Beginner's Guide",
+    "description": "A beginner's guide to AC:NH.",
+    "icons": [
+        {
+            "src": "https://chibisnorlax.github.io/acnhbeginners/assets/logo_icn_48.png",
+            "sizes": "48x48",
+            "type": "image/png"
+        },
+        {
+            "src": "https://chibisnorlax.github.io/acnhbeginners/assets/logo_icn_72.png",
+            "sizes": "72x72",
+            "type": "image/png"
+        },
+        {
+            "src": "https://chibisnorlax.github.io/acnhbeginners/assets/logo_icn_96.png",
+            "sizes": "96x96",
+            "type": "image/png"
+        },
+        {
+            "src": "https://chibisnorlax.github.io/acnhbeginners/assets/logo_icn_144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "https://chibisnorlax.github.io/acnhbeginners/assets/logo_icn_192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "https://chibisnorlax.github.io/acnhbeginners/assets/logo_icn_512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ],
+    "theme_color": "#1a1a1a",
+    "background_color": "#1a1a1a",
+    "start_url": "https://chibisnorlax.github.io/acnhbeginners/",
+    "display": "standalone",
+    "orientation": "natural",
+    "url": "https://chibisnorlax.github.io/acnhbeginners/",
+    "screenshots": [],
+    "prefer_related_applications": false
+}
