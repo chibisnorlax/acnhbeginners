@@ -14,7 +14,7 @@ Welcome to day 3 of the game! You should have completed the following:
 - Activated quest for Nook's Cranny
 - Gone on a mystery island tour
 
-If you haven't, please see [Day 2](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%202/) for further guidance.
+If you haven't, please see [Day 2](/acnhbeginners/day-2/) for further guidance.
 
 * * *
 # Tasks
