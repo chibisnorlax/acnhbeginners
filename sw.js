@@ -1,4 +1,4 @@
-var VERSION = "1.0.1"; // Update this number on major Update
+var VERSION = "1.0.2"; // Update this number on major Update
 var APP_PREFIX = "ACNH Beginners";
 var CACHE_NAME = APP_PREFIX + VERSION;
 var URLS = [
@@ -17,7 +17,7 @@ var URLS = [
   "https://chibisnorlax.github.io/acnhfaq/assets/fonts/font.css",
   "https://chibisnorlax.github.io/acnhbeginners/assets/css/just-the-docs-default.css",
   "https://chibisnorlax.github.io/acnhbeginners/assets/css/just-the-docs-custom.css",
-  "https://chibisnorlax.github.io/acnhbeginners/assets/js/vendor/lunr.min.js"
+  "https://chibisnorlax.github.io/acnhbeginners/assets/js/vendor/lunr.min.js",
   "https://chibisnorlax.github.io/acnhbeginners/assets/js/just-the-docs.js",
   "https://chibisnorlax.github.io/acnhbeginners/serviceloader.js",
 ];
