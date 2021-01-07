@@ -24,7 +24,7 @@ Additionally, the **airport** is now open.
 - Blathers should have set up his tent in the location that you placed it. Go pay him a visit!
 - Upon first speaking with him, he should give you the **Flimsy Shovel** and **Vaulting Pole** DIY recipes. The former can be used to get materials from rocks, dig holes, and uproot tree stumps. The latter can be used to travel across rivers.
 - He will then ask you to donate **15 unique bugs, fish, and/or fossils** to him. You will need to complete this in order for Blathers to upgrade his tent to the full museum building. 
-- **Fossils** can be found by digging up spots in the ground that look like X's. Bring them to Blathers to be assessed. 
+- <span><img src="https://acnhcdn.com/latest/MenuIcon/Fossil.png" id="inv-icon"></span> **Fossils** can be found by digging up spots in the ground that look like X's. Bring them to Blathers to be assessed. 
 
 ## Build Nook's Cranny 
 - Head to Resident Services and speak with Timmy. As long as your tent was **upgraded into a house**, he should speak with you about building Nook's Cranny.
@@ -37,13 +37,13 @@ Additionally, the **airport** is now open.
     <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
   </ul>
 </blockquote>
-- To obtain all types of wood, hit trees with your flimsy or stone axe, if you have a regular axe this will work too, but it will also cut the tree down.
-- To obtain iron nuggets, hit the large rocks you see around your island. They tend to be the most difficult to obtain. We recommend reading [here](https://chibisnorlax.github.io/acnhfaq/island-life/#how-can-i-get-8-hits-from-a-rock) to see how to get the most material drops out of your rocks.
+- To obtain all types of wood, hit trees with your flimsy or stone axe, if you have a regular axe this will work too, but it will also cut the tree down. Note that a single tree will only drop 3 wood per day, but will replenish the next day.
+- To obtain iron nuggets, hit the large rocks you see around your island. They tend to be the most difficult to obtain. We recommend reading [the FAQ question here](https://chibisnorlax.github.io/acnhfaq/island-life/#how-can-i-get-8-hits-from-a-rock) to see how to get the most material drops out of your rocks.
 - Timmy will not take materials from you unless you have the full 30 he is asking for, so don't worry about coming back to talk to him until you've collected 30 of any one material.
 - This quest does not have to be completed in one day. In fact, it may take you awhile to gather all the materials you need. But if you want more, you're in luck, Tom Nook is going to give you a free **Nook Miles Ticket**, which will allow you to visit a mystery island and gather more materials. 
 
 ## Complete your first Mystery Tour
-- Upon talking to Tom Nook, he should mention something called a Nook Miles Ticket (often abbreviated as NMT), and give you one for free. 
+- Upon talking to Tom Nook, he should mention something called a <span><img src="https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket** (often abbreviated as NMT), and give you one for free. 
 - Take this to the **airport** and speak with [Orville](https://chibisnorlax.github.io/acnhfaq/npc/#orville-and-wilbur), the dodo bird at the desk. Orville will explain to you what mystery tours are, and offer to take you on one in exchange for one NMT.
 - The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have a villager who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
 
@@ -51,7 +51,7 @@ Additionally, the **airport** is now open.
 
 ## What else can I do today?
 - Since you unlocked the Nook Stop today, it may be a good idea to purchase the **tool ring**, which lets you quickly access your tools by using the D-Pad on your Switch.
-- Additionally, you may want to purchase the "Pretty Good Tools" recipe pack from the Nook Stop, which will give you DIY recipes for more durable versions of the axe, shovel, fishing rod, net, and watering can.
+- Additionally, you may want to purchase the <span><img src="https://acnhcdn.com/latest/MenuIcon/BookRecipe.png" id="inv-icon"></span> "Pretty Good Tools" recipe pack from the Nook Stop, which will give you DIY recipes for more durable versions of the axe, shovel, fishing rod, net, and watering can.
 - There might be a villager on the NMT island you visit. If you would like to invite them to live on your island, speak to them and ask them to move in. You are **not required** to invite that villager, thouhgh; if you'd rather wait and see who else you meet, feel free to just chat with them or ignore them altogether!
 
 * * *

@@ -17,8 +17,8 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
 ## Customization workshop
 - Now that you've furnished the plots, Tom Nook should make an announcement about his **customization workshop**. Customization allows you to change the look of some items.
   - *Note:* Not every item is customizable.
-- Customization is relatively straightforward, all you need to do is bring the **item you want to customize** and the required number of **customization kits** to a workbench and select "customize something".
-- Tom Nook will give you 50 customization kits for you to use and experiment with.
+- Customization is relatively straightforward, all you need to do is bring the **item you want to customize** and the required number of <span><img src="https://acnhcdn.com/latest/MenuIcon/RemakeKit.png" id="inv-icon"></span> **customization kits** to a workbench and select `Customize Something`.
+- Tom Nook will give you <span><img src="https://acnhcdn.com/latest/MenuIcon/RemakeKit.png" id="inv-icon"></span> **50 customization kits** for you to use and experiment with.
 
 ## Harvey and his island
 - In the next couple days you might see a hippie dog walking around your island. Talking to him will prompt him to introduce himself as Harvey (Harv for short) and invite you to visit his island.
@@ -36,7 +36,7 @@ Harv's island is also where you obtain **villager and NPC posters**. You can do 
 - Isabelle also adds some new options for you. Visit [here](https://chibisnorlax.github.io/acnhfaq/npc/#isabelle) to learn more about Isabelle and what she does. 
 
 ### Construction counter 
-- You now have access to Tom Nook's **construction counter**. By sitting in front of Tom Nook's desk, you may now:
+- You now have access to Tom Nook's **Construction Counter**. By sitting in front of Tom Nook's desk, you may now:
   - Ask to build inclines
   - Ask to build ramps
   - Ask to move buildings (everything except the Resident Services building can be moved)
@@ -57,10 +57,14 @@ talk about inviting mabel here.
 
 ### Campsite
 - The first thing Tom Nook will want you to do is build a campsite. He will give you the DIY for a **Campsite construction kit**, a temporary DIY that you must craft in order to place the campsite. The recipe calls for:
-  - 15 **Wood**
-  - 15 **Softwood**
-  - 15 **Hardwood**
-  - 15 **Iron nugget**
+<blockquote>
+  <ul>
+    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
+    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
+    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></span> <b>Hardwood</b></li>
+    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
+  </ul>
+</blockquote>
 - Once crafted you may place the campsite wherever you see fit. You can move it later if you decide you don't like it's placement.
 - In 2 days, your campsite will have it's first visitor! This visitor will be a **smug** villager and they are *required* to invite in order to progress the story.
   - If you don't like your camper, you can always let them move out later on.

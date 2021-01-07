@@ -42,7 +42,7 @@ If you have not, please visit [Day 3](https://chibisnorlax.github.io/acnhbeginne
 ## What else can I do today?
 - Nook's Cranny and the museum should both be officially open! Swing by to check out what the Nooklings are selling, and head to the museum to see the things you've donated so far.
 - [Mabel](https://chibisnorlax.github.io/acnhfaq/npc/#mabel) will introduce herself when you enter Nook's Cranny for the first time. She is one of the owners of the Able Sisters' tailor shop, where your character can buy new clothes. Visit [here](https://chibisnorlax.github.io/acnhfaq/unlocks/#building-unlocks) to see how to unlock the Able Sisters. 
-- You can also invite villagers to come live in your plots, if you haven't done so already. Just use a **Nook Miles Ticket** to villager hunt.
+- You can also invite villagers to come live in your plots, if you haven't done so already. Just use a <span><img src="https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket** to villager hunt.
 
 * * *
 

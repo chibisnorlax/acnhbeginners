@@ -84,8 +84,8 @@ After you have set up most the steps above with Timmy and Tommy you are now sent
 ![Fruit Trees](/acnhbeginners/assets/fruittrees.png)
 {: .center}
 
-- After all 3 tents are placed, Tom nook will give you some tasks to learn how to gather materials. You will need to collect **10 tree branches** and some fruit!
-  - Press <span class="icon-A"></span> while facing a tree to shake it. If there is fruit on the tree, then the fruit will fall down. If there isn't, then branches, wasps, or coins have a chance of falling out of the tree. Press <span class="icon-Y"></span> to pick up things on the ground.
+- After all 3 tents are placed, Tom nook will give you some tasks to learn how to gather materials. You will need to collect **10** <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYBranch.png" id="inv-icon"></span> **tree branches** and some fruit!
+  - Press <span class="icon-A"></span> while facing a tree to shake it. If there is fruit on the tree, then the fruit will fall down. If there isn't, then branches, wasps (and their nests), or coins have a chance of falling out of the tree. Press <span class="icon-Y"></span> to pick up things on the ground.
 
 ## Party time + naming your island
 - After completing the objectives, Tom Nook will hold a party in the plaza. When you are finished celebrating, head to your tent and lay down in your cot to sleep. A special character will visit your dreams to offer some words of wisdom :)
@@ -98,9 +98,9 @@ You **cannot** rename your island, so be sure it's something you like!
 
 # Syncing to real-time
 - After you fall asleep, the game syncs to real time (your timezone), so make sure you have set the correct Switch settings.
-  - Home menu > System Settings (gear icon at the bottom of your screen) > System > Date and Time
+  - `Home` menu > `System Settings` (gear icon at the bottom of your screen) > `System` > `Date and Time`
 - Upon waking up, Tom Nook will be at your tent waiting for you. He will then hand you your very own **NookPhone**! To open your NookPhone, press <span class="icon-ZL"></span>. Additionally, he will mention your **itemized bill**. This is your very first loan (of many) that you will pay to [upgrade your house](https://chibisnorlax.github.io/acnhfaq/unlocks/#house-unlocks).
-  - The very first loan is paid off in Nook Miles, but every loan after that will be paid back in bells.
+  - The very first loan is paid off in <span class="icon-NM"></span> Nook Miles, but every loan after that will be paid back in <span class="icon-Bells"></span> bells.
 
 ## DIYs, buying from Timmy, tools and more! 
 - When you are ready, head to the Resident Services tent, where Tom Nook will inform you of a couple things.
@@ -114,7 +114,7 @@ You **cannot** rename your island, so be sure it's something you like!
 ## Unique critter collection
 - After completing Tom Nook's DIY workshop, he will mention having an interest in the island's natural critters. You'll want to bring him **5 unique (different) bugs and/or fish** to complete this quest.
 - If you find a bug hopping/crawling around on the ground or flying in the sky, use your net.
-  - To use your net hold it (open your pockets, select the net and select "equip/hold"). Hold down <span class="icon-A"></span> to slowly walk towards a bug (this is useful for bugs that fly/crawl away when they notice you). When you are 1 or 2 paces away or close enough let go of the <span class="icon-A"></span> button to swing your net! You can also just walk up to some bugs and press <span class="icon-A"></span> without sneaking up on them.
+  - To use your net hold it (open your pockets, select the net and select `Equip/Hold`). Hold down <span class="icon-A"></span> to slowly walk towards a bug (this is useful for bugs that fly/crawl away when they notice you). When you are 1 or 2 paces away or close enough let go of the <span class="icon-A"></span> button to swing your net! You can also just walk up to some bugs and press <span class="icon-A"></span> without sneaking up on them.
   - TIP: Organize your inventory so your tools are easy to find and access! There are many more to come.
 - You can also give Tom Nook fish!
   - See a fish shadow in the water? Grab your fishing rod! When on the edge of the water, press <span class="icon-A"></span> to cast your line. The fish will nibble at your lure 0-5 times, which will emit a weak vibration<sup><span class="icon-Ex"></span></sup> and soft splashing noises. When you feel a stronger vibration<sup><span class="icon-Ex"></span></sup>, hear a louder, snappier splash (a "ker-plunk" noise), and see the lure sink beneath the water's surface, press <span class="icon-A"></span> again to reel in your fish. Be fast! Some fish require a quick reaction time to reel in, otherwise they will swim away.
