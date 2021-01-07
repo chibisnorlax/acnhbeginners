@@ -15,7 +15,7 @@ If you have not, please visit [Day 3](https://chibisnorlax.github.io/acnhbeginne
 # Tasks
 ## Your first bridge
 - Upon talking to Tom Nook, he will mention his desire to increase the population of the island. This is the beginning of the **3 Plots Quest**. He will then give you a DIY Bridge Kit that you must craft and place. The bridge kit calls for:
-<div>
+<div class="DIY-indent">
   <ul>
     <li>4 <span><img src="https://acnhcdn.com/latest/DIYRecipeIcon/FtrWoodPile.png" id="inv-icon"></span> <b>Log Stakes</b></li>
     <li>4 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreStone.png" id="inv-icon"></span> <b>Stone</b></li>

@@ -29,7 +29,7 @@ Additionally, the **airport** is now open.
 ## Build Nook's Cranny 
 - Head to Resident Services and speak with Timmy. As long as your tent was **upgraded into a house**, he should speak with you about building Nook's Cranny.
 - Timmy will ask you to gather the following materials:
-<div>
+<div class="DIY-indent">
   <ul>
     <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
     <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>

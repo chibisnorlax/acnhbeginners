@@ -19,7 +19,7 @@ If you haven't, please see [Day 2](https://chibisnorlax.github.io/acnhbeginners/
 # Tasks
 ## Nook's Cranny completion
 - Finish gathering resources for Nook's Cranny. As a reminder, you must collect:
-<div>
+<div class="DIY-indent">
   <ul>
     <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
     <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
