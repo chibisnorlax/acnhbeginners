@@ -10,7 +10,7 @@ permalink: day-4/
 You made it, welcome to day 4 of the game! Today is going to be exciting. Before continuing on, please make sure you have completed the following:
 - Completed Nook's Cranny quest (it should be fully built by today)
 
-If you have not, please visit [Day 3](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%203/) for further guidance.
+If you have not, please visit [Day 3](/acnhbeginners/day-3/) for further guidance.
 
 * * *
 # Tasks
