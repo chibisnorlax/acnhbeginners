@@ -7,7 +7,7 @@ nav_order: 5
 
 # Days 5-7
 Welcome to Day 5-7!
-- Museum open
+- Opened the Museum
 - Opened Nook's Cranny
 - Crafted and placed your first bridge
 - Finished furnishing three plots
@@ -20,12 +20,12 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
 ## Campsite
 
 
-Now you should have 5 villagers! This is your 2 starting villagers and 3 plots you built. After everyone has moved in to the island Tom Nook will give you the campsite building kit. This is where every often a Camper will come and you can potentially make them move to your island! Find a spot to build the campsite and press <span class="icon-A"></span> and you will have 2 options:
+Now you should have 5 villagers! Those are your 2 starting villagers and the 3 that claimed the plots you built. After everyone has moved in to the island Tom Nook will give you the campsite building kit. This is where a Camper will come and you will have to make them move to your island! Find a spot to build the campsite and press <span class="icon-A"></span> and you will have 2 options:
 - Imagine it
 - This is the spot
 
 
-Similar to building bridges "Imagine it" will show you how the campsite will look in that spot and "This is the spot" will place it! The first Camper will be your 6th villager!
+Similar to building bridges "Imagine it" will show you how the campsite will look in that spot and "This is the spot" will place it! The first Camper that will visit will be your 6th villager!
 {: .note} You may have to wait a few days before you see a camper pop up in the campsite! Tom Nook will announce when you have a camper in your campsite.
 
 - Does the first camper have to move in to my island?
@@ -40,13 +40,13 @@ Now the next step is to get 2 more villagers to move in to your island! -- **nee
 ## Upgrading the Resident Services
 
 
-The Resident Services is the tent that you go to talk to Tom Nook at the moment! To activate the upgrade you need to have built the Nook's Cranny and have 8 villagers! See [above](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%205-7/#more-villagers) for more villagers and [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for more guidance on the Nook's Cranny. After this Tom Nook will announce that the Resident Services is closed for upgrading! The next day the construction will be complete!
+The Resident Services is the tent that you go to talk to Tom Nook at the moment! To activate the upgrade you need to have built the Nook's Cranny and have 6 villagers! See [above](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%205-7/#more-villagers) for more villagers and [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for more guidance on the Nook's Cranny. After this Tom Nook will announce that the Resident Services is closed for upgrading! The next day the construction will be complete!
 
 
 ## Isabelle
 
 
-Isabelle is an NPC you meet once the upgrade of teh Resident Services is complete! Tom Nook will introsduce you to her and explain that she will take some of his responsibiities. Isabelle also adds some options for you! After the announcement of completing the build has been complete then head over to the Resident services. Isballe is on the right and Tom Nook is on the left. Approach the seat in front of Isabelle and sit down. Isabelle will then greet you and present you with tehse options:
+Isabelle is an NPC you meet once the upgrade of the Resident Services is complete! Tom Nook will introduce you to her and explain that she will take some of his responsibilities. Isabelle also adds some options for you! After the announcement of completing the building has been completed, head over to the Resident services. Isabelle is on the right and Tom Nook is on the left. Approach the seat in front of Isabelle and sit down. Isabelle will then greet you and present you with these options:
 - Change Island tune
   - This changes your island tune! This can be heard when you talk to any NPC or Villager! Villagers can also be found singing this at your **Resident Services Plaza**
 - Change Island Flag
