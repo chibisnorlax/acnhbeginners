@@ -7,7 +7,7 @@ permalink: day-4/
 ---
 
 # Day 4
-You made it, welcome to day 4 of the game! Today is going to be exciting. Before continuing on, please make sure you have completed the following:
+Welcome to day 4 of the game; today is going to be exciting! Before continuing on, please make sure you have completed the following:
 - Completed Nook's Cranny quest (it should be fully built by today)
 
 If you have not, please visit [Day 3](/acnhbeginners/day-3/) for further guidance.
@@ -43,8 +43,8 @@ Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'l
 
 ## What else can I do today?
 - Nook's Cranny and the museum should both be officially open! Swing by to check out what the Nooklings are selling, and head to the museum to see the things you've donated so far.
-- [Mabel](https://chibisnorlax.github.io/acnhfaq/npc/#mabel) <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> will introduce herself when you enter Nook's Cranny for the first time. She is one of the owners of the Able Sisters' tailor shop, where your character can buy new clothes. Visit [here](https://chibisnorlax.github.io/acnhfaq/unlocks/#building-unlocks) to see how to unlock the Able Sisters. 
-- You can also invite villagers to come live in your plots, if you haven't done so already. Just use a <span><img src="https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket** to villager hunt.
+- [Mabel](https://chibisnorlax.github.io/acnhfaq/npc/#mabel) <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> will introduce herself when you enter Nook's Cranny for the first time. She is one of the owners of the Able Sisters' tailor shop, where your character can buy new clothes. Visit [here](/acnhbeginners/day-5-7/#able-sisters) to see how to unlock the Able Sisters. 
+- You can also invite villagers to come live in your plots, if you haven't done so already. Just use a <span><img src="https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket** to find a villager.
 
 * * *
 
