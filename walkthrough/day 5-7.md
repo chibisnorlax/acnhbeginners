@@ -121,9 +121,9 @@ Campers, both random or summoned with an Amiibo, have an exception to the empty 
   <input type="checkbox" checked="yes"/>  
     <label>Unlocked the Able Sisters shop.</label> <br>
   <input type="checkbox" checked="yes"/>
-    <label>Upgraded Resident Services and unlocked Isabelle</label> <br>
+    <label>Upgraded Resident Services and unlocked Isabelle.</label> <br>
   <input type="checkbox" checked="yes"/>
-    <label>Completed Project K</label> <br>
+    <label>Completed Project K.</label> <br>
 </div>
 
 ## Optional Objectives:
