@@ -64,7 +64,7 @@ Hemisphere Season Correlation:
 After you have set up most the steps above with Timmy and Tommy you are now sent on the plane to your island! See below for the next steps:
 
 ## Meet the new characters 
-- Tom Nook (and Timmy and Tommy, who you've already become acquainted with)
+- Tom Nook <span><img src="https://acnhcdn.com/latest/NpcIcon/rco.png" id="inv-icon"></span> (and Timmy <span><img src="https://acnhcdn.com/latest/NpcIcon/rcm.png" id="inv-icon"></span> and Tommy <span><img src="https://acnhcdn.com/latest/NpcIcon/rct.png" id="inv-icon"></span>, who you've already become acquainted with)
 - 2 [Villagers](https://chibisnorlax.github.io/acnhfaq/villagers/#who-are-villagers)
   - You will meet your first residents (villagers) on the island. These can be different for everyone! One of them will be a "jock" villager. Another will be a "sisterly/uchi" villager. For an explanation of villager personalities, read [here](https://chibisnorlax.github.io/acnhfaq/villagers/#what-are-the-villager-personalities). 
   - If you'd like, you may reset your island until you find your ideal pair, but this is not necessary as villagers are not permanent residents and will change.
@@ -110,7 +110,7 @@ You **cannot** rename your island, so be sure it's something you like!
   3. Tom Nook offers a free DIY workshop where your character learns how to craft. 
 - Talking to Timmy will allow you to purchase things like small furniture items, flimsy tools, plants (flower seeds and tree saplings), medicine, and more.
   - Press <span class="icon-R"></span> and <span class="icon-L"></span> to toggle between the two pages of items.
-- Completing the **DIY workshop** allows you to learn DIY cards and obtain the DIY Recipes app on your NookPhone. Additionally, you learn the Flimsy Fishing Rod, Flimsy Bug Net, and Campfire DIYs. We recommend you craft both new tools for the next quest. 
+- Completing the **DIY workshop** allows you to learn DIY cards <span><img src="https://acnhcdn.com/latest/MenuIcon/PaperRecipe.png" id="inv-icon"></span> and obtain the DIY Recipes app on your NookPhone. Additionally, you learn the Flimsy Fishing Rod, Flimsy Bug Net, and Campfire DIYs. We recommend you craft both new tools for the next quest. 
 
 ## Unique critter collection
 - After completing Tom Nook's DIY workshop, he will mention having an interest in the island's natural critters. You'll want to bring him **5 unique (different) bugs and/or fish** to complete this quest.
@@ -121,13 +121,13 @@ You **cannot** rename your island, so be sure it's something you like!
   - See a fish shadow in the water? Grab your fishing rod! When on the edge of the water, press <span class="icon-A"></span> to cast your line. The fish will nibble at your lure 0-5 times, which will emit a weak vibration<sup><span class="icon-Ex"></span></sup> and soft splashing noises. When you feel a stronger vibration<sup><span class="icon-Ex"></span></sup>, hear a louder, snappier splash (a "ker-plunk" noise), and see the lure sink beneath the water's surface, press <span class="icon-A"></span> again to reel in your fish. Be fast! Some fish require a quick reaction time to reel in, otherwise they will swim away.
   - Make sure you cast your line where the fish can see it, otherwise they will not notice your lure. You can cast and recast your line, just make sure you don't reel it in after they notice it or they will get scared off. 
 
-<sup><span class="icon-Ex"></span></sup> Note: Vibration not applicable on Switch Lites.
+<sup><span class="icon-Ex"></span></sup> Note: Vibration not applicable on Switches Lite.
 
 ## New DIY's and Blathers
 - After you give 2 critters to Tom Nook, he will reward you with the **Flimsy Axe** DIY recipe. This can be used to harvest wood from trees.
   - *Note:* Branches are different from wood and come from shaking trees, not axing them.
 - After you've given a total of 4 critters to Tom Nook, he will reward you with the **Flimsy Watering Can** DIY recipe. This can be used to water your flowers and help with [flower breeding](https://chibisnorlax.github.io/acnhfaq/island-life/gardening/).
-- Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/#blathers). Blathers is the future owner and curator of your island's very own museum!
+- Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/#blathers) <span><img src="https://acnhcdn.com/latest/NpcIcon/owl.png" id="inv-icon"></span>. Blathers is the future owner and curator of your island's very own museum!
 - Tom Nook will hand you a museum tent kit to place, which is where Blathers will set up his tent. You will not be able to change the museum's location for some time, so place wisely!
 
 ## Pay off your Nook Miles loan
