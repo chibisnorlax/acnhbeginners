@@ -74,12 +74,16 @@ talk about inviting mabel <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh
 Now the next step is to get 2 more villagers to move in to your island!
 With your first campsite visitor now part of your residents, you are now free to find other villagers how you see fit, but in all cases, you'll first need an empty plot, you can get one from Tom Nook by asking him "About selling some land", this will cost you 10,000 bells and you will get a housing kit you'll need to place somewhere on your island. Once such a plot is ready on your island, your possibilities for inviting a villager are as following:
 - Find a villager on mystery island: if you ask Orville at the airport to visit a mystery island, you'll see a random villager on said island. If you want them on your island, just talk to them and accept to invite them when the option appear... Or simply ignore them if you don't want them. You can visit as many mystery island as you want until you find a villager you like.
-{: .warning}
+
+{: .caution}
 Once you invite a villager from a mystery island, no more will appear for the day, even if you have an empty plot for them.
+
 - Invite a villager from the campsite: on random days, someone will visit the campsite. If you want that villager to live on your island, you can talk to them until they accept to move in. They might ask you to play a little game before accepting, but even if you lose, you'll never be locked out of that villager and you can keep talking to them until they give you another chance.
 - Similarly, you can summon a villager to the campsite by scanning their Amiibo at the NookStop. For them to accept to move in, you'll have to invite them on three different days and give them each time the DIY item they request, and if you don't know that DIY, they'll give you one copy of the card.
+
 {: .note}
 Campers, both random or summoned with an Amiibo, have an exception to the empty plot needed rule: if you already have 10 housing plots, and all 10 are already occupied or at least claimed, the camper can replace a villager currently living on your island. Random campers choose someone random, but campers summoned with an Amiibo give you the choice of who to replace.
+
 - Invite a villager leaving from another island: If a villager is about to leave on another island (players say they are "in boxes", meaning they'll be cleaning their house and packing their stuff in cardboard boxes), you can visit said island and talk to that villager to invite them to yours.
 - Let the game's randomness handle it: if you leave an empty plot unclaimed, the game will assign it to a villager waiting in your move-in queue (see [this link](https://chibisnorlax.github.io/acnhfaq/villagers/#what-is-the-voidwhere-do-villagers-that-automatically-fill-my-empty-plots-come-from) for more details), or if that queue is empty, it has an increasing chance each day to generate a random villager for the plot.
 
