@@ -24,7 +24,8 @@ If you have not, please visit [Day 3](/acnhbeginners/day-3/) for further guidanc
   </ul>
 </blockquote>
 
-*Note:* Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'll need 3 **wood** to craft each one.
+{: .note}
+Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'll need 3 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> Wood to craft each one.
 
 - To place it, open your pockets and press <span class="icon-A"></span> on the kit while standing against the stretch of river you'd like it to go across. Note that placing bridges can be fickle, so you might need to try placing it a couple times. You also will have the option to "Imagine it", which will show you a preview of what the bridge will look like when it's built. 
 
@@ -36,13 +37,13 @@ If you have not, please visit [Day 3](/acnhbeginners/day-3/) for further guidanc
 - For these plots you'll need to prepare some items for the house before villagers can move into them.
 - You will find a box attached to the plots with a list of interior and exterior items you'll need to craft. 
   - Interior items go **inside** the box once crafted.
-  - Exterior items need to be placed on the **outside within two tiles of the plot**.
+  - Exterior items need to be placed on the **outside within two tiles of the front and sides of the plot**.
 - Press <span class="icon-A"></span> on the box to see which items you need to craft.
-- Upon completion of the plots, talking to Tom Nook will prompt him to give you some **fencing**. Fences are a fun way to decorate your island. You can also now trade in Nook Miles for different types of fencing recipes in the Nook Stop.
+- Upon completion of the plots, talking to Tom Nook will prompt him to give you some <span><img src="https://acnhcdn.com/latest/MenuIcon/Fence.png" id="inv-icon"></span> **fencing**. Fences are a fun way to decorate your island. You can also now trade in Nook Miles for different types of <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png" id="inv-icon"></span> fencing recipes in the Nook Stop.
 
 ## What else can I do today?
 - Nook's Cranny and the museum should both be officially open! Swing by to check out what the Nooklings are selling, and head to the museum to see the things you've donated so far.
-- [Mabel](https://chibisnorlax.github.io/acnhfaq/npc/#mabel) will introduce herself when you enter Nook's Cranny for the first time. She is one of the owners of the Able Sisters' tailor shop, where your character can buy new clothes. Visit [here](https://chibisnorlax.github.io/acnhfaq/unlocks/#building-unlocks) to see how to unlock the Able Sisters. 
+- [Mabel](https://chibisnorlax.github.io/acnhfaq/npc/#mabel) <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> will introduce herself when you enter Nook's Cranny for the first time. She is one of the owners of the Able Sisters' tailor shop, where your character can buy new clothes. Visit [here](https://chibisnorlax.github.io/acnhfaq/unlocks/#building-unlocks) to see how to unlock the Able Sisters. 
 - You can also invite villagers to come live in your plots, if you haven't done so already. Just use a <span><img src="https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket** to villager hunt.
 
 * * *
