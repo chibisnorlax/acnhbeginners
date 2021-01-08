@@ -11,7 +11,7 @@ Welcome to Days 5-7! The following days will be clumped together as there is muc
 - Crafted and placed your first bridge
 - Placed and furnished three plots
 
-If you have not completed any of this please see [Day 4](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day%204/) for further guidance.
+If you have not completed any of this please see [Day 4](/acnhbeginners/day-4/) for further guidance.
 
 * * *
 # Tasks
@@ -28,6 +28,11 @@ If you have not completed any of this please see [Day 4](https://chibisnorlax.gi
 {: .note}
 Harv's island is also where you obtain **villager and special character posters**. You can do this by spawning your villagers into Photopia (select the tab with the cat head on it when in design mode), or by scanning in a villager/special character's [Amiibo](https://chibisnorlax.github.io/acnhfaq/villagers/#what-are-amiibos-who-has-an-amiibo). Even if the game complains said character can't come to Photopia, this still unlocks the corresponding poster.
 
+## Able Sisters
+- You may notice with the opening of Nook's Cranny that Mabel <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> now visits every so often.
+- To get Mabel to propose opening the Able Sisters shop on your island, buy **at least one item** from her each time she visits, over a total of 3 visits. The third time you purchase, she will ask you about opening up shop on your island.
+- For more info on Mable, visit [here](https://chibisnorlax.github.io/acnhfaq/npc/#mabel). <!-- does this link ACTUALLY tell you more info? no. but it looks fancy, so. -->
+
 ## Upgraded Resident Services and Isabelle
 - When all 3 of your brand new villagers have moved in, Tom Nook will make an announcement that he is upgrading the Resident Services tent into a building -- hooray! 
 - There's nothing you have to do to proceed with this, but the building will be down and inaccessible for a day. If you have an ABD streak, it will not be affected by the construction day, so don't worry about losing your miles.
@@ -41,9 +46,6 @@ Harv's island is also where you obtain **villager and special character posters*
   - Ask to build inclines
   - Ask to build ramps
   - Ask to move buildings (everything except the Resident Services building and airport can be moved)
-
-## Able Sisters
-talk about inviting mabel <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> here.
 
 * * *
 <!-- tentative organization for now. -->
@@ -66,47 +68,62 @@ talk about inviting mabel <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh
     <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
   </ul>
 </blockquote>
-- Once crafted you may place the campsite wherever you see fit. You can move it later if you decide you don't like it's placement.
-- In 2 days, your campsite will have it's first visitor! This visitor will be a **smug** villager and they are *required* to be invited in order to progress the story.
+- Once crafted you may place the campsite wherever you see fit. You can move it later if you decide later on that you don't like it's placement.
+- In 2 days, your campsite will have it's first visitor! This visitor will be a [**smug** villager](https://chibisnorlax.github.io/acnhfaq/villagers/#what-are-the-villager-personalities) and they are *required* to be invited in order to progress the story.
   - If you don't like your camper, you can always let them move out later on.
 
 ### More Villagers
-Now the next step is to get 2 more villagers to move in to your island!
-With your first campsite visitor now part of your residents, you are now free to find other villagers how you see fit, but in all cases, you'll first need an empty plot, you can get one from Tom Nook by asking him "About selling some land", this will cost you 10,000 bells and you will get a housing kit you'll need to place somewhere on your island. Once such a plot is ready on your island, your possibilities for inviting a villager are as following:
-- Find a villager on mystery island: if you ask Orville at the airport to visit a mystery island, you'll see a random villager on said island. If you want them on your island, just talk to them and accept to invite them when the option appear... Or simply ignore them if you don't want them. You can visit as many mystery island as you want until you find a villager you like.
+- With your first campsite visitor settled in, the next step in Project K is to obtain **2 more villagers** to move in to your island.
+- There are many ways to find new villagers, but in all cases you'll first need an **empty plot**. You can get one from Tom Nook by selecting the "Let's talk infrastructure" option, then selecting the "Sell some land".
+- Each plot of land costs **10,000 bells**, and you will receive a housing kit to place somewhere on your island.
+- Once such a plot is ready on your island, your possibilities for inviting a villager are as following:
+
+**Option 1: Find a villager on mystery island** 
+- Purchase a Nook Miles Ticket, then speak with Orville in the airport and ask to go on a Mystery Tour.
+- As long as you have an open plot, a villager will be present on the mystery island you visit.
+- To invite a villager to move in, speak with them until the prompt to invite them appears. When you return back to your island, the empty plot will now say "SOLD" with the villager's name on it. If you do not wish to invite the villager, you can simply ignore them and leave.
+- You can visit as many mystery islands as you wish to until you find a villager you like.
 
 {: .caution}
-Once you invite a villager from a mystery island, no more will appear for the day, even if you have an empty plot for them.
+Once you invite a villager from a mystery island, **no more will appear for the day**, even if you have an empty plot for them.
 
-- Invite a villager from the campsite: on random days, someone will visit the campsite. If you want that villager to live on your island, you can talk to them until they accept to move in. They might ask you to play a little game before accepting, but even if you lose, you'll never be locked out of that villager and you can keep talking to them until they give you another chance.
-- Similarly, you can summon a villager to the campsite by scanning their Amiibo at the NookStop. For them to accept to move in, you'll have to invite them on three different days and give them each time the DIY item they request, and if you don't know that DIY, they'll give you one copy of the card.
+**Option 2: Invite another campsite visitor**
+- Occasionally, someone new will visit the campsite. Don't worry, Isabelle will be sure to inform you if someone is visiting on any given day.
+- If you want that villager to live on your island, you can talk to them until they accept to move in. They might ask you to play a little game before accepting, but even if you lose, you'll never be locked out of that villager and you can keep talking to them until they give you another chance.
+- Similarly, you can summon a villager to the campsite by scanning their Amiibo at the NookStop. For them to accept to move in, you'll have to invite them on three different days and give them a DIY item they request each visit. If you don't know the DIY for the item they are requesting, they'll give you a recipe card for it.
 
 {: .note}
-Campers, both random or summoned with an Amiibo, have an exception to the empty plot needed rule: if you already have 10 housing plots, and all 10 are already occupied or at least claimed, the camper can replace a villager currently living on your island. Random campers choose someone random, but campers summoned with an Amiibo give you the choice of who to replace.
+Campers, both random or summoned with an Amiibo, have an exception to the empty plot needed rule. If you already have 10 housing plots, and all 10 are already occupied or at least claimed, the camper can replace a villager currently living on your island. Random campers choose someone random, but campers summoned with an Amiibo give you the choice of who to replace. If you have **less than 10 villagers**, you will still need an empty plot, they will not offer to swap with a current resident.
 
-- Invite a villager leaving from another island: If a villager is about to leave on another island (players say they are "in boxes", meaning they'll be cleaning their house and packing their stuff in cardboard boxes), you can visit said island and talk to that villager to invite them to yours.
-- Let the game's randomness handle it: if you leave an empty plot unclaimed, the game will assign it to a villager waiting in your move-in queue (see [this link](https://chibisnorlax.github.io/acnhfaq/villagers/#what-is-the-voidwhere-do-villagers-that-automatically-fill-my-empty-plots-come-from) for more details), or if that queue is empty, it has an increasing chance each day to generate a random villager for the plot.
+**Option 3: Invite a villager leaving from another island**
+- If a villager is about to move out from another player's island (players say these villagers are "in boxes", meaning they'll be cleaning their house and packing their belongings in cardboard boxes), you can visit said island and talk to that villager to invite them to yours.
+- Note that this option **will not work** if you have 5 or less villagers. 
+
+**Option 4: Let Tom Nook handle it!**
+- If you leave an empty plot unclaimed, Tom Nook will sell it to a random villager.
+- For more information about autofilled plots, visit [here](https://chibisnorlax.github.io/acnhfaq/villagers/#what-is-the-voidwhere-do-villagers-that-automatically-fill-my-empty-plots-come-from).
 
 ### Island Rating
-u can basically just link https://chibisnorlax.github.io/acnhfaq/island-dev/rating/ here. no need to repeat ourselves. :craughig: 
+- The final step in Tom Nook's Project K is to improve the island's image.
+- You can check your island's rating by speaking with Isabelle. The goal is to achieve a **3-star rating**.
+  - Isabelle is also a good resource if you're having trouble with achieving a 3-star rating, as she will give specific feedback about what the island lacks.
+- For a complete breakdown of the island rating system, visit [the FAQ](https://chibisnorlax.github.io/acnhfaq/island-dev/rating/).
+
+<!-- potentially add a "what now?"/conclusion here, or link to a page that is akin to that here -->
 
 * * *
-
 # Completed Objectives:
 <div>
   <input type="checkbox" checked="yes"/>
-    <label>Built Campsite</label> <br>
+    <label>Completed the customization workshop.</label> <br>
   <input type="checkbox" checked="yes"/>
-    <label>Island villager population 7-10</label> <br>
+    <label>Unlocked Harv's Island.</label> <br>
   <input type="checkbox" checked="yes"/>  
-    <label>Upgraded Resident Services built</label> <br>
+    <label>Unlocked the Able Sisters shop.</label> <br>
   <input type="checkbox" checked="yes"/>
-    <label>Unlocked Isabelle</label> <br>
+    <label>Upgraded Resident Services and unlocked Isabelle</label> <br>
   <input type="checkbox" checked="yes"/>
-    <label>Built a bridge and a ramp</label> <br>
-  <input type="checkbox" checked="yes"/>
-    <label>Met Mabel and Sable</label> <br>
+    <label>Completed Project K</label> <br>
 </div>
-
 
 ## Optional Objectives:
