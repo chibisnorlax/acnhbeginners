@@ -39,7 +39,7 @@ Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'l
   - Interior items go **inside** the box once crafted.
   - Exterior items need to be placed on the **outside within two tiles of the front and sides of the plot**.
 - Press <span class="icon-A"></span> on the box to see which items you need to craft.
-- Upon completion of the plots, talking to Tom Nook will prompt him to give you some <span><img src="https://acnhcdn.com/latest/MenuIcon/Fence.png" id="inv-icon"></span> **fencing**. Fences are a fun way to decorate your island. You can also now trade in Nook Miles for different types of <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png" id="inv-icon"></span> fencing recipes in the Nook Stop.
+- Upon completion of the plots, talking to Tom Nook will prompt him to give you some <span><img src="https://acnhcdn.com/latest/MenuIcon/Fence.png" id="inv-icon"></span> **fencing** which can be used as decoration. You can also now trade in Nook Miles for different types of <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYRecipeFence.png" id="inv-icon"></span> fencing recipes in the Nook Stop.
 
 ## What else can I do today?
 - Nook's Cranny and the museum should both be officially open! Swing by to check out what the Nooklings are selling, and head to the museum to see the things you've donated so far.
