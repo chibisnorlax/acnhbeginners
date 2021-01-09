@@ -22,10 +22,10 @@ If you haven't, please see [Day 2](/acnhbeginners/day-2/) for further guidance.
 - Finish gathering resources for Nook's Cranny. As a reminder, you must collect:
 <blockquote>
   <ul>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></span> <b>Hardwood</b></li>
-    <li>30 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
+    <li>30 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
+    <li>30 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
+    <li>30 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodHard.png" id="inv-icon"></span> <b>Hardwood</b></li>
+    <li>30 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
   </ul>
 </blockquote>
 - Upon completion, Timmy will hand you the Nook's Cranny shop placement kit. Find a suitable location to place it down, as you will not be able to move it for some time.
@@ -34,7 +34,7 @@ If you haven't, please see [Day 2](/acnhbeginners/day-2/) for further guidance.
 **Don't stress** if you haven't actually finished this by today! We **highly recommend** you play the game at your own pace. This guide is paced to get you through the tutorial as fast as possible, but this is *not* how everyone wants to play, and we want you to play to your enjoyment. 
 
 ### Tips for collecting materials
-- If you’ve collected all the materials from your island but still need more, you could go to a mystery island by redeeming a <span><img src="https://acnhcdn.com/latest/MenuIcon/PlaneTicket.png" id="inv-icon"></span> Nook Miles Ticket (NMT) from the Nook Stop and going to the airport. On mystery islands, you will find rocks, trees, flowers, and shells, making them a great way to get more resources. For more information about mystery islands, see [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them).
+- If you’ve collected all the materials from your island but still need more, you could go to a mystery island by redeeming a <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/PlaneTicket.png" id="inv-icon"></span> Nook Miles Ticket (NMT) from the Nook Stop and going to the airport. On mystery islands, you will find rocks, trees, flowers, and shells, making them a great way to get more resources. For more information about mystery islands, see [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them).
 - Your island has 6 rocks that should be accessible with your newly-obtained vaulting pole. Make sure you're getting the max amount of hits from your rocks each day you play! See [here](https://chibisnorlax.github.io/acnhfaq/island-life/#how-can-i-get-8-hits-from-a-rock) for more info.
 
 ## What else can I do today?

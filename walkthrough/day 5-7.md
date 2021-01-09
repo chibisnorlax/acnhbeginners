@@ -18,18 +18,18 @@ If you have not completed any of this please see [Day 4](/acnhbeginners/day-4/) 
 ## Customization workshop
 - Now that you've furnished the plots, Tom Nook should make an announcement about his **customization workshop**. Customization allows you to change the look of some items.
   - *Note:* Not every item is customizable.
-- Customization is relatively straightforward, all you need to do is bring the **item you want to customize** and the required number of <span><img src="https://acnhcdn.com/latest/MenuIcon/RemakeKit.png" id="inv-icon"></span> **customization kits** to a workbench and select `Customize Something`.
-- Tom Nook will give you <span><img src="https://acnhcdn.com/latest/MenuIcon/RemakeKit.png" id="inv-icon"></span> **50 customization kits** for you to use and experiment with.
+- Customization is relatively straightforward, all you need to do is bring the **item you want to customize** and the required number of <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/RemakeKit.png" id="inv-icon"></span> **customization kits** to a workbench and select `Customize Something`.
+- Tom Nook will give you <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/RemakeKit.png" id="inv-icon"></span> **50 customization kits** for you to use and experiment with.
 
 ## Harvey and his island
-- In the next couple days you might see a hippie dog <span><img src="https://acnhcdn.com/latest/NpcIcon/spn.png" id="inv-icon"></span> walking around your island. Talking to him will prompt him to introduce himself as Harvey (Harv for short) and invite you to visit his island.
+- In the next couple days you might see a hippie dog <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/NpcIcon/spn.png" id="inv-icon"></span> walking around your island. Talking to him will prompt him to introduce himself as Harvey (Harv for short) and invite you to visit his island.
 - Harv's island is also home to his photo studio, called **Photopia**, and you can use that building to stage photos for fun.
 
 {: .note}
 Harv's island is also where you obtain **villager and special character posters**. You can do this by spawning your villagers into Photopia (select the tab with the cat head on it when in design mode), or by scanning in a villager/special character's [Amiibo](https://chibisnorlax.github.io/acnhfaq/villagers/#what-are-amiibos-who-has-an-amiibo). Even if the game complains said character can't come to Photopia, this still unlocks the corresponding poster.
 
 ## Able Sisters
-- You may notice with the opening of Nook's Cranny that Mabel <span><img src="https://acnhcdn.com/latest/NpcIcon/hgh.png" id="inv-icon"></span> now visits every so often.
+- You may notice with the opening of Nook's Cranny that Mabel <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/NpcIcon/hgh.png" id="inv-icon"></span> now visits every so often.
 - To get Mabel to propose opening the Able Sisters shop on your island, buy **at least one item** from her each time she visits, over a total of 3 visits. The third time you purchase, she will ask you about opening up shop on your island.
 - For more info on Mable, visit [here](https://chibisnorlax.github.io/acnhfaq/npc/#mabel). <!-- does this link ACTUALLY tell you more info? no. but it looks fancy, so. -->
 
@@ -38,7 +38,7 @@ Harv's island is also where you obtain **villager and special character posters*
 - There's nothing you have to do to proceed with this, but the building will be down and inaccessible for a day. If you have an ABD streak, it will not be affected by the construction day, so don't worry about losing your miles.
 
 ### Isabelle
-- Isabelle <span><img src="https://acnhcdn.com/latest/NpcIcon/sza.png" id="inv-icon"></span> is an NPC you meet once the upgrade of the Resident Services is complete. Tom Nook will introduce her during announcements and explain that she will take some of his responsibilities.
+- Isabelle <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/NpcIcon/sza.png" id="inv-icon"></span> is an NPC you meet once the upgrade of the Resident Services is complete. Tom Nook will introduce her during announcements and explain that she will take some of his responsibilities.
 - Isabelle also adds some new options for you. Visit [here](https://chibisnorlax.github.io/acnhfaq/npc/#isabelle) to learn more about Isabelle and what she does. 
 
 ### Construction counter 
@@ -51,7 +51,7 @@ Harv's island is also where you obtain **villager and special character posters*
 <!-- tentative organization for now. -->
 # Project K
 - The activation of this quest signals the tail end of the tutorial. Once you have finished this quest, the tutorial will be over and you will not have any more quests given by Tom Nook to complete.
-- Speak to Tom Nook at the construction counter and ask him "What should I do?". He will explain that he has a vision for the island, and that he would like to invite [K.K. Slider](https://chibisnorlax.github.io/acnhfaq/npc/#kk-slider) <span><img src="https://acnhcdn.com/latest/NpcIcon/tkkA.png" id="inv-icon"></span> to perform on your humble island.
+- Speak to Tom Nook at the construction counter and ask him "What should I do?". He will explain that he has a vision for the island, and that he would like to invite [K.K. Slider](https://chibisnorlax.github.io/acnhfaq/npc/#kk-slider) <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/NpcIcon/tkkA.png" id="inv-icon"></span> to perform on your humble island.
 - Project K is split into three phases, all of which need to be completed in order for K.K. Slider to visit:
   1. Build a Campsite
   2. Invite more villagers to live on your island
@@ -62,10 +62,10 @@ Harv's island is also where you obtain **villager and special character posters*
 - The first thing Tom Nook will want you to do is build a campsite. He will give you the DIY for a **Campsite construction kit**, a temporary DIY that you must craft in order to place the campsite. The recipe calls for:
 <blockquote>
   <ul>
-    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
-    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
-    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/DIYWoodHard.png" id="inv-icon"></span> <b>Hardwood</b></li>
-    <li>15 <span><img src="https://acnhcdn.com/latest/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
+    <li>15 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
+    <li>15 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
+    <li>15 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodHard.png" id="inv-icon"></span> <b>Hardwood</b></li>
+    <li>15 <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
   </ul>
 </blockquote>
 - Once crafted you may place the campsite wherever you see fit. You can move it later if you decide later on that you don't like it's placement.
