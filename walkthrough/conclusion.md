@@ -7,7 +7,7 @@ permalink: conclusion/
 ---
 
 # Where do I go from here?
-- in the editing process :)
+Before reading this please make sure you have completed the tutorial of the game until the point where you have all the buildings! (See [here](https://chibisnorlax.github.io/acnhbeginners/day-1/#day-1) for the beginning of the tutorial for more guidance!) Now what do you do after completing the tutorial? See below for more things to do!
 
 ## Museum upgrade!
 The last and final upgrade to the museum installs an art section! To unlock the Museum upgrade you need to have donated **60 critters/fossils** to [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/permanent/#blathers) ! That means 20 from the previous stages to build the museum (See previous days in the tutorial starting [here](https://chibisnorlax.github.io/acnhbeginners/day-2/#day-2)) plus 40 more!
