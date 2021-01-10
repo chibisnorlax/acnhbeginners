@@ -25,14 +25,14 @@ Additionally, the **airport** is now open.
 - Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> should have set up his tent in the location that you placed it. Go pay him a visit!
 - Upon first speaking with him, he should give you the **Flimsy Shovel** and **Vaulting Pole** DIY recipes. The former can be used to get materials from rocks, dig holes, and uproot tree stumps. The latter can be used to travel across rivers.
 - He will then ask you to donate **15 unique bugs, fish, and/or fossils** to him. You will need to complete this in order for Blathers to upgrade his tent to the full museum building. 
-- <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/Fossil.png" id="inv-icon"></span> **Fossils** can be found by digging up spots in the ground that look like X's. Bring them to Blathers to be assessed. 
+- <span><img src="https://alexislours.github.io/img/MenuIcon/Fossil.png" id="inv-icon"></span> **Fossils** can be found by digging up spots in the ground that look like X's. Bring them to Blathers to be assessed. 
 
 ## Build Nook's Cranny 
 - Head to Resident Services and speak with Timmy. As long as your tent was **upgraded into a house**, he should speak with you about building Nook's Cranny.
 - Timmy will ask you to gather the following materials:
 <blockquote>
   <ul>
-    <li>30 <span><img src="https://alexislours.github.io/img/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
+    <li>30 <span><img src="https://alexislours.github.io/img/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> <b>Wood</b></li>
     <li>30 <span><img src="https://alexislours.github.io/img/MenuIcon/DIYWoodSoft.png" id="inv-icon"></span> <b>Softwood</b></li>
     <li>30 <span><img src="https://alexislours.github.io/img/MenuIcon/DIYWoodHard.png" id="inv-icon"></span> <b>Hardwood</b></li>
     <li>30 <span><img src="https://alexislours.github.io/img/MenuIcon/OreIron.png" id="inv-icon"></span> <b>Iron Nuggets</b><br></li>
