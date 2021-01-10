@@ -154,11 +154,11 @@ You **cannot** rename your island, so be sure it's something you like!
 - After you give 2 critters to Tom Nook, he will reward you with the **Flimsy Axe** DIY recipe. This can be used to harvest wood from trees.
 
 {: .note }
-<span><img src="https://alexislours.github.io/img/MenuIcon/DIYBranch.png" id="inv-icon"></span> Branches are different from <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> wood and come from shaking trees, not axing them.
+<span><img src="https://alexislours.github.io/img/MenuIcon/DIYBranch.png" id="inv-icon"></span> Branches are different from <span><img src="https://alexislours.github.io/img/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> wood and come from shaking trees, not axing them.
 
 - After you've given a total of 4 critters to Tom Nook, he will reward you with the **Flimsy Watering Can** DIY recipe. This can be used to water your flowers and help with [flower breeding](https://chibisnorlax.github.io/acnhfaq/island-life/gardening/).
 
-- Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/permanent#blathers) <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/NpcIcon/owl.png" id="inv-icon"></span>. Blathers is the future owner and curator of your island's very own museum!
+- Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/permanent#blathers) <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span>. Blathers is the future owner and curator of your island's very own museum!
 
 - Tom Nook will hand you a museum tent kit to place, which is where Blathers will set up his tent. You will not be able to change the museum's location for some time, so place wisely!
 
