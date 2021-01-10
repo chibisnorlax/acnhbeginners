@@ -31,17 +31,19 @@ After this Blathers will tell you about upgrading the museum to include an art s
 
 
 ### **What do I do with fake art?**
-- add info here
+- Gift to your villagers
+- Use as decoration
 
 
 ### **More art information**
-- How many art pieces
-- How many sculpture pieces
-- (4 pieces of art per Redd visit)
-• 10% All Fake
-• 50% 1 Real
-• 30% 2 Real
-• 10% 3 Real (add this)
+- How many art pieces/sculptures/statues are there?
+  - There are 30 art pieces and 13 statues/sculptures!
+- Redd's art for sale:
+  - Redd will always have 4 pieces of art per visit!
+  - 10% of the art will all be fake
+  - 50% of the art will have 1 real piece
+  - 30% of the art will have 2 real
+  - 10% will have 3 real
 
 
 
