@@ -27,7 +27,10 @@ You **cannot** rename your character, so be sure it's something you like!
 {: .center}
 
 - There will be 4 to pick from.
-  - *Note:* If you do not like any of these options, feel free to quit the game and restart it! 4 new options will appear. You can continue to do this until you find a layout you are happy with.
+
+{: .note }
+If you do not like any of these options, feel free to quit the game and restart it! 4 new options will appear. You can continue to do this until you find a layout you are happy with.
+
 - This step is important as it determines a couple of permanent (unchangeable) fixtures on your island: Resident Services (leaf icon), estuaries, the airport, and your "secret" (Northern) beach. 
 
 <!-- maybe we should add an image here for the permanent ones? -->
@@ -127,7 +130,8 @@ You **cannot** rename your island, so be sure it's something you like!
   3. Tom Nook offers a free DIY workshop where your character learns how to craft. 
 - Talking to Timmy will allow you to purchase things like small furniture items, flimsy tools, plants (flower seeds and tree saplings), medicine, and more.
   - Press <span class="icon-R"></span> and <span class="icon-L"></span> to toggle between the two pages of items.
-- Completing the **DIY workshop** allows you to learn DIY cards <span><img src="https://alexislours.github.io/img/MenuIcon/PaperRecipe.png" id="inv-icon"></span> and obtain the DIY Recipes app on your NookPhone. Additionally, you learn the Flimsy Fishing Rod, Flimsy Bug Net, and Campfire DIYs. We recommend you craft both new tools for the next quest. 
+
+- Completing the **DIY workshop** allows you to learn <span><img src="https://alexislours.github.io/img/MenuIcon/PaperRecipe.png" id="inv-icon"></span> DIY cards and obtain the DIY Recipes app on your NookPhone. Additionally, you learn the Flimsy Fishing Rod, Flimsy Bug Net, and Campfire DIYs. We recommend you craft both new tools for the next quest. 
 
 ![Shop](/acnhbeginners/assets/day1_shop.jpg)
 {: .center}
@@ -148,9 +152,14 @@ You **cannot** rename your island, so be sure it's something you like!
 
 ## New DIY's and Blathers
 - After you give 2 critters to Tom Nook, he will reward you with the **Flimsy Axe** DIY recipe. This can be used to harvest wood from trees.
-  - *Note:* Branches are different from wood and come from shaking trees, not axing them.
+
+{: .note }
+<span><img src="https://alexislours.github.io/img/MenuIcon/DIYBranch.png" id="inv-icon"></span> Branches are different from <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/MenuIcon/DIYWoodNormal.png" id="inv-icon"></span> wood and come from shaking trees, not axing them.
+
 - After you've given a total of 4 critters to Tom Nook, he will reward you with the **Flimsy Watering Can** DIY recipe. This can be used to water your flowers and help with [flower breeding](https://chibisnorlax.github.io/acnhfaq/island-life/gardening/).
-- Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/#blathers) <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span>. Blathers is the future owner and curator of your island's very own museum!
+
+- Once you've caught 5 critters and given them to Tom Nook, he will get a call from [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/permanent#blathers) <span><img src="https://chibisnorlax.github.io/acnhbeginners/assets/NpcIcon/owl.png" id="inv-icon"></span>. Blathers is the future owner and curator of your island's very own museum!
+
 - Tom Nook will hand you a museum tent kit to place, which is where Blathers will set up his tent. You will not be able to change the museum's location for some time, so place wisely!
 
 ## Pay off your Nook Miles loan
