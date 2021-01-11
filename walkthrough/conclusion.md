@@ -16,7 +16,7 @@ Before reading this please make sure you have completed the tutorial of the game
 [Day 1](https://chibisnorlax.github.io/acnhbeginners/day-1/#day-1)
 
 
-[Day2](https://chibisnorlax.github.io/acnhbeginners/day-2/#day-2)
+[Day 2](https://chibisnorlax.github.io/acnhbeginners/day-2/#day-2)
 
 
 [Day 3](https://chibisnorlax.github.io/acnhbeginners/day-3/#day-3)
