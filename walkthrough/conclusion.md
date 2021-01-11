@@ -91,6 +91,8 @@ You can now upgrade your house to have more rooms! You can get these customizati
 - Left room + Customization of mailbox and roof + 120 storage slots addition
   - Cost: 548,000 Bells
   - Size: New room, 6 x 6
+
+
 {: .note} 
 Customization costs 5,000 Bells!
 
