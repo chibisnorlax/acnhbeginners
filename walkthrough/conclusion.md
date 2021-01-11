@@ -83,8 +83,8 @@ You can do whatever you want with fake art! You are unble to donate it to Blathe
 ## **House upgrades!**
 You can now upgrade your house to have more rooms! You can get these customizations once you have paid the previous loan and then go talk to **Tom Nook** and select the option "About my home". The upgrades are:
 - House size upgrade + 40 storage slots addition
- - Cost: 198,000 Bells
- - Size: 8 x 8 main room
+  - Cost: 198,000 Bells
+  - Size: 8 x 8 main room
 - Back room + 240 storage slots addition
   - Cost: 348,000 Bells
   - Size: New room, 6 x 6
