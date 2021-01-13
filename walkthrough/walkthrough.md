@@ -12,4 +12,4 @@ Welcome to the Animal Crossing: New Horizons tutorial walkthrough! Please use th
 <!-- more stuff here?? no idea what to put though... :thonk: -->
 
 ## Timeline
-![](/acnhbeginners/assets/timeline.png)
+![](/acnhbeginners/assets/timeline.jpg)
