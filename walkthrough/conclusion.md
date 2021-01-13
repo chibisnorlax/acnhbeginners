@@ -74,10 +74,13 @@ You can do whatever you want with fake art! You are unble to donate it to Blathe
 
 
 ## **Nook's Cranny upgrade!**
-- acheivment
-  - how long etc
-- add ons
-  - new stuff whatnot
+After making the Nook's Cranny you can upgrade it! The upgrade is only unlocked 30 days **after** the construction of the Nook's Cranny!
+
+
+- acheivment (nook miles acheivment)
+  - how long etc (30 days)
+- add ons (new things)
+- differences between upgraded and stag 1 nooks cranny
 
 
 ## **House upgrades!**
@@ -106,15 +109,13 @@ Customization costs 5,000 Bells!
 - Basement + 800 storage slots addition
   - Cost: 2,498,000 Bells
   - Size: New floor (downstairs), 10 x 6
-
+- After paying the Basement loan
+  - Free house renovations!
 
 {: .note} 
-You can't continue to the next upgrade **until** you have payed of the upgrade you just got. e.g. You bought the Back room addition and to get the Left room you need to have payed 348,000 Bells!
+You can't continue to the next upgrade **until** you have payed of the upgrade you just got. e.g. You bought the Back room addition and to get the Left room you need to have payed 348,000 Bells! Also note that you do not need to continue to the next upgrade if you do not want to.
 
 
-- Rooms
-  - Sizes
-- Cost etc
 
 {: .note}
 this is in like major editing im looking through it and writing stuff i havent sent a commit on yet lol
