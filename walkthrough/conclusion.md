@@ -74,7 +74,22 @@ You can do whatever you want with fake art! You are unble to donate it to Blathe
 
 
 ## **Nook's Cranny upgrade!**
-After making the Nook's Cranny you can upgrade it! The upgrade is only unlocked 30 days **after** the construction of the Nook's Cranny!
+After making the Nook's Cranny you can upgrade it! To activate the upgrade you need to complete some requirments:
+- Mable needs to have visited as least **once**
+- You need to have spent 200k (200,000) bells at the shop
+- Needs to have been 30 days **since** the building of the Nook's Cranny.
+
+
+Stage 1 Nook's Cranny image
+
+
+Stage 2 Nook's Cranny image
+
+
+### Differences?
+After upgrading the Nook's Cranny this opens up:
+- 3rd spot for housewares/wall-mounted items
+  - These items will be the most expensive ones
 
 
 - acheivment (nook miles acheivment)
