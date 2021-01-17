@@ -65,3 +65,6 @@ Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'l
   <input type="checkbox">
     <label>Invite villagers to live on your island.</label><br>
 </div>
+
+[🢀 Day 3](/acnhbeginners/day-3).{: .btn .btn-red}
+[Day 5-7 🢂](/acnhbeginners/day-5-7).{: .btn .btn-green}

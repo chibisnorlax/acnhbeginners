@@ -187,7 +187,7 @@ You **cannot** rename your island, so be sure it's something you like!
 - Explore your island! Get yourself familiar with it's layout. 
 
 * * *
-# Completed Objectives:
+## Completed Objectives:
 <div>
   <input type="checkbox" checked="yes"/>  
     <label>Met Timmy and Tommy.</label> <br>
@@ -211,4 +211,4 @@ You **cannot** rename your island, so be sure it's something you like!
     <label>Collect bugs and fish for Blathers.</label> <br>
 </div>
 
-Go to: [Day 2](/acnhbeginners/day-2).
+[Day 2 🢂](/acnhbeginners/day-2).{: .btn .btn-green}

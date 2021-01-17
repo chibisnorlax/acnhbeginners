@@ -57,7 +57,7 @@ If you invite a villager they will not move in until you have a free plot for th
 - There might be a villager on the NMT island you visit. If you would like to invite them to live on your island, speak to them and ask them to move in. You are **not required** to invite that villager, though; if you'd rather wait and see who else you meet, feel free to just chat with them or ignore them altogether!
 
 * * *
-# Completed Objectives:
+## Completed Objectives:
 <div>
   <input type="checkbox" checked="yes"/>  
     <label>Activated quest to build Nook's Cranny.</label> <br>
@@ -78,3 +78,6 @@ If you invite a villager they will not move in until you have a free plot for th
   <input type="checkbox">
     <label>Redeem <span><img src="https://alexislours.github.io/img/MenuIcon/BookRecipe.png" id="inv-icon"></span> **Pretty Good Tools Recipes**.</label> <br>
 </div>
+
+[🢀 Day 1](/acnhbeginners/day-1).{: .btn .btn-red}
+[Day 2 🢂](/acnhbeginners/day-3).{: .btn .btn-green}

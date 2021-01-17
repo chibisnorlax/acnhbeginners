@@ -112,7 +112,7 @@ Campers, both random or summoned with an Amiibo, have an exception to the empty 
 <!-- potentially add a "what now?"/conclusion here, or link to a page that is akin to that here -->
 
 * * *
-# Completed Objectives:
+## Completed Objectives:
 <div>
   <input type="checkbox" checked="yes"/>
     <label>Completed the customization workshop.</label> <br>
@@ -127,3 +127,7 @@ Campers, both random or summoned with an Amiibo, have an exception to the empty 
 </div>
 
 ## Optional Objectives:
+None
+
+[🢀 Day 4](/acnhbeginners/day-1).{: .btn .btn-red}
+[Where do I go from here? 🢂](/acnhbeginners/conclusion).{: .btn .btn-green}

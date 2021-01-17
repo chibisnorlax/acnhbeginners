@@ -41,7 +41,7 @@ If you haven't, please see [Day 2](/acnhbeginners/day-2/) for further guidance.
 - Unfortunately, today is not terribly eventful in terms of game progression. We recommend you harvest resources, talk with your villagers, perhaps catch some critters or dig up some fossils to give to Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> once the museum opens up. 
 
 * * *
-# Completed Objectives:
+## Completed Objectives:
 <div>
   <input type="checkbox" checked="yes"/>  
     <label>Completed the quest to build Nook's Cranny.</label> <br>
@@ -54,3 +54,6 @@ If you haven't, please see [Day 2](/acnhbeginners/day-2/) for further guidance.
   <input type="checkbox">
   <label>Collect more artifacts to donate to Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> once the museum is open tomorrow.</label><br>
 </div>
+
+[🢀 Day 2](/acnhbeginners/day-2).{: .btn .btn-red}
+[Day 4 🢂](/acnhbeginners/day-4).{: .btn .btn-green}
