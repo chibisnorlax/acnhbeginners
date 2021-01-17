@@ -129,5 +129,5 @@ Campers, both random or summoned with an Amiibo, have an exception to the empty 
 ## Optional Objectives:
 None
 
-<a href="/acnhbeginners/day-4" class="btn btn-red" role="button">🢀 Day 4</a>
-<a href="/acnhbeginners/conclusion" class="btn btn-green" role="button">Where do I go from here? 🢂</a>
+<a href="/acnhbeginners/day-4" class="btn btn-red" role="button">🡄 Day 4</a>
+<a href="/acnhbeginners/conclusion" class="btn btn-green" role="button">Where do I go from here? 🡆</a>

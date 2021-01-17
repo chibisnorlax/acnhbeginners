@@ -79,5 +79,5 @@ If you invite a villager they will not move in until you have a free plot for th
     <label>Redeem <span><img src="https://alexislours.github.io/img/MenuIcon/BookRecipe.png" id="inv-icon"></span> <b>Pretty Good Tools Recipes</b>.</label> <br>
 </div>
 
-<a href="/acnhbeginners/day-1" class="btn btn-red" role="button">🢀 Day 1</a>
-<a href="/acnhbeginners/day-3" class="btn btn-green" role="button">Day 3 🢂</a>
+<a href="/acnhbeginners/day-1" class="btn btn-red" role="button">🡄 Day 1</a>
+<a href="/acnhbeginners/day-3" class="btn btn-green" role="button">Day 3 🡆</a>

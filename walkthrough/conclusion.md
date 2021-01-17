@@ -141,4 +141,4 @@ Decorate your island! Explore Mystery Islands and visit your friends online! The
 After all this some people like to restart their island! See [here](https://chibisnorlax.github.io/acnhfaq/misc/#how-do-i-restart-my-island) or [here](https://docs.google.com/document/d/1CwRiAezVDkn_jSEfCxW-TaWbAczGDq48SdlnMftP-NM/edit) on how to restart!
 
 
-<a href="/acnhbeginners/day-5-7" class="btn btn-red" role="button">🢀 Day 5-7</a>
+<a href="/acnhbeginners/day-5-7" class="btn btn-red" role="button">🡄 Day 5-7</a>
