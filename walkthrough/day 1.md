@@ -211,4 +211,4 @@ You **cannot** rename your island, so be sure it's something you like!
     <label>Collect bugs and fish for Blathers.</label> <br>
 </div>
 
-[Day 2 🢂](/acnhbeginners/day-2).{: .btn .btn-green}
+<button type="button" name="button" class="btn-green"><a href="/acnhbeginners/day-2">Day 2 🢂</a></button>
