@@ -55,5 +55,5 @@ If you haven't, please see [Day 2](/acnhbeginners/day-2/) for further guidance.
   <label>Collect more artifacts to donate to Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> once the museum is open tomorrow.</label><br>
 </div>
 
-[🢀 Day 2](/acnhbeginners/day-2).{: .btn .btn-red}
-[Day 4 🢂](/acnhbeginners/day-4).{: .btn .btn-green}
+<a href="/acnhbeginners/day-2" class="btn btn-red" role="button">🢀 Day 2</a>
+<a href="/acnhbeginners/day-4" class="btn btn-green" role="button">Day 4 🢂</a>
