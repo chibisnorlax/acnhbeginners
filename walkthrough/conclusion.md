@@ -80,22 +80,25 @@ After making the Nook's Cranny you can upgrade it! To activate the upgrade you n
 - Needs to have been 30 days **since** the building of the Nook's Cranny.
 
 
-Stage 1 Nook's Cranny image
+Stage 1 Nook's Cranny image (inside -- media bg channel and outside -- nexies drive)
 
 
-Stage 2 Nook's Cranny image
+Stage 2 Nook's Cranny image (inside -- will take and outside -- Nexies drive)
 
 
 ### Differences?
 After upgrading the Nook's Cranny this opens up:
-- 3rd spot for housewares/wall-mounted items
-  - These items will be the most expensive ones
+- Third spot for houseware/wall-mounted items is shown with a black tag w/ gold border displayed in the back
+- Seasonal items will be found at teh bottom left corner of the show upon entry
+  - Displayed on a blue square (items will rotate, different color variations will need to be traded for)
+- Cabinet is now to the right upon entry, in front of the counter
 
 
-- acheivment (nook miles acheivment)
-  - how long etc (30 days)
-- add ons (new things)
-- differences between upgraded and stag 1 nooks cranny
+### Nook Miles achievment
+After upgrading the Nook's Cranny you will get a Nook Miles achievment completed! This is called "name" and give you "" Noom Miles.
+
+
+Picture of Nook Miles Achievment -- will take
 
 
 ## **House upgrades!**
@@ -131,6 +134,8 @@ Customization costs 5,000 Bells!
 You can't continue to the next upgrade **until** you have payed of the upgrade you just got. e.g. You bought the Back room addition and to get the Left room you need to have payed 348,000 Bells! Also note that you do not need to continue to the next upgrade if you do not want to.
 
 
+## Now what next?
+Decorate your island! Explore Mystery Islands and visit your friends online! There isn't much else to do but you can continue to make your island look nicer!
 
-{: .note}
-this is in like major editing im looking through it and writing stuff i havent sent a commit on yet lol
+
+After all this some people like to restart their island! See [here](https://chibisnorlax.github.io/acnhfaq/misc/#how-do-i-restart-my-island) or [here](https://docs.google.com/document/d/1CwRiAezVDkn_jSEfCxW-TaWbAczGDq48SdlnMftP-NM/edit) on how to restart!
