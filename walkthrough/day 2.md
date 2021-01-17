@@ -74,9 +74,9 @@ If you invite a villager they will not move in until you have a free plot for th
   <input type="checkbox">  
     <label>Invite a villager to live on your island.</label> <br>
   <input type="checkbox">  
-    <label>Redeem <span><img src="https://alexislours.github.io/img/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span> **Tool Ring: It's Essential!**.</label> <br>
+    <label>Redeem <span><img src="https://alexislours.github.io/img/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span> <b>Tool Ring: It's Essential!</b>.</label> <br>
   <input type="checkbox">
-    <label>Redeem <span><img src="https://alexislours.github.io/img/MenuIcon/BookRecipe.png" id="inv-icon"></span> **Pretty Good Tools Recipes**.</label> <br>
+    <label>Redeem <span><img src="https://alexislours.github.io/img/MenuIcon/BookRecipe.png" id="inv-icon"></span> <b>Pretty Good Tools Recipes</b>.</label> <br>
 </div>
 
 <a href="/acnhbeginners/day-1" class="btn btn-red" role="button">🢀 Day 1</a>
