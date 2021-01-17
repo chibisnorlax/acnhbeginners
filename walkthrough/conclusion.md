@@ -57,8 +57,14 @@ You can do whatever you want with fake art! You are unable to donate it to Blath
 
 ### **My villager gifted me art, is it real?**
 - You can check if it real!
-- The chance of real art from villagers
-- The chance of fake art from villagers
+  - Smug villagers will always gift **fake** scultputures or art peices.
+  - Jocks and Lazy villagers can send any type of art peice or sculputure and it can be **real** or **fake**.
+  - Cranky villagers will only send **real** or **fake sculputures**.
+- Normal, Peppy, Snooty and Uchi (Sistely) personality villagers will **not** gift any type of art! This means all **female** villagers!
+
+
+{: .note}
+The Wild painting is classified as a Sculpture at the moment which means that you can also be gifted this by Cranky villagers!
 
 
 ### **More art information**
