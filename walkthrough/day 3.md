@@ -7,6 +7,10 @@ permalink: day-3/
 ---
 
 # Day 3
+
+![Flavor photo: LeChat chilling](/acnhbeginners/assets/flavorphoto_3.png)
+{: .center}
+
 Welcome to day 3 of the game! You should have completed the following:
 
 - Obtained the Flimsy Shovel and Vaulting Pole DIY recipes
@@ -39,6 +43,8 @@ If you haven't, please see [Day 2](/acnhbeginners/day-2/) for further guidance.
 
 ## What else can I do today?
 - Unfortunately, today is not terribly eventful in terms of game progression. We recommend you harvest resources, talk with your villagers, perhaps catch some critters or dig up some fossils to give to Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> once the museum opens up. 
+
+![Flavor photo: Nours and Lily](/acnhbeginnersguide/assets/flavorphoto_7.jpg)
 
 * * *
 ## Completed Objectives:
