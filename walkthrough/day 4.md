@@ -20,7 +20,7 @@ If you have not, please visit [Day 3](/acnhbeginners/day-3/) for further guidanc
 * * *
 # Tasks
 ## Your first bridge
-![Bridge kit](/acnhbeginnersguide/assets/bridgekit.jpg)
+![Bridge kit](/acnhbeginners/assets/bridgekit.jpg)
 
 - Upon talking to Tom Nook, he will mention his desire to increase the population of the island. This is the beginning of the **3 Plots Quest**. He will then give you a DIY Bridge Kit that you must craft and place. The bridge kit calls for:
 <blockquote>
@@ -37,7 +37,7 @@ Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'l
 - To place it, open your pockets and press <span class="icon-A"></span> on the kit while standing against the stretch of river you'd like it to go across. Note that placing bridges can be fickle, so you might need to try placing it a couple times. You also will have the option to "Imagine it", which will show you a preview of what the bridge will look like when it's built. 
 
 ## New villagers (3 plots quest)
-![Flavor photo: Aria and her villagers](/acnhbeginnersguide/assets/flavorphoto_1.jpg)
+![Flavor photo: Aria and her villagers](/acnhbeginners/assets/flavorphoto_1.jpg)
 
 - After you place the bridge, speak to Tom Nook who will give you three **plots** to place. A plot is a section of land (4x4) that villager houses are built on. These cannot be moved for some time, so choose the plot placement wisely.
 - Additionally, he will give you new DIYs that are required for furnishing the plots, including your very own **ladder**! You can now ascend cliffs and can officially explore every inch of your island.
