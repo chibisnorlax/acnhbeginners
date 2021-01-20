@@ -7,6 +7,10 @@ permalink: day-2/
 ---
 
 # Day 2
+
+![Flavor photo: talking to lolly](/acnhbeginners/assets/flavorphoto_5.jpg)
+{: .center}
+
 Welcome to day 2 of the game! By now, your player has woken up from their sleep, and the game is now synced to **real-time**. You should have completed the following:
 - Placed your tent and your villagers' tents.
 - Paid off your first loan and upgraded to an actual house.
@@ -16,6 +20,8 @@ Welcome to day 2 of the game! By now, your player has woken up from their sleep,
 If you haven't, please visit [Day 1](/acnhbeginners/day-1/) for further guidance.
 
 Additionally, the **airport** is now open.
+
+![Airport](https://i.ibb.co/cL5ndks/DAL-Indoors.png)
 
 * * *
 # Tasks
@@ -46,6 +52,9 @@ Additionally, the **airport** is now open.
 - This quest does not have to be completed in one day. In fact, it may take you awhile to gather all the materials you need. But if you want more, you're in luck, Tom Nook is going to give you a free <span><img src="https://alexislours.github.io/img/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket**, which will allow you to visit a mystery island and gather more materials. 
 
 ## Complete your first Mystery Tour
+
+![Bamboo island](/acnhbeginners/assets/flavorphoto_2.jpg)
+
 - Upon talking to Tom Nook, he should mention something called a <span><img src="https://alexislours.github.io/img/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket** (often abbreviated as NMT), and give you one for free. 
 - Take this to the **airport** and speak with [Orville](https://chibisnorlax.github.io/acnhfaq/npc/permanent#orville-and-wilbur), the dodo bird at the desk. Orville will explain to you what mystery tours are, and offer to take you on one in exchange for one NMT.
 - The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have a villager who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
