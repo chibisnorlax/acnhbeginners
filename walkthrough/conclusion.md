@@ -117,4 +117,4 @@ Beyond the above goals, there is still much to do, but we'll leave it to you to 
 </div>
 
 <a href="/acnhbeginners/day-5-7" class="btn btn-red" role="button"><span class="icon-arw-Left"></span> Day 5-7</a>
-<a href="https://chibisnorlax.github.io/acnhfaq/" class="btn btn-green" role="button">More questions? Check out the FAQ! <span class="icon-arw-Right"></span></a>
+<a href="https://chibisnorlax.github.io/acnhfaq/" class="btn btn-green" target="_blank" role="button">More questions? Check out the FAQ! <span class="icon-arw-Right"></span></a>
