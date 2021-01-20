@@ -7,67 +7,66 @@ permalink: conclusion/
 ---
 
 # Where do I go from here?
-Before reading this please make sure you have completed the tutorial of the game until the point where you have all the buildings! (See [here](https://chibisnorlax.github.io/acnhbeginners/day-1/#day-1) for the beginning of the tutorial for more guidance!) Now, what do you do after completing the tutorial? See below for more things to do!
+{: .note}
+Before reading this section, please make sure you have completed the entire tutorial. To navigate to various sections of the walkthrough, see below.
 
+### Tutorial
+- [Day 1](/acnhbeginners/day-1/)
+- [Day 2](/acnhbeginners/day-2/)
+- [Day 3](/acnhbeginners/day-3/)
+- [Day 4](/acnhbeginners/day-4/)
+- [Day 5-7](/acnhbeginners/day-5-7/)
 
-**Tutorial:**
+You may be wondering to yourself: What do I do now? Where do I go from here? This may be especially true if this is your first Animal Crossing game. AC:NH is a **sandbox game**, which means that beyond the tutorial, the direction of the game is almost entirely up to you. Unfortunately, this can feel overwhelming for some players. Not to worry -- if you find yourself at a loss of direction, are confused, or are simply bored and would like some goals to work toward, this section may help you.
 
+* * *
+## Upgrade Nook's Cranny
+Much like past games, you can upgrade Nook's Cranny to it's larger, more polished version. In order to do this, you must meet the following requirements:
+1. Made at least **200k bells** in total transactions (this includes both buying and selling). 
+2. Mabel must visit at least **once**.
+3. Nook's Cranny must be open for at least **30 days**. 
 
-[Day 1](https://chibisnorlax.github.io/acnhbeginners/day-1/#day-1)
+Once all 3 requirements have been met, the Nooklings will inform you of the shop upgrade.
 
+### What's the difference?
+An upgraded Nook's Cranny unlocks the following:
+- A third slot for houseware/wall-mounted items.
+- Seasonal items are now sold, and appear in the lower left corner of the shop.
+- The cabinet is now to the right upon entry.
 
-[Day 2](https://chibisnorlax.github.io/acnhbeginners/day-2/#day-2)
+**Nook's Cranny base shop:**
+![Nook's Cranny base shop](/acnhbeginners/assets/nookscranny_1.jpg)
 
+**Nook's Cranny upgraded:**
+![Nook's Cranny upgraded](/acnhbeginners/assets/nookscranny_2.png)
 
-[Day 3](https://chibisnorlax.github.io/acnhbeginners/day-3/#day-3)
+* * *
+## Upgrade the Museum (Art Wing)
+The last and final upgrade to the museum installs an **art section**. To unlock the museum upgrade you'll need to donate a total of **60 critters/fossils** to [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/permanent/#blathers). Since you have already donated 20 artifacts in the process of unlocking the museum, you'll need to donate 40 more for a grand total of 60.
 
+See previous days in the tutorial starting [here](/acnhbeginners/day-2/) for further guidance.
 
-[Day 4](https://chibisnorlax.github.io/acnhbeginners/day-4/#day-4)
+### How do I obtain art?
+The next free day after Blathers talks about the art expansion, [Redd](https://chibisnorlax.github.io/acnhfaq/npc/visiting/#redd) the fox will pay you a visit. You can purchase art to donate to the museum from Redd. The first time he visits, he will be wandering around your island. Each subsequent time, you'll be able to board his boat to peruse his selection of art. 
 
+![Redd encounter](/acnhbeginners/assets/reddmeeting.jpg)
 
-[Day 5-7](https://chibisnorlax.github.io/acnhbeginners/day-5-7/#days-5-7)
-## Museum upgrade!
-The last and final upgrade to the museum installs an art section! To unlock the Museum upgrade you need to have donated **60 critters/fossils** to [Blathers](https://chibisnorlax.github.io/acnhfaq/npc/permanent/#blathers) ! That means 20 from the previous stages to build the museum (See previous days in the tutorial starting [here](https://chibisnorlax.github.io/acnhbeginners/day-2/#day-2)) plus 40 more!
+### When will I see Redd again?
+See [here](https://chibisnorlax.github.io/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character) for the NPC schedule.
 
-
-After this Blathers will tell you about upgrading the museum to include an art section!
-
-### **How do I obtain art?**
-- You need to buy art from Redd! See [here](https://chibisnorlax.github.io/acnhfaq/npc/visiting/#redd) for more information on Redd
-- At first, you will find him wandering around your island. His ship will be docked at the secret beach at the back of your island
-- Talk to Redd and he will try and sell you an art piece for 40k bells! He will later drop his price to 4k bells.
-  - You can now take this piece of art to Blathers and donate it to the new section in the museum!
-  
-  
-### **When will I see Redd again?**
-- See [here](https://chibisnorlax.github.io/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character) for the npc schedule!
-
-
-### **Fake art VS real art?**
-- See [here](https://docs.google.com/document/d/1J-pAxNEnqKlpH7YJuUeKVjxVAvsoujQYjQcmQ8q5VCU/edit?usp=sharing) for help on which art is real and which is fake!
-
-
-### **What do I do with fake art?**
-- Gift to your villagers
-- Use as decoration
-
-
-You can do whatever you want with fake art! You are unable to donate it to Blathers though!
-
-
-### **My villager gifted me art, is it real?**
+<!-- Potentially move to FAQ instead of putting this here
+### My villager gifted me art, is it real?
 - You can check if it real!
   - Smug villagers will always gift **fake** scultputures or art peices.
   - Jocks and Lazy villagers can send any type of art peice or sculputure and it can be **real** or **fake**.
   - Cranky villagers will only send **real** or **fake sculputures**.
-- Normal, Peppy, Snooty and Uchi (Sistely) personality villagers will **not** gift any type of art! This means all **female** villagers!
+- Normal, Peppy, Snooty and Uchi (Sistely) personality villagers will **not** gift any type of art! This means all **female** villagers! -->
+
+<!-- {: .note}
+The Wild painting is classified as a Sculpture at the moment which means that you can also be gifted this by Cranky villagers! -->
 
 
-{: .note}
-The Wild painting is classified as a Sculpture at the moment which means that you can also be gifted this by Cranky villagers!
-
-
-### **More art information**
+<!-- ### **More art information**
 - How many art pieces/sculptures/statues are there?
   - There are 30 art pieces and 13 statues/sculptures!
 - Redd's art for sale:
@@ -75,69 +74,47 @@ The Wild painting is classified as a Sculpture at the moment which means that yo
   - You have a 10% chance of having **all the art** that Redd sells in a trip to be **fake**
   - You have a 50% chance to have **1 real piece** of art amongst the 4 Redd is selling in one trip.
   - You have a 30% chance to have **2 real pieces** of art amongst the 4 Redd is selling in one trip.
-  - You have a 10% chance to have **3 out of the 4 pieces of art to be real** in one trip. 
+  - You have a 10% chance to have **3 out of the 4 pieces of art to be real** in one trip. -->
 
-
-
-## **Nook's Cranny upgrade!**
-After making the Nook's Cranny you can upgrade it! To activate the upgrade you need to complete some requirements:
-- Mable needs to have visited as least **once**
-- You need to have spent 200k (200,000) bells at the shop
-- Needs to have been 30 days **since** the building of the Nook's Cranny.
-
-
-Stage 1 Nook's Cranny image (inside -- media bg channel and outside -- nexies drive)
-
-
-Stage 2 Nook's Cranny image (inside -- will take and outside -- Nexies drive)
-
-
-### Differences?
-After upgrading the Nook's Cranny this opens up:
-- Third spot for houseware/wall-mounted items is shown with a black tag w/ gold border displayed in the back
-- Seasonal items will be found at the bottom left corner of the show upon entry
-  - Displayed on a blue square (items will rotate, different colour variations will need to be traded for)
-- Cabinet is now to the right upon entry, in front of the counter
-
-
-## **House upgrades!**
-You can now upgrade your house to have more rooms! You can get these customizations once you have paid the previous loan and then go talk to **Tom Nook** and select the option "About my home". The upgrades are:
-- House size upgrade + 40 storage slots addition
-  - Cost: 198,000 Bells
-  - Size: 8 x 8 main room
-- Backroom + 240 storage slots addition
-  - Cost: 348,000 Bells
-  - Size: New room, 6 x 6
-- Left room + Customization of mailbox and roof + 120 storage slots addition
-  - Cost: 548,000 Bells
-  - Size: New room, 6 x 6
-
+* * *
+## Upgrade your house
+You can now upgrade your house to have more rooms and storage spaces! Additionally, you can unlock various exterior customizations. You can obtain these upgrades once you have paid the previous loan, then talk to **Tom Nook** using the option "About my home". The upgrades can be found [here](https://chibisnorlax.github.io/acnhfaq/unlocks/#house-unlocks).
 
 {: .note} 
-Customization costs 5,000 Bells!
+You can't continue to the next upgrade **until** you have paid off the upgrade you just got. i.e. If you just bought the back room addition, you'll need to pay the 348,000 bell loan off completely in order to get the left room addition. Also note that you do not need to continue to the next upgrade if you do not want to. 
 
-
-- Right room + Customization of doors
-  - Cost: 758,000 Bells
-  - Size: New room, 6 x 6
-- Second floor + Customization options of the side of your house
-  - Cost: 1,248,000 Bells
-  - Size: New floor (upstairs), 10 x 6
-- Basement + 800 storage slots addition
-  - Cost: 2,498,000 Bells
-  - Size: New floor (downstairs), 10 x 6
-- After paying the Basement loan
-  - Free house renovations!
-
-{: .note} 
-You can't continue to the next upgrade **until** you have paid of the upgrade you just got. e.g. You bought the Backroom addition and to get the Left room you need to have paid 348,000 Bells! Also, note that you do not need to continue to the next upgrade if you do not want to.
-
-
-## Now what next?
-Decorate your island! Explore Mystery Islands and visit your friends online! There isn't much else to do but you can continue to make your island look nicer!
-
-
-After all this, some people like to restart their island! See [here](https://chibisnorlax.github.io/acnhfaq/misc/#how-do-i-restart-my-island) or [here](https://docs.google.com/document/d/1CwRiAezVDkn_jSEfCxW-TaWbAczGDq48SdlnMftP-NM/edit) on how to restart!
-
+* * *
+## What next?
+Beyond the above goals, there is still much to do, but we'll leave it to you to decide what is most important. Here are just a few suggestions we've gathered from the community -- feel free to use this as a to-do list! 
+<div>
+  <input type="checkbox">
+  <label>Collect all of the fish/bugs/deep sea critters.</label> <br>
+  <input type="checkbox">
+  <label>Complete the art collection.</label><br>
+  <input type="checkbox">
+  <label>Obtain all of the <a href="https://chibisnorlax.github.io/acnhfaq/unlocks/#golden-tool-unlocks-note-spoilers">golden tools</a>.</label> <br>
+  <input type="checkbox">
+  <label>Obtain a 5-star island rating.</label><br>
+  <input type="checkbox">
+  <label>Obtain all the available fruit in the game.</label><br>
+  <input type="checkbox">
+  <label>Collect all the DIYs.</label><br>
+  <input type="checkbox">
+  <label>Complete your catalogue.</label><br>
+  <input type="checkbox">
+  <label>Complete all the Nook Miles achievements.</label><br>
+  <input type="checkbox">
+  <label>Unlock all of the <a href="https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-reactions">reactions</a>.</label><br>
+  <input type="checkbox">
+  <label>Obtain all the KK songs.</label><br>
+  <input type="checkbox">
+  <label>Design a 50-slot drawing using custom codes.</label><br>
+  <input type="checkbox">
+  <label>Breed all of the possible flower hybrids.</label><br>
+  <input type="checkbox">
+  <label>Contribute to the beginner's guide or the FAQ! :)</label><br>
+  
+  
+</div>
 
 <a href="/acnhbeginners/day-5-7" class="btn btn-red" role="button"><span class="icon-arw-Left"></span> Day 5-7</a>
