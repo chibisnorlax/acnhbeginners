@@ -7,7 +7,6 @@ permalink: day-2/
 ---
 
 # Day 2
-
 Welcome to day 2 of the game! By now, your player has woken up from their sleep, and the game is now synced to **real-time**. You should have completed the following:
 - Placed your tent and your villagers' tents.
 - Paid off your first loan and upgraded to an actual house.
@@ -22,6 +21,9 @@ Additionally, the **airport** is now open.
 # Tasks
 
 ## Visit Blathers
+
+![Blathers welcome](/acnhbeginners/assets/blathersmeeting.jpg)
+
 - Blathers <span><img src="https://alexislours.github.io/img/NpcIcon/owl.png" id="inv-icon"></span> should have set up his tent in the location that you placed it. Go pay him a visit!
 - Upon first speaking with him, he should give you the **Flimsy Shovel** and **Vaulting Pole** DIY recipes. The former can be used to get materials from rocks, dig holes, and uproot tree stumps. The latter can be used to travel across rivers.
 - He will then ask you to donate **15 unique bugs, fish, and/or fossils** to him. You will need to complete this in order for Blathers to upgrade his tent to the full museum building. 
