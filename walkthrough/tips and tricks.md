@@ -35,7 +35,34 @@ Hold <span class="icon-B"></span>, <span class="icon-L"></span> or <span class="
 Having trouble finding Wisp's spirit pieces? Let your character chill out in one spot for a bit -- his spirit pieces should eventually move toward you!
 
 ## How can I tell if I donated X critter to the museum?
-Open up your **Critterpedia**, then find the critter in question. If you have donated it to the museum, it will have a "DONATED" stamp with a little owl symbol next to it.
+Open up your **Critterpedia**, then find the critter in question. If you have donated it to the museum, it will have a "Donated" stamp with a little owl symbol next to it.
+
+![Donated critter](/acnhbeginners/assets/donatedfish.JPG)
+
+## Is there a way to see what fossils I have donated?
+Unfortunately, unlike the critters, there's no way to definitively see which fossils you have donated. That said, if you are the type of player who donates all of the fossils you dig up/assess, you could try checking your **catalogue**! 
 
 ## How do I tell if the critter I just caught is the first one?
 If your character says "Yes!" after they've caught a critter successfully, that means it is the first time you have ever caught that critter.
+
+![New sea critter](/acnhbeginners/assets/seacritter.jpg)
+
+## How do I avoid getting stung by wasps?
+Before shaking trees, make sure you have your net equipped. Next, only shake trees **from the front**. If wasps drop, your character will automatically turn to face them, so all you have to do is press <span class="icon-A"></span> to catch them! Some other alternatives: Run into a nearby building, or use a party popper to scare the wasps away.
+
+{: .note}
+**Fun fact:** There is an achievement called "Netting Better" that yields 1000 Nook Miles the first time you catch five wasps in a row without running away or getting stung.
+
+## How do I catch a sea creature that swims faster than me?
+There are two options, try them both and see which one works best for you!
+- Option 1: Swim above the shadow **without pressing <span class="icon-A"></span>** (just use your joystick), then dive when you are on top of the shadow.
+- Option 2: Chase the sea critter into the net. It will turn around if it has nowhere to go, so make sure to dive once you see it turn around.
+
+## How do I catch scorpions/tarantulas without them biting me?
+The important thing to remember when catching these two bugs is that they give you a warning sign when they are about to attack. They both stop moving, and rear up on their hind legs. When sneaking up on these bugs, make sure you **stop approaching** when they give you the warning sign. You can move toward them when they stop giving the warning signal. Swing your net when you're about 1.5 tiles away from them, and that should result in a succesful catch! 
+
+**Tarantula giving warning sign:**
+![Tarantula giving warning sign](/acnhbeginners/assets/actarantula.jpg)
+
+**Scorpion giving warning sign:**
+![Scorpion giving warning sign](/acnhbeginners/assets/acscorpion.png)
