@@ -10,7 +10,7 @@ permalink: tips-and-tricks/
 There may be some questions you have that aren't covered in the walkthrough itself. Hopefully we answer them here, but if not, check out the [FAQ](https://chibisnorlax.github.io/acnhfaq/)! 
 
 ## How do I get more bells?
-1. Play the stalk market: buy turnips at a low price and sell them high (see https://chibisnorlax.github.io/acnhfaq/island-life/turnips/).
+1. Play the stalk market: buy turnips at a low price and sell them high (see <https://chibisnorlax.github.io/acnhfaq/island-life/turnips/>).
 2. Dive and catch sea creatures to sell back to Nook's Cranny.
 3. Grow stuff (fruits, flowers, pumpkins, etc) and sell to Nook's Cranny.
 4. If you have a Nintendo Switch Online subscription, trade with other players for various items.
