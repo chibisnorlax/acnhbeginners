@@ -47,6 +47,10 @@ If your character says "Yes!" after they've caught a critter successfully, that 
 
 ![New sea critter](/acnhbeginners/assets/seacritter.jpg)
 
+## I'm having trouble catching fish. Tips?
+- Turn your volume up and fish by sound. When fish bite (rather than nibble), there is a louder splashing noise that is often easier to detect by ear rather than waiting for the visual cue of the bobber sinking.
+- Sometimes the issue isn't you, instead it's an issue of delayed audio/video. In this case, all you can do is predict the bite, go off of **rumble**, or fish with your Switch undocked.
+
 ## How do I avoid getting stung by wasps?
 Before shaking trees, make sure you have your net equipped. Next, only shake trees **from the front**. If wasps drop, your character will automatically turn to face them, so all you have to do is press <span class="icon-A"></span> to catch them! Some other alternatives: Run into a nearby building, or use a party popper to scare the wasps away.
 
