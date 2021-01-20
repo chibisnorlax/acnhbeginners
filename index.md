@@ -11,7 +11,7 @@ ver. 1.0.0
 
 Welcome to the unofficial Animal Crossing: New Horizons beginner's guide! This page serves as a walkthrough the first few days of the game, as well as provides some tips and tricks for new players. This walkthrough is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-This guide is current through version 1.6.0c of the game.
+This guide is current through version `1.6.0c` of the game.
 
 ## Terminology
 
@@ -36,5 +36,5 @@ This guide also would not have been possible without the extraordinary work of t
 
 Custom icons and assets by Melon (<https://twitter.com/54_Melon>).
 
-Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhfaq/pulls) if you would like to request changes to the document! 
+Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhbeginners/pulls) if you would like to request changes to the document! 
 
