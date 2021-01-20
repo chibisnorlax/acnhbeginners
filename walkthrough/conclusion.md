@@ -7,6 +7,7 @@ permalink: conclusion/
 ---
 
 # Where do I go from here?
+
 {: .note}
 Before reading this section, please make sure you have completed the entire tutorial. To navigate to various sections of the walkthrough, see below.
 
