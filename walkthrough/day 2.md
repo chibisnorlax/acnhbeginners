@@ -21,7 +21,7 @@ If you haven't, please visit [Day 1](/acnhbeginners/day-1/) for further guidance
 
 Additionally, the **airport** is now open.
 
-![Airport](https://i.ibb.co/cL5ndks/DAL-Indoors.png)
+![Airport](/acnhbeginners/assets/dal-indoors.png)
 
 * * *
 # Tasks
