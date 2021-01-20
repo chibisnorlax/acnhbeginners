@@ -89,33 +89,31 @@ You can't continue to the next upgrade **until** you have paid off the upgrade y
 Beyond the above goals, there is still much to do, but we'll leave it to you to decide what is most important. Here are just a few suggestions we've gathered from the community -- feel free to use this as a to-do list! 
 <div>
   <input type="checkbox">
-  <label>Collect all of the fish/bugs/deep sea critters.</label> <br>
+    <label>Collect all of the fish/bugs/deep sea critters.</label> <br>
   <input type="checkbox">
-  <label>Complete the art collection.</label><br>
+    <label>Complete the art collection.</label><br>
   <input type="checkbox">
-  <label>Obtain all of the <a href="https://chibisnorlax.github.io/acnhfaq/unlocks/#golden-tool-unlocks-note-spoilers">golden tools</a>.</label> <br>
+    <label>Obtain all of the <a href="https://chibisnorlax.github.io/acnhfaq/unlocks/#golden-tool-unlocks-note-spoilers">golden tools</a>.</label> <br>
   <input type="checkbox">
-  <label>Obtain a 5-star island rating.</label><br>
+    <label>Obtain a 5-star island rating.</label><br>
   <input type="checkbox">
-  <label>Obtain all the available fruit in the game.</label><br>
+    <label>Obtain all the available fruit in the game.</label><br>
   <input type="checkbox">
-  <label>Collect all the DIYs.</label><br>
+    <label>Collect all the DIYs.</label><br>
   <input type="checkbox">
-  <label>Complete your catalogue.</label><br>
+    <label>Complete your catalogue.</label><br>
   <input type="checkbox">
-  <label>Complete all the Nook Miles achievements.</label><br>
+    <label>Complete all the Nook Miles achievements.</label><br>
   <input type="checkbox">
-  <label>Unlock all of the <a href="https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-reactions">reactions</a>.</label><br>
+    <label>Unlock all of the <a href="https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-reactions">reactions</a>.</label><br>
   <input type="checkbox">
-  <label>Obtain all the KK songs.</label><br>
+    <label>Obtain all the KK songs.</label><br>
   <input type="checkbox">
-  <label>Design a 50-slot drawing using custom codes.</label><br>
+    <label>Design a 50-slot drawing using custom codes.</label><br>
   <input type="checkbox">
-  <label>Breed all of the possible flower hybrids.</label><br>
+    <label>Breed all of the possible flower hybrids.</label><br>
   <input type="checkbox">
-  <label>Contribute to the beginner's guide or the FAQ! :)</label><br>
-  
-  
+    <label>Contribute to the beginner's guide or the FAQ! :)</label><br>
 </div>
 
 <a href="/acnhbeginners/day-5-7" class="btn btn-red" role="button"><span class="icon-arw-Left"></span> Day 5-7</a>
