@@ -7,8 +7,13 @@ permalink: day-4/
 ---
 
 # Day 4
+
+![Museum exhibit](/acnhbeginners/assets/butterflyexhibit.JPG)
+{: .center}
+
 Welcome to day 4 of the game; today is going to be exciting! Before continuing on, please make sure you have completed the following:
 - Completed Nook's Cranny quest (it should be fully built by today)
+- Museum fully built
 
 If you have not, please visit [Day 3](/acnhbeginners/day-3/) for further guidance.
 
