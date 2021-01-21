@@ -7,14 +7,21 @@ permalink: day-4/
 ---
 
 # Day 4
+
+![Museum exhibit](/acnhbeginners/assets/butterflyexhibit.JPG)
+{: .center}
+
 Welcome to day 4 of the game; today is going to be exciting! Before continuing on, please make sure you have completed the following:
 - Completed Nook's Cranny quest (it should be fully built by today)
+- Museum fully built
 
 If you have not, please visit [Day 3](/acnhbeginners/day-3/) for further guidance.
 
 * * *
 # Tasks
 ## Your first bridge
+![Bridge kit](/acnhbeginners/assets/bridgekit.jpg)
+
 - Upon talking to Tom Nook, he will mention his desire to increase the population of the island. This is the beginning of the **3 Plots Quest**. He will then give you a DIY Bridge Kit that you must craft and place. The bridge kit calls for:
 <blockquote>
   <ul>
@@ -30,6 +37,8 @@ Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'l
 - To place it, open your pockets and press <span class="icon-A"></span> on the kit while standing against the stretch of river you'd like it to go across. Note that placing bridges can be fickle, so you might need to try placing it a couple times. You also will have the option to "Imagine it", which will show you a preview of what the bridge will look like when it's built. 
 
 ## New villagers (3 plots quest)
+![Flavor photo: Aria and her villagers](/acnhbeginners/assets/flavorphoto_1.jpg)
+
 - After you place the bridge, speak to Tom Nook who will give you three **plots** to place. A plot is a section of land (4x4) that villager houses are built on. These cannot be moved for some time, so choose the plot placement wisely.
 - Additionally, he will give you new DIYs that are required for furnishing the plots, including your very own **ladder**! You can now ascend cliffs and can officially explore every inch of your island.
 
@@ -42,6 +51,8 @@ Log Stakes are a DIY recipe Tom Nook added automatically to your DIY list, you'l
 - Upon completion of the plots, talking to Tom Nook will prompt him to give you some <span><img src="https://alexislours.github.io/img/MenuIcon/Fence.png" id="inv-icon"></span> **fencing** which can be used as decoration. You can also now trade in Nook Miles for different types of <span><img src="https://alexislours.github.io/img/MenuIcon/DIYRecipeFence.png" id="inv-icon"></span> fencing recipes in the Nook Stop.
 
 ## What else can I do today?
+![Flavor photo: Erik and Wolfgang having a drink](/acnhbeginners/assets/flavorphoto_6.jpg)
+
 - Nook's Cranny and the museum should both be officially open! Swing by to check out what the Nooklings are selling, and head to the museum to see the things you've donated so far.
 - [Mabel](https://chibisnorlax.github.io/acnhfaq/npc/#mabel) <span><img src="https://alexislours.github.io/img/NpcIcon/hgh.png" id="inv-icon"></span> will introduce herself when you enter Nook's Cranny for the first time. She is one of the owners of the Able Sisters' tailor shop, where your character can buy new clothes. Visit [here](/acnhbeginners/day-5-7/#able-sisters) to see how to unlock the Able Sisters. 
 - You can also invite villagers to come live in your plots, if you haven't done so already. Just use a <span><img src="https://alexislours.github.io/img/MenuIcon/PlaneTicket.png" id="inv-icon"></span> **Nook Miles Ticket** to find a villager.
