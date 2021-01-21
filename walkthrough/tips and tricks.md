@@ -22,7 +22,7 @@ Unfortunately the only true way to get more Nook Miles is to do the Nook Miles a
 
 ## How do I get more iron nuggets/stone/clay/gold nuggets?
 - Visit Nook Miles Ticket islands (mystery tours). These islands always have rocks you can hit for materials, and have a higher chance of dropping **iron nuggets**. This is especially helpful when you are building Nook's Cranny.
-- Wait for the rocks' respawn (everyday at 5 am) and extract the most materials from each rock by following this guide: https://chibisnorlax.github.io/acnhfaq/island-life/#how-can-i-get-8-hits-from-a-rock
+- Wait for the rocks' respawn (everyday at 5 am) and extract the most materials from each rock by following this guide: <https://chibisnorlax.github.io/acnhfaq/island-life/#how-can-i-get-8-hits-from-a-rock>
 - Trade with other players if you have a Nintendo Switch Online subscription.
 
 ## Can I speed up crafting?
