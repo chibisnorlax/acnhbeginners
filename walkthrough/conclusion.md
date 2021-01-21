@@ -93,7 +93,7 @@ Beyond the above goals, there is still much to do, but we'll leave it to you to 
   <input type="checkbox">
     <label>Complete the art collection.</label><br>
   <input type="checkbox">
-    <label>Obtain all of the <a href="https://chibisnorlax.github.io/acnhfaq/unlocks/#golden-tool-unlocks-note-spoilers">golden tools</a>.</label> <br>
+    <label>Obtain all of the <a href="https://chibisnorlax.github.io/acnhfaq/unlocks/#golden-tool-unlocks-note-spoilers" target="_blank">golden tools</a>.</label> <br>
   <input type="checkbox">
     <label>Obtain a 5-star island rating.</label><br>
   <input type="checkbox">
@@ -105,7 +105,7 @@ Beyond the above goals, there is still much to do, but we'll leave it to you to 
   <input type="checkbox">
     <label>Complete all the Nook Miles achievements.</label><br>
   <input type="checkbox">
-    <label>Unlock all of the <a href="https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-reactions">reactions</a>.</label><br>
+    <label>Unlock all of the <a href="https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-reactions" target="_blank">reactions</a>.</label><br>
   <input type="checkbox">
     <label>Obtain all the KK songs.</label><br>
   <input type="checkbox">
@@ -117,4 +117,4 @@ Beyond the above goals, there is still much to do, but we'll leave it to you to 
 </div>
 
 <a href="/acnhbeginners/day-5-7" class="btn btn-red" role="button"><span class="icon-arw-Left"></span> Day 5-7</a>
-<a href="https://chibisnorlax.github.io/acnhfaq/" class="btn btn-green" role="button">More questions? Check out the FAQ! <span class="icon-arw-Right"></span></a>
+<a href="https://chibisnorlax.github.io/acnhfaq/" class="btn btn-green" role="button" target="_blank">More questions? Check out the FAQ! <span class="icon-arw-Right"></span></a>
