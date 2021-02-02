@@ -11,7 +11,7 @@ ver. 1.0.0
 
 Welcome to the unofficial Animal Crossing: New Horizons beginner's guide! This page serves as a walkthrough the first few days of the game, as well as provides some tips and tricks for new players. This walkthrough is a fan-made page and claims no affiliation with or ownership of any intellectual property associated with Nintendo or Animal Crossing.
 
-This guide is current through version `1.6.0c` of the game.
+This guide is current through version <span class="label label-purple">1.7.0</span> of the game.
 
 ## Terminology
 
