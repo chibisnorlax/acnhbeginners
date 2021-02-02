@@ -30,7 +30,7 @@ Harv's island is also where you obtain **villager and special character posters*
 
 ## Able Sisters
 - You may notice with the opening of Nook's Cranny that Mabel <span><img src="https://alexislours.github.io/img/NpcIcon/hgh.png" id="inv-icon"></span> now visits every so often.
-- To get Mabel to propose opening the Able Sisters shop on your island, buy **at least one item** from her each time she visits, over a total of 3 visits. The third time you purchase, she will ask you about opening up shop on your island.
+- To get Mabel to propose opening the Able Sisters shop on your island, buy **at least one item** from her each time she visits, over a total of 2 visits. On her third visit, she will ask you about opening up shop on your island.
 - For more info on Mable, visit [here](https://chibisnorlax.github.io/acnhfaq/npc/#mabel). <!-- does this link ACTUALLY tell you more info? no. but it looks fancy, so. -->
 
 ## Upgraded Resident Services and Isabelle
