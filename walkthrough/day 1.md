@@ -145,7 +145,7 @@ You **cannot** rename your island, so be sure it's something you like!
   - See a fish shadow in the water? Grab your fishing rod! When on the edge of the water, press <span class="icon-A"></span> to cast your line. The fish will nibble at your lure 0-5 times, which will emit a weak vibration<sup><span class="icon-Ex"></span></sup> and soft splashing noises. When you feel a stronger vibration<sup><span class="icon-Ex"></span></sup>, hear a louder, snappier splash (a "ker-plunk" noise), and see the lure sink beneath the water's surface, press <span class="icon-A"></span> again to reel in your fish. Be fast! Some fish require a quick reaction time to reel in, otherwise they will swim away.
   - Make sure you cast your line where the fish can see it, otherwise they will not notice your lure. You can cast and recast your line, just make sure you don't reel it in after they notice it or they will get scared off. 
 
-<sup><span class="icon-Ex"></span></sup> Note: Vibration not applicable on Switches Lite.
+<sup><span class="icon-Ex"></span></sup> Note: Vibration not applicable on Switch Lite.
 
 ![Critter](/acnhbeginners/assets/day1_critter.jpg)
 {: .center}
