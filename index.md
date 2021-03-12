@@ -13,7 +13,7 @@ Welcome to the unofficial Animal Crossing: New Horizons beginner's guide! This p
 
 This guide is current through version <span class="label label-purple">1.8.0</span> of the game.
 
-Feel free to join the ACNH Info Discord server, where you can keep up to date with the latest game information: https://discord.gg/nCWN8F4DuS
+Feel free to join the ACNH Info Discord server, where you can keep up to date with the latest game information: <https://discord.gg/nCWN8F4DuS>
 
 ## Terminology
 
