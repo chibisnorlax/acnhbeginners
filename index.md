@@ -13,7 +13,7 @@ Welcome to the unofficial Animal Crossing: New Horizons beginner's guide! This p
 
 This guide is current through version <span class="label label-purple">1.8.0</span> of the game.
 
-Feel free to join the ACNH Info Discord server, where you can keep up to date with the latest game information: <https://discord.gg/nCWN8F4DuS>
+Feel free to join the ACNH Info Discord server, where you can keep up to date with the latest game news and information: <https://discord.gg/nCWN8F4DuS>
 
 ## Terminology
 
@@ -38,5 +38,5 @@ This guide also would not have been possible without the extraordinary work of t
 
 Custom icons and assets by Melon (<https://twitter.com/54_Melon>).
 
-Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhbeginners/pulls) if you would like to request changes to the document! 
+Please contact littlesnorlax#1717 on Discord or submit a [PR](https://github.com/chibisnorlax/acnhbeginners/pulls) if you would like to request changes to the document, or request usage within other applications or websites! 
 
