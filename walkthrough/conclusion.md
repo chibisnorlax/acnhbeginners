@@ -47,10 +47,16 @@ The last and final upgrade to the museum installs an **art section**. To unlock 
 
 See previous days in the tutorial starting [here](/acnhbeginners/day-2/) for further guidance.
 
+{: .note}
+As of the `2.0.0` update, players who opened their museum **after** this update was released will automatically have the upgraded version, and DO NOT have to donate 60 things for it to upgrade.
+
 ### How do I obtain art?
 The next free day after Blathers talks about the art expansion, [Redd](https://chibisnorlax.github.io/acnhfaq/npc/visiting/#redd) the fox will pay you a visit. You can purchase art to donate to the museum from Redd. The first time he visits, he will be wandering around your island. Each subsequent time, you'll be able to board his boat to peruse his selection of art. 
 
 ![Redd encounter](/acnhbeginners/assets/reddmeeting.jpg)
+
+{: .note}
+Per the previous note, players who automatically get the art expansion will see Redd after opening the museum, and he will let you onto his boat on his first visit. The player will not have to buy his painting in order to board his boat on subsequent visits.
 
 ### When will I see Redd again?
 See [here](https://chibisnorlax.github.io/acnhfaq/npc/visiting/#how-often-does-x-visit-how-do-i-unlock-x-character) for the NPC schedule.
