@@ -60,7 +60,7 @@ Additionally, the **airport** is now open.
 - The mystery islands are fantastic for resource gathering and critter-catching. Additionally, the island may also have a villager who you can talk to and invite to live with you. For more info on mystery islands, visit [here](https://chibisnorlax.github.io/acnhfaq/island-life/#what-are-the-different-mystery-islands-and-what-can-i-find-on-them). 
 
 {: .note}
-If you invite a villager they will not move in until you have a free plot for them which you can find information about later in this guide ([here](https://chibisnorlax.github.io/acnhbeginners/walkthrough/day-4/#new-villagers-3-plots-quest))
+If you invite a villager they will not move in until you have a free plot for them which you can find information about later in this guide ([here](https://chibisnorlax.github.io/acnhbeginners/day-4/#new-villagers-3-plots-quest))
 
 ## What else can I do today?
 - Since you unlocked the Nook Stop today, it may be a good idea to redeem the <span><img src="https://alexislours.github.io/img/MenuIcon/HowtoBookExpansion.png" id="inv-icon"></span> **Tool Ring: It's Essential!** upgrade, which lets you quickly access your tools by using the D-Pad on your Switch.
